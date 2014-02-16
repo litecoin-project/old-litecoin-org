@@ -44,6 +44,7 @@
 #     "Helping"
 #   end
 # end
+activate :i18n, :langs => [:en, :fr, :es, :pt, :it, :de, :nl, :el, :ru, :zh_HANS, :zh_HANT, :ja]
 
 set :css_dir, 'stylesheets'
 
