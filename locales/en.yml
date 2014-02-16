@@ -16,35 +16,34 @@ en:
    upgrade_notes: "Upgrade Notes..."
   community:
     title: "Community"
-    body_html: "<h2>Find support across a growing number of Litecoin communities:
+    body_html: "Find support across a growing number of Litecoin communities:
                     <ul>
                         <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Litecoin Forums</a></li>
                         <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Reddit Litecoin</a></li>
                         <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">Search for Users on Twitter<a/></li>
                         <li>IRC FreeNode network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>
-                    </ul>
-                </h2>"
+                    </ul>"
   resources:
     title: "Resources"
-    body_html: "<h2>
-                              Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
+    body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
                               <p/>
                               Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoin Block Explorer Charts</a>.
                               <p/>
-                              Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub</a>.
-                          </h2>"
+                              Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub</a>."
   free_oss:
-    title: "free_oss"
-    body_html: "<strong>Bite me</strong>"
+    title: "Free, open-source software"
+    body_html: "Litecoin is a free software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
   blockchain:
-    title: "blockchain"
-    body_html: "<strong>Bite me</strong>"
+    title: "Blockchain"
+    body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. <p/>As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
   wallet_enc:
-    title: "wallet_enc"
-    body_html: "<strong>Bite me</strong>"
+    title: "Wallet Encryption"
+    body_html: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins. <p/>This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
   mining_reward:
-    title: "mining_reward"
-    body_html: "<strong>Bite me</strong>"
+    title: "Mining Reward"
+    body_html: "Miners are currently awarded with 50 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). 
+                              <p/>
+                              The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
   contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>"
   footer:
     copyright: "Copyright &copy; 2013 Litecoin Project. All rights reserved."

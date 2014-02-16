@@ -118,17 +118,10 @@
                       <a class="GPG" href="http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0xC37E4723969276F5" target="_blank"><div class="GPG-text">GPG Public Key</div></a>
                   </div>
                 
-                
-
-                
-
-                
                       <p style="text-align:center;clear:both;">
-                          <a href="http://blog.litecoin.org/2014/01/litecoin-0862-release-notes.html" target="_blank">Release Notes...</a>
-                          <a href="https://litecoin.info/Upgrading_Litecoin" target="_blank">Upgrade Notes...</a>
+                          <a href="http://blog.litecoin.org/2014/01/litecoin-0862-release-notes.html" target="_blank"><%= t 'download.release_notes' %></a>
+                          <a href="https://litecoin.info/Upgrading_Litecoin" target="_blank"><%= t 'download.upgrade_notes' %></a>
                       </p>
-                
-
 
               </div>
 
@@ -136,53 +129,35 @@
                   <div class="first-column">
                       <span class="icon"><img src="/images/icons/community.png" alt=""/></span>
                       <h1><%= t 'community.title' %></h1>
-                      <%= t 'community.body_html' %>
+                      <h2><%= t 'community.body_html' %></h2>
                   </div>
                   <div class="second-column">
                       <span class="icon"><img src="/images/icons/resources.png" alt=""/></span>
-                      <h1>Resources</h1>
-                      <%= t 'resources.body_html' %>
+                      <h1><%= t 'resources.title' %></h1>
+                      <h2><%= t 'resources.body_html' %></h2>
                   </div>
                   <div class="third-column">
                       <span class="icon"><img src="/images/icons/opensource.png" alt=""/></span>
-                    
-                          <h1>Free, open-source software</h1>
-                          <h2>
-                              Litecoin is a free software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code.
-                          </h2>
-                    
+                      <h1><%= t 'free_oss.title' %></h1>
+                      <h2><%= t 'free_oss.body_html' %></h2>
                   </div>
               </div>
               <div class="features">
                   <div class="first-column">
                       <span class="icon"><img src="/images/icons/blockchain.png" alt=""/></span>
-                    
-                          <h1>Blockchain</h1>
-                          <h2>
-                              The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. <p/>As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items.
-                          </h2>
-                    
+                          <h1><%= t 'blockchain.title' %></h1>
+                          <h2><%= t 'blockchain.body_html' %></h2>
                   </div>
 
                   <div class="second-column">
                       <span class="icon"><img src="/images/icons/lock.png" alt=""/></span>
-                    
-                          <h1>Wallet Encryption</h1>
-                          <h2>
-                              Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins. <p/>This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments.
-                          </h2>
-                    
+                          <h1><%= t 'wallet_enc.title' %></h1>
+                          <h2><%= t 'wallet_enc.body_html' %></h2>
                   </div>
                   <div class="third-column">
                       <span class="icon"><img src="/images/icons/rewards.png" alt=""/></span>
-                    
-                          <h1>Mining Reward</h1>
-                          <h2>
-                              Miners are currently awarded with 50 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). 
-                              <p/>
-                              The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin.
-                          </h2>
-                    
+                          <h1><%= t 'mining_reward.title' %></h1>
+                          <h2><%= t 'mining_reward.body_html' %></h2>
                   </div>
               </div>
           </div>
