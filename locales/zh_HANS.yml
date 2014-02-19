@@ -1,0 +1,55 @@
+---
+zh_HANS:
+  head:
+    title: "Litecoin - 开源P2P电子货币"
+  intro:
+    title: "什么是Litecoin？"
+    body_p1: "Litecoin(中文译名：莱特币)是一种基于“点对点”(peer-to-peer)技术的网络货币，它可以帮助您即时付款给世界上任何一个人。它基于比特币(Bitcoin)协议，但不同于比特币的地方在于，通过消费级的硬件也可以高效地“挖矿”。Litecoin提供给您更快速的交易确认（平均2.5分钟），它使用硬内存以及基于scrypt(一种加密算法)的挖矿工作量证明算法，面向大多数人使用的普通计算机及图形处理器(GPU)。Litecoin网络预期将生产8400万个货币单位。"
+    body_p2: "Litecoin的设计目的之一是提供一种挖掘算法，使它能够在挖掘比特币的机器上被同时运行。为挖掘比特币而设计的专用集成电路(ASIC)逐渐兴起的同时，Litecoin也紧跟着技术演变。但在Litecoin货币被广泛应用之前，不太可能会出现专门为Litecoin设计的专用集成电路(ASIC)。"
+  download:
+   title: "下载"
+   for_windows: "供Windows使用"
+   for_linux:   "供GNU/Linux使用"
+   for_osx:     "供Mac OS X使用"
+   source_on_github: "登录GitHub，获取Litecoin的源代码及相关项目。"
+   release_notes: "Release Notes..."
+   upgrade_notes: "Upgrade Notes..."
+  community:
+    title: "社区"
+    body_html: "您可以从很多日益壮大的Litecoin社区中寻求技术支持，例如：
+                <ul>
+                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Litecoin论坛</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Litecoin交易社区</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">搜索Twitter上的用户</a></li>
+                    <li>加入<a href=\"http://freenode.net/\" target=\"_blank\" rel=\"nofollow\">IRC FreeNode</a>网络频道<a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a>(面向普通用户)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a>(面向开发者)</li>
+                </ul>"
+  resources:
+    title: "资源"
+    body_html: "查看<a href=\"http://litecoin.info\" target=\"_blank\">Litecoin维基</a>，可以获取Litecoin的相关信息，以及查看所有支持Litecoin的网站列表以及交易市场。
+                <p/>
+                查看<a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoin交易图表</a>，获取最新的网上交易数据。
+                <p/>
+                访问<a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub.com/litecoin-project</a>，获取Litecoin的源代码及相关项目。"
+  free_oss:
+    title: "免费开源软件"
+    body_html: "Litecoin是一款在MIT/X11许可下发布的免费软件项目，它让您能够根据自己的需要对软件进行运行、修改和复制。如果你愿意，你也可以发行软件的修改版本。
+                <p/>
+                该软件以完全透明的形式发布，用户可以对二进制版本以及对应源代码进行独立验证。"
+  blockchain:
+    title: "数据块链"
+    body_html: "Litecoin块链与其竞争对手——比特币比起来，能够处理更大的交易量。由于数据块的生成更加频繁，该网络可以支持更多的交易，并且无需在将来修改软件。
+                <p/>
+                因此，商家可以获得更快的交易确认，而且在销售大额商品时依然能够等待更多的交易确认。"
+  wallet_enc:
+    title: "钱包加密"
+    body_html: "钱包加密能够保证您钱包中私钥的安全，从而让您可以查看交易情况及账户余额，但是您在使用litecoin之前必须输入密码。
+                <p/>
+                该功能不仅能够防止病毒及木马的侵扰，同时还是付款前的一项有效的合法性检查。"
+  mining_reward:
+    title: "奖励"
+    body_html: "“矿工们”起初每数据块可以产出50个币。每4年，生产的货币量将减少一半(840000个数据块)。
+                <p/>
+                因此，Litecoin网络生产的货币总量将大约是比特币的4倍，即8400万个litecoin。"
+  contact_blurb_html: "您可以通过<a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>联系Litecoin的开发团队。"
+  footer:
+    copyright: "&copy; 2013 Litecoin开发者版权所有，并保留所有权利。"
