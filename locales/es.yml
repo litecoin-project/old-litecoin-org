@@ -11,7 +11,7 @@ es:
    for_windows: "para Windows"
    for_linux:   "para GNU/Linux"
    for_osx:     "para Mac OS X"
-   source_on_github: "Los códigos fuente disponibles en GitHub"
+   source_on_github: "Los códigos fuente disponibles <br/> en GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:

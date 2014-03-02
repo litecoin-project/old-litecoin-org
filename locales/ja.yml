@@ -11,7 +11,7 @@ ja:
    for_windows: "Windows用"
    for_linux:   "GNU/Linux用"
    for_osx:     "Mac OS X用"
-   source_on_github: "itHub上のLitecoin-Qtソースコード"
+   source_on_github: "itHub上のLitecoin-Qt <br/>  ソースコード"
    release_notes: "更新履歴..."
    upgrade_notes: "アップグレードについてお知らせ..."
   community:

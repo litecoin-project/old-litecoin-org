@@ -11,7 +11,7 @@ fr:
    for_windows: "pour Windows"
    for_linux:   "pour GNU/Linux"
    for_osx:     "pour Mac OS X"
-   source_on_github: "Code source de Litecoin-Qt sur GitHub"
+   source_on_github: "Code source de Litecoin-Qt <br/> sur GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:

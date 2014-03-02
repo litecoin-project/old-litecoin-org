@@ -11,7 +11,7 @@ nl:
    for_windows: "voor Windows"
    for_linux:   "voor GNU/Linux"
    for_osx:     "voor Mac OS X"
-   source_on_github: "Litecoin-Qt broncode voor GitHub"
+   source_on_github: "Litecoin-Qt broncode <br/> voor GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:

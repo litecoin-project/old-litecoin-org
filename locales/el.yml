@@ -11,7 +11,7 @@ el:
    for_windows: "για Windows"
    for_linux:   "για GNU/Linux"
    for_osx:     "για Mac OS X"
-   source_on_github: "Litecoin-Qt πηγαίος κώδικας στο GitHub"
+   source_on_github: "Litecoin-Qt πηγαίος κώδικας <br/> στο GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:

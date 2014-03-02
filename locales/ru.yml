@@ -15,7 +15,7 @@ ru:
    for_windows: "для Windows"
    for_linux:   "для GNU/Linux"
    for_osx:     "для Mac OS X"
-   source_on_github: "Исходный код Litecoin-Qt на GitHub"
+   source_on_github: "Исходный код Litecoin-Qt <br/> на GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:
