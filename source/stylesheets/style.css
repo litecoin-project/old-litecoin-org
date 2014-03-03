@@ -279,6 +279,7 @@ a.download-line-link {
 .download-git-padding {
 	padding-top: 4px;
 	padding-bottom: 4px;
+	height: 63px;
 }
 
 a.GPG {
