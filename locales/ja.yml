@@ -18,18 +18,18 @@ ja:
     title: "コミュニティ"
     body_html: "随時拡大中のコミュニティーからサポートを受ける事ができます
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Litecoinフォーラム</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Litecoin Redditコミュニティ</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">Twitterでユーザーを検索<a/></li>
-                    <li>IRCのFreeNodeネットワークチャンネル <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> （一般ユーザー向け）・ <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a>（開発者向け）</li>                                
+                    <li><a href=\"http://forum.litecoin.net\">Litecoinフォーラム</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin Redditコミュニティ</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">Twitterでユーザーを検索</a></li>
+                    <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRCのFreeNode</a>ネットワークチャンネル <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> （一般ユーザー向け）・ <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>（開発者向け）</li>                                
                 </ul>"
   resources:
     title: "リソース"
-    body_html: "Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>で見つけることができます。
+    body_html: "Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href=\"http://litecoin.info\">Litecoin Wiki</a>で見つけることができます。
                 <p/>
-                最新のネットワーク統計は、<a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoinブロックエクスプローラーチャート</a>で見ることができます。
+                最新のネットワーク統計は、<a href=\"http://ltc.block-explorer.com/charts\">Litecoinブロックエクスプローラーチャート</a>で見ることができます。
                 <p/>
-                <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。"
+                <a href=\"https://github.com/litecoin-project\">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。"
   free_oss:
     title: "フリーオープンソースソフトウェア"
     body_html: "LitecoinはMIT/X11ライセンスの下で公開されているフリーソフトウェアです。ライセンスによって、ソフトウェアの実行、変更、複製および任意に変更されたソフトウェアの複製を配布することができます。ソフトウェアはバイナリと対応するソースコードを独立検証できる明白なプロセスを通じて配布されます。"
@@ -48,6 +48,6 @@ ja:
     body_html: "採掘者は1ブロック発掘するごとに50コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと)
                 <p/>
                 したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
-  contact_blurb_html: "Litecoin開発チームへのお問い合わせは<a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>まで。"
+  contact_blurb_html: "Litecoin開発チームへのお問い合わせは<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>まで。"
   footer:
     copyright: "Copyright &copy; 2013 Litecoinプロジェクト. All rights reserved."

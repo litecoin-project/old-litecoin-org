@@ -18,18 +18,18 @@ en:
     title: "Community"
     body_html: "Find support across a growing number of Litecoin communities:
                     <ul>
-                        <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Litecoin Forums</a></li>
-                        <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Reddit Litecoin</a></li>
-                        <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">Search for Users on Twitter<a/></li>
-                        <li>IRC FreeNode network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>
+                        <li><a href=\"http://forum.litecoin.net\">Litecoin Forums</a></li>
+                        <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li>
+                        <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">Search for Users on Twitter</a></li>
+                        <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>
                     </ul>"
   resources:
     title: "Resources"
-    body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
+    body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                               <p/>
-                              Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoin Block Explorer Charts</a>.
+                              Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
                               <p/>
-                              Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub</a>."
+                              Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Free, open-source software"
     body_html: "Litecoin is a free software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
@@ -44,6 +44,6 @@ en:
     body_html: "Miners are currently awarded with 50 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks). 
                               <p/>
                               The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
-  contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>"
+  contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Copyright &copy; 2013 Litecoin Project. All rights reserved."

@@ -18,18 +18,18 @@ zh_HANT:
     title: "社區"
     body_html: "您可以從很多日益壯大的Litecoin社區中尋求技術支援，例如：
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Litecoin論壇</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Litecoin交易社區</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">搜索Twitter上的用戶</a></li>
-                    <li>加入<a href=\"http://freenode.net/\" target=\"_blank\" rel=\"nofollow\">IRC FreeNode</a>網路頻道<a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a>(面向普通用戶)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a>(面向開發者)</li>
+                    <li><a href=\"http://forum.litecoin.net\">Litecoin論壇</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社區</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">搜索Twitter上的用戶</a></li>
+                    <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>網路頻道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用戶)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向開發者)</li>
                 </ul>"
   resources:
     title: "資源"
-    body_html: "查看<a href=\"http://litecoin.info\" target=\"_blank\">Litecoin維琪</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。
+    body_html: "查看<a href=\"http://litecoin.info\">Litecoin維琪</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。
                 <p/>
-                查看<a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoin交易圖表</a>，獲取最新的網上交易資料。
+                查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易圖表</a>，獲取最新的網上交易資料。
                 <p/>
-                訪問<a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
+                訪問<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
   free_oss:
     title: "免費開源軟體"
     body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果你願意，你也可以發行軟體的修改版本。
@@ -50,6 +50,6 @@ zh_HANT:
     body_html: "“礦工們”起初每資料塊可以產出50個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。
                 <p/>
                 因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
-  contact_blurb_html: "您可以通過<a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>聯繫Litecoin的開發團隊。"
+  contact_blurb_html: "您可以通過<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>聯繫Litecoin的開發團隊。"
   footer:
     copyright: "&copy; 2013 Litecoin开发者版权所有，并保留所有权利。"

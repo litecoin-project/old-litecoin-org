@@ -18,18 +18,18 @@ it:
     title: "Comunità"
     body_html: "Esiste una serie di comunità Litecoin in crescita  dove potete trovare assistenza. Potete visitare:
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">I Forum di Litecoin</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">La Comunità Reddit di Litecoin</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">•   Cerca Utenti su Twitter</a></li>
-                    <li>Iscrivetevi al canale della rete IRC <a href=\"http://freenode.net/\" target=\"_blank\" rel=\"nofollow\">FreeNode</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> (per utenti in generale) e <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a> (per sviluppatori).</li>
+                    <li><a href=\"http://forum.litecoin.net\">I Forum di Litecoin</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\">La Comunità Reddit di Litecoin</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">•   Cerca Utenti su Twitter</a></li>
+                    <li>Iscrivetevi al canale della rete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (per utenti in generale) e <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (per sviluppatori).</li>
                 </ul>"
   resources:
     title: "Risorse"
-    body_html: "Informazioni di carattere generale, elenchi di siti e di servizi che supportano Litecoin si possono trovare sul <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
+    body_html: "Informazioni di carattere generale, elenchi di siti e di servizi che supportano Litecoin si possono trovare sul <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                 <p/>
-                Statistiche di rete aggiornate si possono trovare nei grafici del <a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Block Explorer Litecoin</a>.
+                Statistiche di rete aggiornate si possono trovare nei grafici del <a href=\"http://ltc.block-explorer.com/charts\">Block Explorer Litecoin</a>.
                 <p/>
-                Il codice sorgente di Litecoin ed altri progetti collegati sono disponibili su <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub.com/litecoin-project</a>."
+                Il codice sorgente di Litecoin ed altri progetti collegati sono disponibili su <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
   free_oss:
     title: "Software Gratuito Opensource"
     body_html: "Litecoin è un progetto nell'ambito del software libero rilasciato ai sensi della licenza MIT/X11, la quale vi fornisce la facoltà di eseguire, modificare e copiare il software e di distribuire, a vostra scelta, copie modificate del software. Il software è rilasciato con una procedura improntata alla trasparenza che permette verifiche indipendenti dei binari e del codice sorgente corrispondente."
@@ -48,6 +48,6 @@ it:
     body_html: "I miner all'inizio genereranno 50 monete per blocco. La quantità di monete generate viene dimezzata ogni 4 anni (840.000 blocchi).
                 <p/>
                 Pertanto, la rete Litecoin è programmata per produrre approssimativamente il quadruplo di unità rispetto a Bitcoin, ovvero circa 84 milioni di litecoin."
-  contact_blurb_html: "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>."
+  contact_blurb_html: "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2013 Litecoin Project. Tutti i Diritti Riservati."

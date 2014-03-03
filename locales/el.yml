@@ -18,18 +18,18 @@ el:
     title: "Κοινότητα"
     body_html: "Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin:
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Επίσημο Litecoin Φόρουμ</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Litecoin στο Reddit</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">Αναζήτηση για χρήστες στο Twitter<a/></li>
-                    <li>IRC FreeNode δικτυακά κανάλια <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> (για απλούς χρήστες) και <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a> (για developers).</li>
+                    <li><a href=\"http://forum.litecoin.net\">Επίσημο Litecoin Φόρουμ</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin στο Reddit</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">Αναζήτηση για χρήστες στο Twitter</a></li>
+                    <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> δικτυακά κανάλια <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (για απλούς χρήστες) και <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (για developers).</li>
                 </ul>"
   resources:
     title: "Πηγές"
-    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
+    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                 <p/>
-                Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Litecoin Block Explorer Charts</a>.
+                Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
                 <p/>
-                Ο πηγαίος κώδικας για το Litecoin-Qt και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub</a>."
+                Ο πηγαίος κώδικας για το Litecoin-Qt και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Ελεύθερο Λογισμικό Ανοικτού Κώδικα"
     body_html: "Το Litecoin αποτελεί λογισμικό ανοικτού κώδικα και υπάγεται στην άδεια MIT/X11, η οποία επιτρέπει την εκτέλεση, τροποποίηση, αντιγραφή του λογισμικού και διανομή του, κατ'επιλογή σου. Το λογισμικό κυκλοφορεί με μία διαφανή διαδικασία που επιτρέπει την ανεξάρτητη πιστοποίηση των δυαδικών (binary) αρχείων και τον αντίστοιχο πηγαίο κώδικα."
@@ -44,6 +44,6 @@ el:
     body_html: "Οι συμμετέχοντες στην διαδικασία της εξόρυξης νομισμάτων (miners) προς το παρόν αμοίβονται με 50 νέα litecoins ανά μπλοκ, ένα ποσό που μειώνεται στο μισό σχεδόν κάθε 4 έτη (κάθε 840,000 μπλοκ). 
                 <p/>
                 Το δίκτυο του Litecoin είναι ως εκ τούτου προσχεδιασμένο να παράγει 84 εκατομμύρια litecoins, ένα σύνολο 4 φορές μεγαλύτερο από το αντίστοιχο του Bitcoin."
-  contact_blurb_html: "Μπορείτε να επικοινωνήσετε με την ομάδα ανάπτυξης του Litecoin στο <a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>."
+  contact_blurb_html: "Μπορείτε να επικοινωνήσετε με την ομάδα ανάπτυξης του Litecoin στο <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Πνευματική Ιδιοκτησία &copy; 2013 Litecoin Project. Mε την επιφύλαξη παντός δικαιώματος."

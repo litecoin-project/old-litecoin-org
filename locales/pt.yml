@@ -18,18 +18,18 @@ pt:
     title: "Comunidade"
     body_html: "Existe um número crescente de comunidades Litecoin onde você pode encontrar suporte. Você pode visitar:
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=\"_blank\">Fóruns Litecoin</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\" target=\"_blank\">Comunidade Reddit de Litecoin</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\" target=\"_blank\">Procurar Usuários em Twitter<a/></li>
-                    <li>Participar nos canais da <a href=\"http://freenode.net/\" target=\"_blank\" rel=\"nofollow\">IRC FreeNode:</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" target=\"_blank\" rel=\"nofollow\">#litecoin</a> (para usuários em geral) y <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" target=\"_blank\" rel=\"nofollow\">#litecoin-dev</a> (para desenvolvedores).</li>
+                    <li><a href=\"http://forum.litecoin.net\">Fóruns Litecoin</a></li>
+                    <li><a href=\"http://www.reddit.com/r/litecoin\">Comunidade Reddit de Litecoin</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">Procurar Usuários em Twitter</a></li>
+                    <li>Participar nos canais da <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode:</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (para usuários em geral) y <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (para desenvolvedores).</li>
                 </ul>"
   resources:
     title: "Recursos"
-    body_html: "Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href=\"http://litecoin.info\" target=\"_blank\">Litecoin Wiki</a>.
+    body_html: "Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                 <p/>
-                As estatísticas atualizadas da rede podem ser encontradas em: <a href=\"http://ltc.block-explorer.com/charts\" target=\"_blank\">Gráficos de Explorador de Blocos Litecoin</a>.
+                As estatísticas atualizadas da rede podem ser encontradas em: <a href=\"http://ltc.block-explorer.com/charts\">Gráficos de Explorador de Blocos Litecoin</a>.
                 <p/>
-                Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href=\"https://github.com/litecoin-project\" target=\"_blank\">GitHub.com/litecoin-project</a>."
+                Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
   free_oss:
     title: "Software Livre Opensource"
     body_html: "Litecoin é um projeto de software livre lançado sob a licença MIT/X11 que lhe oferece a liberdade de executar, modificar, copiar e distribuir o software, consoante o usuário, em cópias modificadas. O software é lançado num processo transparente que permite a verificação independente de binários e seu código fonte correspondente."
@@ -48,6 +48,6 @@ pt:
     body_html: "Os mineiros inicialmente gerarão 50 moedas por bloco. A quantidade de moedas geradas fica reduzida à metade a cada 4 anos (840.000 blocos).
                 <p/>
                 Portanto, a rede Litecoin é projetada para produzir cerca de 4 vezes o número de unidades do que Bitcoin, ou cerca de 84 milhões de litecoins."
-  contact_blurb_html: "Você pode entrar em contato com a equipe de desenvolvimento da Litecoin em: <a href=\"mailto:contact@litecoin.org\" target=\"_blank\">contact@litecoin.org</a>."
+  contact_blurb_html: "Você pode entrar em contato com a equipe de desenvolvimento da Litecoin em: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2013 Litecoin Project. Todos os direitos reservados."

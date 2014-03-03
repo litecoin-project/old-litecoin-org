@@ -41,9 +41,8 @@ a:active, a:hover {
 }
 
 #footer {
-	border-top: 8px solid rgb(250,251,253);
 	background-image: url(../images/footer_bg.png);
-	height: 77px;
+	height: 68px;
 	color: #fff;
 	font-size: 13px;
 	font-weight: normal;
@@ -98,8 +97,10 @@ a:active, a:hover {
 	font-size: 16px;
 	font-weight: bold;
 	display: inline-block;
-	margin-top: 16px;
+	margin-top: 15px;
 	margin-left: 2px;
+	max-width: 230px;
+	max-height: 17px;
 }
 
 .infoContent {
@@ -180,7 +181,6 @@ a:active, a:hover {
 	width: 240px;
 	margin-bottom: 10px;
 	line-height: 18px;
-	text-shadow: 0 -1px 0 #4c9021;
 
 	background-color: #353431;
 	background-image: -webkit-linear-gradient(top, #53524d, #353431);
@@ -213,17 +213,17 @@ a:active, a:hover {
 
 .download-link:hover {
 	font-weight: normal;
-    background-color: #53524d;
+  background-color: #53524d;
 	background-image: -webkit-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -moz-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -ms-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -o-linear-gradient(top, #5e5d58, #53524d);
-    background-image: linear-gradient(top, #5e5d58, #53524d);
-    -webkit-box-shadow: inset 0 1px 0 0 #85837c;
-    -moz-box-shadow: inset 0 1px 0 0 #8dbf67;
-    -ms-box-shadow: inset 0 1px 0 0 #8dbf67;
-    -o-box-shadow: inset 0 1px 0 0 #8dbf67;
-    cursor: pointer; 
+  background-image: -moz-linear-gradient(top, #5e5d58, #53524d);
+  background-image: -ms-linear-gradient(top, #5e5d58, #53524d);
+  background-image: -o-linear-gradient(top, #5e5d58, #53524d);
+  background-image: linear-gradient(top, #5e5d58, #53524d);
+  -webkit-box-shadow: inset 0 1px 0 0 #85837c;
+  -moz-box-shadow: inset 0 1px 0 0 #8dbf67;
+  -ms-box-shadow: inset 0 1px 0 0 #8dbf67;
+  -o-box-shadow: inset 0 1px 0 0 #8dbf67;
+  cursor: pointer; 
 }
 
 a.download-link {
@@ -247,17 +247,17 @@ a.download-link {
 
 .download-line-link:hover {
 	font-weight: normal;
-    background-color: #53524d;
+  background-color: #53524d;
 	background-image: -webkit-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -moz-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -ms-linear-gradient(top, #5e5d58, #53524d);
-    background-image: -o-linear-gradient(top, #5e5d58, #53524d);
-    background-image: linear-gradient(top, #5e5d58, #53524d);
-    -webkit-box-shadow: inset 0 1px 0 0 #85837c;
-    -moz-box-shadow: inset 0 1px 0 0 #8dbf67;
-    -ms-box-shadow: inset 0 1px 0 0 #8dbf67;
-    -o-box-shadow: inset 0 1px 0 0 #8dbf67;
-    cursor: pointer; 
+  background-image: -moz-linear-gradient(top, #5e5d58, #53524d);
+  background-image: -ms-linear-gradient(top, #5e5d58, #53524d);
+  background-image: -o-linear-gradient(top, #5e5d58, #53524d);
+  background-image: linear-gradient(top, #5e5d58, #53524d);
+  -webkit-box-shadow: inset 0 1px 0 0 #85837c;
+  -moz-box-shadow: inset 0 1px 0 0 #8dbf67;
+  -ms-box-shadow: inset 0 1px 0 0 #8dbf67;
+  -o-box-shadow: inset 0 1px 0 0 #8dbf67;
+  cursor: pointer; 
 }
 
 a.download-line-link {
@@ -269,6 +269,11 @@ a.download-line-link {
 	color: white;
 	font-size: 13px;
 	font-weight: normal;
+}
+
+.download-git-padding {
+	padding-top: 4px;
+	padding-bottom: 4px;
 }
 
 a.GPG {
