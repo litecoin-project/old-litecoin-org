@@ -21,6 +21,11 @@ a:active, a:hover {
 	width:100%;
 }
 
+.selected-lang {
+	border-bottom:1px dashed #000;
+	font-weight: normal;
+}
+
 .inline-list {
 	list-style:none;
 	margin: 0;
