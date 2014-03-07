@@ -2,6 +2,18 @@
 it:
   head:
     title: "Litecoin - Valuta digitale P2P Open source"
+    select-lang: "<li><a href=\"/\">English</a></li>
+                  <li><a href=\"/fr\">Français</a></li>
+                  <li><a href=\"/es\">Español</a></li>
+                  <li><a href=\"/pt\">Português</a></li>
+                  <span class=\"selected-lang\">Italiano</span>
+                  <li><a href=\"/de\">Deutsch</a></li>
+                  <li><a href=\"/nl\">Nederlands</a></li>
+                  <li><a href=\"/el\">Ελληνικά</a></li>
+                  <li><a href=\"/ru\">Русский</a></li>
+                  <li><a href=\"/zh_HANS\">中文</a></li>
+                  <li><a href=\"/zh_HANT\">繁體中文</a></li>
+                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Che cos’è Litecoin?"
     body_p1: "Litecoin è una valuta elettronica basata su una rete P2P, la quale permette pagamenti istantanei a qualsiasi persona nel mondo. Litecoin si basa sul protocollo Bitcoin ma ne differisce, in quanto il mining può essere eseguito con una certa efficienza anche con l'hardware in possesso del normale consumatore. Litecoin garantisce conferme delle transazioni più veloci (2,5 minuti in media) e adopera un algoritmo di mining basato su <em>scrypt</em>, in modo da avere come target i normali computer e le GPU più diffuse. La rete Litecoin è programmata per produrre 84 milioni di unità monetarie."

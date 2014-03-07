@@ -2,6 +2,18 @@
 ja:
   head:
     title: "Litecoin - オープンソースP2Pデジタル通貨"
+    select-lang: "<li><a href=\"/\">English</a></li>
+                  <li><a href=\"/fr\">Français</a></li>
+                  <li><a href=\"/es\">Español</a></li>
+                  <li><a href=\"/pt\">Português</a></li>
+                  <li><a href=\"/it\">Italiano</a></li>
+                  <li><a href=\"/de\">Deutsch</a></li>
+                  <li><a href=\"/nl\">Nederlands</a></li>
+                  <li><a href=\"/el\">Ελληνικά</a></li>
+                  <li><a href=\"/ru\">Русский</a></li>
+                  <li><a href=\"/zh_HANS\">中文</a></li>
+                  <li><a href=\"/zh_HANT\">繁體中文</a></li>
+                  <span class=\"selected-lang\">日本語</span>"
   intro:
     title: "Litecoinとは？"
     body_p1: "Litecoinは、世界中の誰に対してもすぐに支払えるP2Pのネット通貨です。Bitcoinプロトコルに基づいていますが、一般のハードウェアを用いて効率的にマイニングできるという点でBitcoinと異なります。Litecoinは素早い取引認証（平均2分半）を実現し、多くの人が所有している一般コンピュータとGPUを対象とする、メモリ依存型のscryptベースのProof-of-Workマイニングアルゴリズムを採用しています。今後、Litecoinネットワークでは8400万枚まで通貨が生成されていきます。"
