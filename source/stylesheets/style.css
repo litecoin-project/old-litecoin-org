@@ -17,6 +17,14 @@ a:active, a:hover {
 	color: #C4971A;
 }
 
+.center {
+	text-align:center;
+}
+
+.clear {
+  clear:both;
+}
+
 .centeredList {
 	width:100%;
 }
