@@ -52,6 +52,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :core_version, '0.8.6.2'
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
