@@ -35,7 +35,7 @@ es:
     title: "Comunidad"
     body_html: "Existe una cantidad creciente de comunidades Litecoin donde es posible encontrar soporte. Usted puede hacerlo visitando:
                 <ul>
-                    <li><a href=\"http://forum.litecoin.net\" target=]\"_blank]\">Foros Litecoin</a></li>
+                    <li><a href=\"http://forum.litecoin.net\">Foros Litecoin</a></li>
                     <li><a href=\"http://www.reddit.com/r/litecoin\">Comunidad Reddit de Litecoin</a></li>
                     <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Búsqueda de Usuarios en Twitter</a></li>
                     <li>Regístrese en los canales de la red <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode:</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (para los usuarios en general) y <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (para desarrolladores).</li>
