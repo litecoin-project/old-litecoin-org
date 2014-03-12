@@ -6,7 +6,7 @@ it:
                   <li><a href=\"/fr\">Français</a></li>
                   <li><a href=\"/es\">Español</a></li>
                   <li><a href=\"/pt\">Português</a></li>
-                  <span class=\"selected-lang\">Italiano</span>
+                  <li><span class=\"selected-lang\">Italiano</span></li>
                   <li><a href=\"/de\">Deutsch</a></li>
                   <li><a href=\"/nl\">Nederlands</a></li>
                   <li><a href=\"/el\">Ελληνικά</a></li>
@@ -37,15 +37,15 @@ it:
                 <ul>
                     <li><a href=\"http://forum.litecoin.net\">I Forum di Litecoin</a></li>
                     <li><a href=\"http://www.reddit.com/r/litecoin\">La Comunità Reddit di Litecoin</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">•   Cerca Utenti su Twitter</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">•   Cerca Utenti su Twitter</a></li>
                     <li>Iscrivetevi al canale della rete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (per utenti in generale) e <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (per sviluppatori).</li>
                 </ul>"
   resources:
     title: "Risorse"
     body_html: "Informazioni di carattere generale, elenchi di siti e di servizi che supportano Litecoin si possono trovare sul <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
-                <p/>
+                <br />
                 Statistiche di rete aggiornate si possono trovare nei grafici del <a href=\"http://ltc.block-explorer.com/charts\">Block Explorer Litecoin</a>.
-                <p/>
+                <br />
                 Il codice sorgente di Litecoin ed altri progetti collegati sono disponibili su <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
   free_oss:
     title: "Software Gratuito Opensource"
@@ -53,17 +53,17 @@ it:
   blockchain:
     title: "Catena di blocchi"
     body_html: "La Catena di blocchi di Litecoin è in grado di gestire volumi di transazioni superiori rispetto alla sua controparte - Bitcoin. A causa della più frequente generazione dei blocchi, la rete è in grado di supportare un numero maggiore di transazioni senza che il software debba essere modificato in futuro.
-                <p/>
+                <br />
                 Ne deriva che i commercianti ottengono tempi di conferma più rapidi, mentre conservano la possibilità di aspettare altre conferme, quando vendono articoli a prezzo più alto."
   wallet_enc:
     title: "Cifratura del Portafoglio"
     body_html: "La Cifratura del Portafoglio vi permette di proteggere le vostre chiavi private, in modo tale da avere sempre la possibilità di visualizzare le transazioni e il saldo del vostro conto, mentre vi verrà richiesto di inserire la vostra password prima di poter spendere i vostri litecoin.
-                <p/>
+                <br />
                 Questo serve non solo come misura di protezione contro i virus e i cavalli di troia, ma anche come un controllo di sicurezza prima che inviate dei pagamenti."
   mining_reward:
     title: "Ricompensa"
     body_html: "I miner all'inizio genereranno 50 monete per blocco. La quantità di monete generate viene dimezzata ogni 4 anni (840.000 blocchi).
-                <p/>
+                <br />
                 Pertanto, la rete Litecoin è programmata per produrre approssimativamente il quadruplo di unità rispetto a Bitcoin, ovvero circa 84 milioni di litecoin."
   contact_blurb_html: "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:

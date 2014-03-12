@@ -7,7 +7,7 @@ de:
                   <li><a href=\"/es\">Español</a></li>
                   <li><a href=\"/pt\">Português</a></li>
                   <li><a href=\"/it\">Italiano</a></li>
-                  <span class=\"selected-lang\">Deutsch</span>
+                  <li><span class=\"selected-lang\">Deutsch</span></li>
                   <li><a href=\"/nl\">Nederlands</a></li>
                   <li><a href=\"/el\">Ελληνικά</a></li>
                   <li><a href=\"/ru\">Русский</a></li>
@@ -43,9 +43,9 @@ de:
   resources:
     title: "Ressourcen"
     body_html: "Grundlegende Informationen, Auflistungen von Seiten und Listen mit Devisen die mit Litecoin kompatibel sind finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>.              
-                <p/> 
+                <br />
                 Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. 
-                <p/>
+                <br />
                 Der Litecoin Source Code und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
   free_oss:
     title: "Open Source Software"
@@ -53,17 +53,17 @@ de:
   blockchain:
     title: "Blockchain"
     body_html: "Die Litecoin Blockchain verfügt über ein höhres maximales Transaktionsvolumen verglichen mit Bitcoin. Das häufigere erstellen von Blöcken ermöglicht mehr Transaktionen ohne die Software in Zukunft verändern zu müssen.
-                <p/>
+                <br />
                 Die benötigte Zeit um Händlern Bestätigungen zu übermitteln wird dadurch kürzer, die Möglichkeit auf mehr Bestätigungen zu warten um Tickets gebündelt zu verkaufen bleibt jedoch bestehen.  "
   wallet_enc:
     title: "Verschlüsselung"
     body_html: "Die Verschlüsselung des \"Wallets\" ermöglicht es Ihnen dort ihre privaten Schlüssel aufzubewahren, wodurch Sie alle Translaktionen auf Ihrem Konto in der Kontoübersicht einsehen können. Für das Ausgeben von Litecoins ist jedoch die Eingabe des Passworts nötig.
-                <p/>
+                <br />
                 Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
   mining_reward:
     title: "Vergütung"
     body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten litecoins halbiert sich alle 4 Jahre (840000 Blöcke).
-                <p/> 
+                <br /> 
                 Alles in allem werden dadurch 4 mal mehr litecoins als bitcoins generiert (gesamt 84 Millionen Litecoins)."
   contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> bzw.)."
   footer:

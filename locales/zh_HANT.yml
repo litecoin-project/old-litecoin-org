@@ -12,7 +12,7 @@ zh_HANT:
                   <li><a href=\"/el\">Ελληνικά</a></li>
                   <li><a href=\"/ru\">Русский</a></li>
                   <li><a href=\"/zh_HANS\">中文</a></li>
-                  <span class=\"selected-lang\">繁體中文</span>
+                  <li><span class=\"selected-lang\">繁體中文</span></li>
                   <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "什麼是Litecoin？"
@@ -37,35 +37,35 @@ zh_HANT:
                 <ul>
                     <li><a href=\"http://forum.litecoin.net\">Litecoin論壇</a></li>
                     <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社區</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">搜索Twitter上的用戶</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用戶</a></li>
                     <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>網路頻道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用戶)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向開發者)</li>
                 </ul>"
   resources:
     title: "資源"
     body_html: "查看<a href=\"http://litecoin.info\">Litecoin維琪</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。
-                <p/>
+                <br />
                 查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易圖表</a>，獲取最新的網上交易資料。
-                <p/>
+                <br />
                 訪問<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
   free_oss:
     title: "免費開源軟體"
     body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果你願意，你也可以發行軟體的修改版本。
-                <p/>
+                <br />
                 該軟體以完全透明的形式發佈，使用者可以對二進位版本以及對應原始程式碼進行獨立驗證。"
   blockchain:
     title: "資料塊鏈"
     body_html: "Litecoin塊鏈與其競爭對手——比特幣比起來，能夠處理更大的交易量。由於資料塊的生成更加頻繁，該網路可以支援更多的交易，並且無需在將來修改軟體。
-                <p/>
+                <br />
                 因此，商家可以獲得更快的交易確認，而且在銷售大額商品時依然能夠等待更多的交易確認。"
   wallet_enc:
     title: "錢包加密"
     body_html: "錢包加密能夠保證您錢包中私密金鑰的安全，從而讓您可以查看交易情況及帳戶餘額，但是您在使用litecoin之前必須輸入密碼。
-                <p/>
+                <br />
                 該功能不僅能夠防止病毒及木馬的侵擾，同時還是付款前的一項有效的合法性檢查。"
   mining_reward:
     title: "獎勵"
     body_html: "“礦工們”起初每資料塊可以產出50個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。
-                <p/>
+                <br />
                 因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
   contact_blurb_html: "您可以通過<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>聯繫Litecoin的開發團隊。"
   footer:

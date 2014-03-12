@@ -8,7 +8,7 @@ nl:
                   <li><a href=\"/pt\">Português</a></li>
                   <li><a href=\"/it\">Italiano</a></li>
                   <li><a href=\"/de\">Deutsch</a></li>
-                  <span class=\"selected-lang\">Nederlands</span>
+                  <li><span class=\"selected-lang\">Nederlands</span></li>
                   <li><a href=\"/el\">Ελληνικά</a></li>
                   <li><a href=\"/ru\">Русский</a></li>
                   <li><a href=\"/zh_HANS\">中文</a></li>
@@ -43,9 +43,9 @@ nl:
   resources:
     title: "Hulpmiddelen"
     body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
-                <p/> 
+                <br /> 
                 Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. 
-                <p/>
+                <br />
                 Broncode voor Litecoin-QT aan aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Gratis open-source software"
@@ -53,17 +53,17 @@ nl:
   blockchain:
     title: "Blokketen"
     body_html: "De Litecoin blokketen heeft de mogelijkheid een hoger volume aan transacties te ondersteunen dan zijn tegenhanger – Bitcoin. Door een frequentere aanmaak van blokken, kan het netwerk meer transacties verdragen zonder de noodzaak om de software in de toekomst aan te passen.
-                <p/>
+                <br />
                 Bijgevolg krijgen handelaars snellere bevestigingstijden, terwijl ze nog altijd de mogelijkheid hebben om op meer bevestigingen te wachten wanneer zij duurdere producten verkopen.  "
   wallet_enc:
     title: "Portemonnee Encryptie"
     body_html: "Encryptie van de portemonnee geeft je de mogelijkheid je portemonnee te beveiligen. Op die manier kan je transacties en rekeningsaldo altijd onmiddellijk bekijken, maar heb je een paswoord nodig hebt vooraleer je litecoins kan uitgeven.
-                <p/>
+                <br />
                 Dit biedt bescherming tegen portemonnee-stelende virussen en trojans , en zorgt daarnaast ook voor een extra veiligheidscontrole voordat je een betaling verzendt."
   mining_reward:
     title: "Mining beloning"
     body_html: "Miners worden momenteel beloond met 50 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken).
-                <p/> 
+                <br /> 
                 Het is hierdoor gepland dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valutaeenheden als Bitcoin is."
   contact_blurb_html: "Je kan het Litecoin projectontwikkelingsteam bereiken op <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:

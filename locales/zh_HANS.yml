@@ -11,7 +11,7 @@ zh_HANS:
                   <li><a href=\"/nl\">Nederlands</a></li>
                   <li><a href=\"/el\">Ελληνικά</a></li>
                   <li><a href=\"/ru\">Русский</a></li>
-                  <span class=\"selected-lang\">中文</span>
+                  <li><span class=\"selected-lang\">中文</span></li>
                   <li><a href=\"/zh_HANT\">繁體中文</a></li>
                   <li><a href=\"/ja\">日本語</a></li>"
   intro:
@@ -37,35 +37,35 @@ zh_HANS:
                 <ul>
                     <li><a href=\"http://forum.litecoin.net\">Litecoin论坛</a></li>
                     <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社区</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">搜索Twitter上的用户</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用户</a></li>
                     <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>网络频道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用户)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向开发者)</li>
                 </ul>"
   resources:
     title: "资源"
     body_html: "查看<a href=\"http://litecoin.info\">Litecoin维基</a>，可以获取Litecoin的相关信息，以及查看所有支持Litecoin的网站列表以及交易市场。
-                <p/>
+                <br />
                 查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易图表</a>，获取最新的网上交易数据。
-                <p/>
+                <br />
                 访问<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，获取Litecoin的源代码及相关项目。"
   free_oss:
     title: "免费开源软件"
     body_html: "Litecoin是一款在MIT/X11许可下发布的免费软件项目，它让您能够根据自己的需要对软件进行运行、修改和复制。如果你愿意，你也可以发行软件的修改版本。
-                <p/>
+                <br />
                 该软件以完全透明的形式发布，用户可以对二进制版本以及对应源代码进行独立验证。"
   blockchain:
     title: "数据块链"
     body_html: "Litecoin块链与其竞争对手——比特币比起来，能够处理更大的交易量。由于数据块的生成更加频繁，该网络可以支持更多的交易，并且无需在将来修改软件。
-                <p/>
+                <br />
                 因此，商家可以获得更快的交易确认，而且在销售大额商品时依然能够等待更多的交易确认。"
   wallet_enc:
     title: "钱包加密"
     body_html: "钱包加密能够保证您钱包中私钥的安全，从而让您可以查看交易情况及账户余额，但是您在使用litecoin之前必须输入密码。
-                <p/>
+                <br />
                 该功能不仅能够防止病毒及木马的侵扰，同时还是付款前的一项有效的合法性检查。"
   mining_reward:
     title: "奖励"
     body_html: "“矿工们”起初每数据块可以产出50个币。每4年，生产的货币量将减少一半(840000个数据块)。
-                <p/>
+                <br />
                 因此，Litecoin网络生产的货币总量将大约是比特币的4倍，即8400万个litecoin。"
   contact_blurb_html: "您可以通过<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>联系Litecoin的开发团队。"
   footer:

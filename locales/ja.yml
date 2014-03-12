@@ -13,7 +13,7 @@ ja:
                   <li><a href=\"/ru\">Русский</a></li>
                   <li><a href=\"/zh_HANS\">中文</a></li>
                   <li><a href=\"/zh_HANT\">繁體中文</a></li>
-                  <span class=\"selected-lang\">日本語</span>"
+                  <li><span class=\"selected-lang\">日本語</span></li>"
   intro:
     title: "Litecoinとは？"
     body_p1: "Litecoinは、世界中の誰に対してもすぐに支払えるP2Pのネット通貨です。Bitcoinプロトコルに基づいていますが、一般のハードウェアを用いて効率的にマイニングできるという点でBitcoinと異なります。Litecoinは素早い取引認証（平均2分半）を実現し、多くの人が所有している一般コンピュータとGPUを対象とする、メモリ依存型のscryptベースのProof-of-Workマイニングアルゴリズムを採用しています。今後、Litecoinネットワークでは8400万枚まで通貨が生成されていきます。"
@@ -37,15 +37,15 @@ ja:
                 <ul>
                     <li><a href=\"http://forum.litecoin.net\">Litecoinフォーラム</a></li>
                     <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin Redditコミュニティ</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&src=typd\">Twitterでユーザーを検索</a></li>
+                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Twitterでユーザーを検索</a></li>
                     <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRCのFreeNode</a>ネットワークチャンネル <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> （一般ユーザー向け）・ <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>（開発者向け）</li>                                
                 </ul>"
   resources:
     title: "リソース"
     body_html: "Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href=\"http://litecoin.info\">Litecoin Wiki</a>で見つけることができます。
-                <p/>
+                <br />
                 最新のネットワーク統計は、<a href=\"http://ltc.block-explorer.com/charts\">Litecoinブロックエクスプローラーチャート</a>で見ることができます。
-                <p/>
+                <br />
                 <a href=\"https://github.com/litecoin-project\">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。"
   free_oss:
     title: "フリーオープンソースソフトウェア"
@@ -53,17 +53,17 @@ ja:
   blockchain:
     title: "Blockchain"
     body_html: "Litecoinのblockchainは、対称のBitcoinより多くのトランザクションを取り扱うことができます。より頻繁にブロックが生成されるため、ソフトウェアを将来的に改良する必要なく、ネットワークを多くのトランザクションに対応させることができます。
-                <p/>
+                <br />
                 その結果、売り手側も素早く認証を得ることができます。同時に金額の大きな商品を販売するときは、多くの認証を待つ事もできます。"
   wallet_enc:
     title: "ウォレットの暗号化"
     body_html: "ウォレットの暗号化によって、ウォレットのプライベートキーの安全性を確保し、取引やアカウント残高を確認することができます。Litecoinを使用する前にはパスワードの入力が必要となります。
-                <p/>
+                <br />
                 この認証によって、ウイルスやスパムから保護できるだけでなく、支払い実行前に安全性を確認することができます。"
   mining_reward:
     title: "リワード"
     body_html: "採掘者は1ブロック発掘するごとに50コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと)
-                <p/>
+                <br />
                 したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
   contact_blurb_html: "Litecoin開発チームへのお問い合わせは<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>まで。"
   footer:
