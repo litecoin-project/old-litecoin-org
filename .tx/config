@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[litecoinorg.master]
+file_filter = locales/<lang>.yml
+source_file = locales/en.yml
+source_lang = en
+type = yaml
