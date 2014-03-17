@@ -27,14 +27,7 @@ ru:
    for_windows: "для Windows"
    for_linux:   "для GNU/Linux"
    for_osx:     "для Mac OS X"
-   for_android: "Litecoin for Android"
-   for_blackberry: "Litecoin for BlackBerry"
-   in_development: "IN DEVELOPMENT"
-   coming_soon: "Coming Soon"
-   source: "SOURCE"
    source_on_github: "Исходный код Litecoin-Qt <br/> на GitHub"
-   release_notes: "Release Notes..."
-   upgrade_notes: "Upgrade Notes..."
   community:
     title: "Сообщества"
     body_html: "Следующие соовщества Litecoin, где вы можете найти ответы на любые вопросы:
