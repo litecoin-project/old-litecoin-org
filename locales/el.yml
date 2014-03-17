@@ -11,8 +11,8 @@ el:
                   <li><a href=\"/nl\">Nederlands</a></li>
                   <li><span class=\"selected-lang\">Ελληνικά</span></li>
                   <li><a href=\"/ru\">Русский</a></li>
-                  <li><a href=\"/zh_HANS\">中文</a></li>
-                  <li><a href=\"/zh_HANT\">繁體中文</a></li>
+                  <li><a href=\"/zh_CN\">中文</a></li>
+                  <li><a href=\"/zh_TW\">繁體中文</a></li>
                   <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Τί είναι το Litecoin;"
