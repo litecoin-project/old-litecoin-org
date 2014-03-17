@@ -19,20 +19,10 @@ de:
     body_p1: "Litecoin ist eine Peer-To-Peer Internetwährung, die es ermöglicht, weltweit Zahlungen zu tätigen. Es ist an das Bitcoin-Protokoll angelehnt, unterscheidet sich jedoch von Bitcoins in der Hinsicht, dass das Mining effizienter ist und dadurch mit normalen Computern durchgeführt werden kann. Litecoins Transaktionsbestätigungen sind schneller (~2,5 Minuten) und es ist durch die Verwendung von scrypt-basierenden Proof-of-Work (POW) Algorithmen auf gängige Computer und GPUs optimiert. Geplant ist unter Litecoin 84 Millionen Währungseinheiten zu produzieren. "
     body_p2: "Eines der Ziele von Litecoin ist es, Mining-Algorithmen zur Verfügung zu stellen, die zur selben Zeit und auf derselben Hardware laufen können, die auch zum minen von Bitcoins verwendet wird. Während für das Mining von Bitcoins immer häufiger hochspezialisierte ASICs verwendet werden, erfüllen Litecoins weiterhin diesen Anspruch. Dass ASIC Mining für Litecoin entwickelt wird ist eher unwahrscheinlich solange die Währung nicht weiter verbreitet ist."
   download:
-   title: "DOWNLOAD"
    for_windows: "für Windows"
    for_linux:   "für GNU/Linux"
    for_osx:     "für Mac OS X"
-   for_android: "Litecoin for Android"
-   for_blackberry: "Litecoin for BlackBerry"
-   in_development: "IN DEVELOPMENT"
-   coming_soon: "Coming Soon"
-   source: "SOURCE"
-   source_on_github: "Litecoin-Qt source code <br/> on GitHub"
-   release_notes: "Release Notes..."
-   upgrade_notes: "Upgrade Notes..."
   community:
-    title: "Community"
     body_html: "Mehr Informationen und Hilfe findet man in einer der Litecoin Communities:
                 <ul> 
                     <li><a href=\"http://forum.litecoin.net/\">Litecoin Forums</a></li> 
@@ -48,10 +38,8 @@ de:
                 <br />
                 Der Litecoin Source Code und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
   free_oss:
-    title: "Open Source Software"
     body_html: "Litecoin ist ein unter der MIT/X11 Lizenz laufendes Open Source Software Projekt. Das ermöglicht Ihnen die Software zu verwenden, sie zu verändern, zu kopieren oder veränderte Versionen der Software zu verbreiten. Der Release-Prozess der Software ist transparent und ermöglicht es, sowohl die Binärdateien als auch den Source Code einzusehen. "
   blockchain:
-    title: "Blockchain"
     body_html: "Die Litecoin Blockchain verfügt über ein höhres maximales Transaktionsvolumen verglichen mit Bitcoin. Das häufigere erstellen von Blöcken ermöglicht mehr Transaktionen ohne die Software in Zukunft verändern zu müssen.
                 <br />
                 Die benötigte Zeit um Händlern Bestätigungen zu übermitteln wird dadurch kürzer, die Möglichkeit auf mehr Bestätigungen zu warten um Tickets gebündelt zu verkaufen bleibt jedoch bestehen.  "
@@ -67,4 +55,3 @@ de:
                 Alles in allem werden dadurch 4 mal mehr litecoins als bitcoins generiert (gesamt 84 Millionen Litecoins)."
   contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> bzw.)."
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

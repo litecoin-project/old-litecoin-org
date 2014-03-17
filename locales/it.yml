@@ -23,14 +23,7 @@ it:
    for_windows: "per Windows"
    for_linux:   "per GNU/Linux"
    for_osx:     "per Mac OS X"
-   for_android: "Litecoin for Android"
-   for_blackberry: "Litecoin for BlackBerry"
-   in_development: "IN DEVELOPMENT"
-   coming_soon: "Coming Soon"
-   source: "SOURCE"
    source_on_github: "Il codice sorgente di Litecoin-QT <br/> su GitHub"
-   release_notes: "Release Notes..."
-   upgrade_notes: "Upgrade Notes..."
   community:
     title: "Comunità"
     body_html: "Esiste una serie di comunità Litecoin in crescita  dove potete trovare assistenza. Potete visitare:

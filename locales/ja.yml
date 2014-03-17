@@ -23,12 +23,7 @@ ja:
    for_windows: "Windows用"
    for_linux:   "GNU/Linux用"
    for_osx:     "Mac OS X用"
-   for_android: "Litecoin for Android"
-   for_blackberry: "Litecoin for BlackBerry"
-   in_development: "IN DEVELOPMENT"
-   coming_soon: "Coming Soon"
-   source: "SOURCE"
-   source_on_github: "itHub上のLitecoin-Qt <br/>  ソースコード"
+   source_on_github: "GitHub上のLitecoin-Qt <br/>  ソースコード"
    release_notes: "更新履歴..."
    upgrade_notes: "アップグレードについてお知らせ..."
   community:
@@ -51,7 +46,6 @@ ja:
     title: "フリーオープンソースソフトウェア"
     body_html: "LitecoinはMIT/X11ライセンスの下で公開されているフリーソフトウェアです。ライセンスによって、ソフトウェアの実行、変更、複製および任意に変更されたソフトウェアの複製を配布することができます。ソフトウェアはバイナリと対応するソースコードを独立検証できる明白なプロセスを通じて配布されます。"
   blockchain:
-    title: "Blockchain"
     body_html: "Litecoinのblockchainは、対称のBitcoinより多くのトランザクションを取り扱うことができます。より頻繁にブロックが生成されるため、ソフトウェアを将来的に改良する必要なく、ネットワークを多くのトランザクションに対応させることができます。
                 <br />
                 その結果、売り手側も素早く認証を得ることができます。同時に金額の大きな商品を販売するときは、多くの認証を待つ事もできます。"
