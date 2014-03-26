@@ -25,7 +25,7 @@ en:
     title: "Community"
     body_html: "Find support across a growing number of Litecoin communities:
                     <ul>
-                        <li><a href=\"http://forum.litecoin.net\">Litecoin Forums</a></li>
+                        <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li>
                         <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li>
                         <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Search for Users on Twitter</a></li>
                         <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>

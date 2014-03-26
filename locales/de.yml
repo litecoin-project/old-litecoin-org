@@ -1,46 +1,43 @@
----
 de:
   lang_name: "Deutsch"
   head:
-    title: "Litecoin - Open Source P2P Internetwährung"
+    title: "Litecoin - Quelloffene, digitale P2P-Währung"
   intro:
     title: "Was genau ist Litecoin?"
-    body_p1: "Litecoin ist eine Peer-To-Peer Internetwährung, die es ermöglicht, weltweit Zahlungen zu tätigen. Es ist an das Bitcoin-Protokoll angelehnt, unterscheidet sich jedoch von Bitcoins in der Hinsicht, dass das Mining effizienter ist und dadurch mit normalen Computern durchgeführt werden kann. Litecoins Transaktionsbestätigungen sind schneller (~2,5 Minuten) und es ist durch die Verwendung von scrypt-basierenden Proof-of-Work (POW) Algorithmen auf gängige Computer und GPUs optimiert. Geplant ist unter Litecoin 84 Millionen Währungseinheiten zu produzieren. "
-    body_p2: "Eines der Ziele von Litecoin ist es, Mining-Algorithmen zur Verfügung zu stellen, die zur selben Zeit und auf derselben Hardware laufen können, die auch zum minen von Bitcoins verwendet wird. Während für das Mining von Bitcoins immer häufiger hochspezialisierte ASICs verwendet werden, erfüllen Litecoins weiterhin diesen Anspruch. Dass ASIC Mining für Litecoin entwickelt wird ist eher unwahrscheinlich solange die Währung nicht weiter verbreitet ist."
+    body_p1: "Litecoin ist eine Peer-To-Peer Internetwährung, die es ermöglicht, weltweit sofortige Zahlungen zu tätigen. Es ist an das Bitcoin-Protokoll angelehnt, unterscheidet sich jedoch von Bitcoins in der Hinsicht, dass das Mining effizienter ist und dadurch mit normalen Computern durchgeführt werden kann. Litecoins Transaktionsbestätigungen sind schneller (~2,5 Minuten) und es ist durch die Verwendung von scrypt-basierenden Proof-of-Work-Algorithmen auf gängige Computer und GPUs optimiert. Das Litecoin-Netzwerk wird 84 Millionen Währungseinheiten produzieren. "
+    body_p2: "Eines der Ziele von Litecoin ist es, einen Mining-Algorithmus zur Verfügung zu stellen, der parallel auf derselben Hardware laufen kann, die zum Mining von Bitcoins verwendet wird. Während für das Mining von Bitcoins immer häufiger hochspezialisierte ASICs verwendet werden, erfüllt Litecoin weiterhin diesen Anspruch. Dass ASIC Mining für Litecoin entwickelt wird ist eher unwahrscheinlich solange die Währung nicht weiter verbreitet ist."
   download:
-   for_windows: "für Windows"
-   for_linux:   "für GNU/Linux"
-   for_osx:     "für Mac OS X"
+    title: "DOWNLOAD"
+    for_windows: "für Windows"
+    for_linux: "für GNU/Linux"
+    for_osx: "für Mac OS X"
+    for_android: "Litecoin für Android"
+    for_blackberry: "Litecoin für BlackBerry"
+    in_development: "IN ENTWICKLUNG"
+    coming_soon: "Kommt bald"
+    source: "QUELLE"
+    source_on_github: "Quellcode von Litecoin-Qt <br/> bei GitHub"
+    release_notes: "Versionshinweise"
+    upgrade_notes: "Hinweise zur Aktualisierung..."
   community:
-    body_html: "Mehr Informationen und Hilfe findet man in einer der Litecoin Communities:
-                <ul> 
-                    <li><a href=\"http://forum.litecoin.net/\">Litecoin Forums</a></li> 
-                    <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> 
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Suche nach Usern auf Twitter</a></li>
-                    <li>Trete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode Netword</a> bei, <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (für normale User) und <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (für Entwickler).</li> 
-                </ul> "
+    title: "Community"
+    body_html: "Mehr Informationen und Hilfe findet man in einer der Litecoin Communities: <ul> <li><a href=\"https://litecointalk.org/\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Suche nach Usern auf Twitter</a></li> <li>Trete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode Netword</a> bei, <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (für normale User) und <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (für Entwickler).</li>\
+      \ </ul> "
   resources:
     title: "Ressourcen"
-    body_html: "Grundlegende Informationen, Auflistungen von Seiten und Listen mit Devisen die mit Litecoin kompatibel sind finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>.              
-                <br />
-                Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. 
-                <br />
-                Der Litecoin Source Code und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
+    body_html: "Grundlegende Informationen sowie Links zu Seiten, die Dienste für Litecoin anbieten und Listen der Handelsplätze, an denen Litecoin gehandelt wird, finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. <br /> Der Litecoin-Quellcode und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
   free_oss:
+    title: "Freie, quelloffene Software"
     body_html: "Litecoin ist ein unter der MIT/X11 Lizenz laufendes Open Source Software Projekt. Das ermöglicht Ihnen die Software zu verwenden, sie zu verändern, zu kopieren oder veränderte Versionen der Software zu verbreiten. Der Release-Prozess der Software ist transparent und ermöglicht es, sowohl die Binärdateien als auch den Source Code einzusehen. "
   blockchain:
-    body_html: "Die Litecoin Blockchain verfügt über ein höhres maximales Transaktionsvolumen verglichen mit Bitcoin. Das häufigere erstellen von Blöcken ermöglicht mehr Transaktionen ohne die Software in Zukunft verändern zu müssen.
-                <br />
-                Die benötigte Zeit um Händlern Bestätigungen zu übermitteln wird dadurch kürzer, die Möglichkeit auf mehr Bestätigungen zu warten um Tickets gebündelt zu verkaufen bleibt jedoch bestehen.  "
+    title: "Blockchain"
+    body_html: "Die Litecoin Blockchain verfügt - verglichen mit Bitcoin -  über ein höheres maximales Transaktionsvolumen. Das häufigere Erstellen von Blöcken ermöglicht eine größere Anzahl Transaktionen, ohne die Software in Zukunft verändern zu müssen. <br /> Händler profitieren so von kurzen Bestätigungswartezeiten, können aber natürlich bei großen Kaufbeträgen ebenso abwarten, bis mehr Bestätigungen der Transaktion vorliegen."
   wallet_enc:
     title: "Verschlüsselung"
-    body_html: "Die Verschlüsselung des \"Wallets\" ermöglicht es Ihnen dort ihre privaten Schlüssel aufzubewahren, wodurch Sie alle Translaktionen auf Ihrem Konto in der Kontoübersicht einsehen können. Für das Ausgeben von Litecoins ist jedoch die Eingabe des Passworts nötig.
-                <br />
-                Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
+    body_html: "Die Verschlüsselung des \"Wallets\" sichert Ihre Litecoins gegen unbefugte oder unbeabsichtigte Zahlungen durch Abfrage Ihres Verschlüsselungs-Kennwortes ab. Das Kennwort wird nur zum Tätigen von Überweisungen benötigt, der Kontostand sowie die Transaktionshistorie sind immer einsehbar.<br /> Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
   mining_reward:
-    title: "Vergütung"
-    body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten litecoins halbiert sich alle 4 Jahre (840000 Blöcke).
-                <br /> 
-                Alles in allem werden dadurch 4 mal mehr litecoins als bitcoins generiert (gesamt 84 Millionen Litecoins)."
+    title: "Mining-Vergütung"
+    body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
   contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> bzw.)."
   footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

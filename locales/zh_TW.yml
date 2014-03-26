@@ -1,5 +1,4 @@
----
-zh_TW:
+zh_TW:  
   lang_name: "繁體中文"
   head:
     title: "Litecoin - 開源P2P電子貨幣"
@@ -8,47 +7,30 @@ zh_TW:
     body_p1: "Litecoin（中文译名：莱特币）是一種基於“點對點”(peer-to-peer)技術的網路貨幣，它可以説明您即時付款給世界上任何一個人。它基於比特幣(Bitcoin)協議，但不同於比特幣的地方在於，通過消費級的硬體也可以高效地“挖礦”。Litecoin提供給您更快速的交易確認（平均2.5分鐘），它使用硬記憶體以及基於scrypt(一種加密演算法)的挖礦工作量證明演算法，面向大多數人使用的普通電腦及圖形處理器(GPU)。Litecoin網路預期將生產8400萬個貨幣單位。"
     body_p2: "Litecoin的設計目的之一是提供一種挖掘演算法，使它能夠在挖掘比特幣的機器上被同時運行。為挖掘比特幣而設計的專用積體電路(ASIC)逐漸興起的同時，Litecoin也緊跟著技術演變。但在Litecoin貨幣被廣泛應用之前，不太可能會出現專門為Litecoin設計的專用積體電路(ASIC)。"
   download:
-   title: "下载"
-   for_windows: "供Windows使用"
-   for_linux:   "供GNU/Linux使用"
-   for_osx:     "供Mac OS X使用"
-   source_on_github: "登录GitHub，获取Litecoin的源代码及相关项目。"
+    title: "下载"
+    for_windows: "供Windows使用"
+    for_linux: "供GNU/Linux使用"
+    for_osx: "供Mac OS X使用"
+    source_on_github: "登录GitHub，获取Litecoin的源代码及相关项目。"
   community:
     title: "社區"
-    body_html: "您可以從很多日益壯大的Litecoin社區中尋求技術支援，例如：
-                <ul>
-                    <li><a href=\"http://forum.litecoin.net\">Litecoin論壇</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社區</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用戶</a></li>
-                    <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>網路頻道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用戶)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向開發者)</li>
-                </ul>"
+    body_html: "您可以從很多日益壯大的Litecoin社區中尋求技術支援，例如： <ul> <li><a href=\"https://litecointalk.org\">Litecoin論壇</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社區</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用戶</a></li> <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>網路頻道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用戶)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向開發者)</li>\
+      \ </ul>"
   resources:
     title: "資源"
-    body_html: "查看<a href=\"http://litecoin.info\">Litecoin維琪</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。
-                <br />
-                查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易圖表</a>，獲取最新的網上交易資料。
-                <br />
-                訪問<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
+    body_html: "查看<a href=\"http://litecoin.info\">Litecoin維琪</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。 <br /> 查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易圖表</a>，獲取最新的網上交易資料。 <br /> 訪問<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
   free_oss:
     title: "免費開源軟體"
-    body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果你願意，你也可以發行軟體的修改版本。
-                <br />
-                該軟體以完全透明的形式發佈，使用者可以對二進位版本以及對應原始程式碼進行獨立驗證。"
+    body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果你願意，你也可以發行軟體的修改版本。 <br /> 該軟體以完全透明的形式發佈，使用者可以對二進位版本以及對應原始程式碼進行獨立驗證。"
   blockchain:
     title: "資料塊鏈"
-    body_html: "Litecoin塊鏈與其競爭對手——比特幣比起來，能夠處理更大的交易量。由於資料塊的生成更加頻繁，該網路可以支援更多的交易，並且無需在將來修改軟體。
-                <br />
-                因此，商家可以獲得更快的交易確認，而且在銷售大額商品時依然能夠等待更多的交易確認。"
+    body_html: "Litecoin塊鏈與其競爭對手——比特幣比起來，能夠處理更大的交易量。由於資料塊的生成更加頻繁，該網路可以支援更多的交易，並且無需在將來修改軟體。 <br /> 因此，商家可以獲得更快的交易確認，而且在銷售大額商品時依然能夠等待更多的交易確認。"
   wallet_enc:
     title: "錢包加密"
-    body_html: "錢包加密能夠保證您錢包中私密金鑰的安全，從而讓您可以查看交易情況及帳戶餘額，但是您在使用litecoin之前必須輸入密碼。
-                <br />
-                該功能不僅能夠防止病毒及木馬的侵擾，同時還是付款前的一項有效的合法性檢查。"
+    body_html: "錢包加密能夠保證您錢包中私密金鑰的安全，從而讓您可以查看交易情況及帳戶餘額，但是您在使用litecoin之前必須輸入密碼。 <br /> 該功能不僅能夠防止病毒及木馬的侵擾，同時還是付款前的一項有效的合法性檢查。"
   mining_reward:
     title: "獎勵"
-    body_html: "“礦工們”起初每資料塊可以產出50個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。
-                <br />
-                因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
+    body_html: "“礦工們”起初每資料塊可以產出50個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。 <br /> 因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
   contact_blurb_html: "您可以通過<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>聯繫Litecoin的開發團隊。"
   footer:
     copyright: "&copy; 2014 Litecoin开发者版权所有，并保留所有权利。"

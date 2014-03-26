@@ -1,4 +1,3 @@
----
 el:
   lang_name: "Ελληνικά"
   head:
@@ -8,27 +7,18 @@ el:
     body_p1: "Το Litecoin είναι ένα P2P (peer-to-peer) διαδικτυακό νόμισμα το οποίο επιτρέπει στιγμιαίες συναλλαγές προς οποιονδήποτε σε όλο τον κόσμο. Βασίζεται στο πρωτόκολλο του Bitcoin, αλλά διαφέρει από το Bitcoin στο γεγονός ότι μπορεί να εξορυχθεί αποδοτικά με μη εξεζητημένο υλικό - hardware. Το Litecoin παρέχει επίσης γρηγορότερες επιβεβαιώσεις συναλλαγών (με μέσο όρο τα 2.5 λεπτά), βασίζεται στον απαιτητικό σε μνήμη scrypt αλγόριθμο εξόρυξης (για proof-of-work) και στοχεύει σε υπολογιστές και κάρτες γραφικών που διαθέτουν οι περισσότεροι άνθρωποι. Το δίκτυο του Litecoin έχει προγραμματιστεί ώστε να παράγει 84 εκατομμύρια νομίσματα."
     body_p2: "Ένας από τους στόχους του Litecoin ήταν το να παρέχει έναν αλγόριθμο εξόρυξης που θα μπορούσε να εκτελεστεί ταυτόχρονα, με το ίδιο hardware που χρησιμοποιούνταν για την παραγωγή bitcoins. Με την δημιουργία εξεζητημένων ASICs για το Bitcoin, το Litecoin εξακολουθεί να ικανοποιεί αυτόν τον στόχο. Είναι απίθανο να αναπτυχθούν μηχανήματα ASIC για το Litecoin έως ότου επεκταθεί περαιτέρω η χρήση του."
   download:
-   title: "ΚΑΤΕΒΑΣΤΕ"
-   for_windows: "για Windows"
-   for_linux:   "για GNU/Linux"
-   for_osx:     "για Mac OS X"
-   source_on_github: "Litecoin-Qt πηγαίος κώδικας <br/> στο GitHub"
+    title: "ΚΑΤΕΒΑΣΤΕ"
+    for_windows: "για Windows"
+    for_linux: "για GNU/Linux"
+    for_osx: "για Mac OS X"
+    source_on_github: "Litecoin-Qt πηγαίος κώδικας <br/> στο GitHub"
   community:
     title: "Κοινότητα"
-    body_html: "Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin:
-                <ul>
-                    <li><a href=\"http://forum.litecoin.net\">Επίσημο Litecoin Φόρουμ</a></li>
-                    <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin στο Reddit</a></li>
-                    <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Αναζήτηση για χρήστες στο Twitter</a></li>
-                    <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> δικτυακά κανάλια <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (για απλούς χρήστες) και <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (για developers).</li>
-                </ul>"
+    body_html: "Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin: <ul> <li><a href=\"https://litecointalk.org\">Επίσημο Litecoin Φόρουμ</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin στο Reddit</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Αναζήτηση για χρήστες στο Twitter</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> δικτυακά κανάλια <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (για απλούς χρήστες) και <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (για developers).</li>\
+      \ </ul>"
   resources:
     title: "Πηγές"
-    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
-                <br />
-                Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
-                <br />
-                Ο πηγαίος κώδικας για το Litecoin-Qt και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Ο πηγαίος κώδικας για το Litecoin-Qt και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Ελεύθερο Λογισμικό Ανοικτού Κώδικα"
     body_html: "Το Litecoin αποτελεί λογισμικό ανοικτού κώδικα και υπάγεται στην άδεια MIT/X11, η οποία επιτρέπει την εκτέλεση, τροποποίηση, αντιγραφή του λογισμικού και διανομή του, κατ'επιλογή σου. Το λογισμικό κυκλοφορεί με μία διαφανή διαδικασία που επιτρέπει την ανεξάρτητη πιστοποίηση των δυαδικών (binary) αρχείων και τον αντίστοιχο πηγαίο κώδικα."
@@ -40,9 +30,7 @@ el:
     body_html: "Με την κρυπτογράφηση του πορτοφολιού διασφαλίζετε το πορτοφόλι σας, έτσι ώστε να μπορείτε να δείτε τις συναλλαγές και το υπόλοιπό σας, αλλά για να ξοδεύσετε τα litecoins σας θα απαιτείται η είσοδος ενός κωδικού που ορίζετε εσείς. <br />Αυτό σας προστατεύει από ιούς που στοχεύουν στο να κλέψουν το πορτοφόλι σας, από trojans, και γενικότερα λειτουργεί σαν ένας επιπρόσθετος έλεγχος ασφάλειας πριν την κάθε πληρωμή."
   mining_reward:
     title: "Αμοιβή Εξόρυξης"
-    body_html: "Οι συμμετέχοντες στην διαδικασία της εξόρυξης νομισμάτων (miners) προς το παρόν αμοίβονται με 50 νέα litecoins ανά μπλοκ, ένα ποσό που μειώνεται στο μισό σχεδόν κάθε 4 έτη (κάθε 840,000 μπλοκ). 
-                <br />
-                Το δίκτυο του Litecoin είναι ως εκ τούτου προσχεδιασμένο να παράγει 84 εκατομμύρια litecoins, ένα σύνολο 4 φορές μεγαλύτερο από το αντίστοιχο του Bitcoin."
+    body_html: "Οι συμμετέχοντες στην διαδικασία της εξόρυξης νομισμάτων (miners) προς το παρόν αμοίβονται με 50 νέα litecoins ανά μπλοκ, ένα ποσό που μειώνεται στο μισό σχεδόν κάθε 4 έτη (κάθε 840,000 μπλοκ). <br /> Το δίκτυο του Litecoin είναι ως εκ τούτου προσχεδιασμένο να παράγει 84 εκατομμύρια litecoins, ένα σύνολο 4 φορές μεγαλύτερο από το αντίστοιχο του Bitcoin."
   contact_blurb_html: "Μπορείτε να επικοινωνήσετε με την ομάδα ανάπτυξης του Litecoin στο <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Πνευματική Ιδιοκτησία &copy; 2014 Litecoin Project. Mε την επιφύλαξη παντός δικαιώματος."
