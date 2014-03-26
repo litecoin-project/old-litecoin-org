@@ -86,6 +86,10 @@ a:active, a:hover {
 	margin-top: 8px;
 }
 
+.langselect {
+	text-align: left;
+}
+
 .social {
 	text-align: right;
 }

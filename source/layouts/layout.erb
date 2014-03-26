@@ -16,22 +16,25 @@
 
 		<!-- Upper Content Container -->
 		<div class="container">
-		  <!-- Language Selection Row -->
-		  <div class="row">
-		  	<div class="col-md-12 centeredList">
-			  	<ul class="inline-list">
-				  	<%= t 'head.select-lang' %>
-		  	  </ul>
-		  	</div>
-		  </div>
 		  <!-- Logo and Social Icons Row -->
 		  <div class="row" id="headerRow">
 		  	<!-- Litecoin Logo -->
-		    <div class="col-xs-6">
+		    <div class="col-xs-8">
 		      <img src="/images/litecoin-logo-192.png" alt="litecoin.org" title="litecoin.org" />
 		    </div>
+		  <!-- Language Selection -->
+		    <div class="col-xs-1 langselect">
+		      <div class="btn-group">
+		        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+		        <%= t 'lang_name' %> <span class="caret"></span>
+		        </button>
+		        <ul class="dropdown-menu" role="menu">
+		        <%= language_codes %>
+		        </ul>
+		      </div>
+		    </div>
 		    <!-- Social Section -->
-		    <div class="col-xs-6 hidden-xs social">
+		    <div class="col-xs-3 hidden-xs social">
 		    	<!-- Icons -->
 	        <a id="gplus-image" href="https://plus.google.com/104307324656397909502/posts">
 	          <img class="pulse" src="/images/google-40px.png" onmouseover="this.src='/images/google-over-40px.png'" onmouseout="this.src='/images/google-40px.png'" title="Google Plus" height="40" width="40" alt="Google Plus" />

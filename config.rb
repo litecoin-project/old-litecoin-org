@@ -71,3 +71,16 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+helpers do
+  def language_codes
+    available_translations = I18n.backend.send(:translations).select{|k,v| v.has_key?(:lang_name)}
+    retval = ""
+    available_translations.each do |k,v|
+      unless v[:lang_name] == t('lang_name')
+        retval += "<li><a href=\"#{(k.to_s == "en") ? "/" : "/#{k}"}\">#{v[:lang_name]}</a></li>"
+      end
+    end
+    retval
+  end
+end
