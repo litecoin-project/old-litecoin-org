@@ -44,7 +44,7 @@
 #     "Helping"
 #   end
 # end
-activate :i18n, :mount_at_root => :es
+activate :i18n, :mount_at_root => :en
 
 set :css_dir, 'stylesheets'
 
