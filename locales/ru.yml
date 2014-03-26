@@ -1,19 +1,8 @@
 ---
 ru:
+  lang_name: "Русский"
   head:
     title: "Litecoin - Электронная Валюта"
-    select-lang: "<li><a href=\"/\">English</a></li>
-                  <li><a href=\"/fr\">Français</a></li>
-                  <li><a href=\"/es\">Español</a></li>
-                  <li><a href=\"/pt\">Português</a></li>
-                  <li><a href=\"/it\">Italiano</a></li>
-                  <li><a href=\"/de\">Deutsch</a></li>
-                  <li><a href=\"/nl\">Nederlands</a></li>
-                  <li><a href=\"/el\">Ελληνικά</a></li>
-                  <li><span class=\"selected-lang\">Русский</span></li>
-                  <li><a href=\"/zh_CN\">中文</a></li>
-                  <li><a href=\"/zh_TW\">繁體中文</a></li>
-                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Что такое Litecoin?"
     body_p1: "Litecoin это пиринговая электронная валюта и одновременно платежная система, позволяющая производить быстрые платежи по всему миру."

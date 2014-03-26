@@ -1,19 +1,8 @@
 ---
 fr:
+  lang_name: "Français"
   head:
     title: "Litecoin - Monnaie électronique décentralisée et open source"
-    select-lang: "<li><a href=\"/\">English</a></li>
-                  <li><span class=\"selected-lang\">Français</span></li>
-                  <li><a href=\"/es\">Español</a></li>
-                  <li><a href=\"/pt\">Português</a></li>
-                  <li><a href=\"/it\">Italiano</a></li>
-                  <li><a href=\"/de\">Deutsch</a></li>
-                  <li><a href=\"/nl\">Nederlands</a></li>
-                  <li><a href=\"/el\">Ελληνικά</a></li>
-                  <li><a href=\"/ru\">Русский</a></li>
-                  <li><a href=\"/zh_CN\">中文</a></li>
-                  <li><a href=\"/zh_TW\">繁體中文</a></li>
-                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Litecoin, c'est quoi ?"
     body_p1: "Litecoin est une monnaie électronique qui permet des paiements instantanés à n'importe quelle personne dans le monde. Litecoin est basé sur le protocole Bitcoin mais diffère de Bitcoin par l'équipement nécessaire à son minage: le minage est rentable même du matériel informatique standard et non spécialisé. Litecoin offre des confirmations de transactions plus rapides (2,5 minutes en moyenne) et repose sur un algorithme de minage et de vérification basé sur scrypt et coûteux en ressources mémoire, rendant ainsi Litecoin intéressant à miner avec les ordinateurs et GPUs standards dont disposent la plupart des personnes. Litecoin est construit tel que tout le réseau produise près de 84 millions de litecoin."

@@ -1,18 +1,7 @@
 ---
 nl:
+  lang_name: "Nederlands"
   head:
-    select-lang: "<li><a href=\"/\">English</a></li>
-                  <li><a href=\"/fr\">Français</a></li>
-                  <li><a href=\"/es\">Español</a></li>
-                  <li><a href=\"/pt\">Português</a></li>
-                  <li><a href=\"/it\">Italiano</a></li>
-                  <li><a href=\"/de\">Deutsch</a></li>
-                  <li><span class=\"selected-lang\">Nederlands</span></li>
-                  <li><a href=\"/el\">Ελληνικά</a></li>
-                  <li><a href=\"/ru\">Русский</a></li>
-                  <li><a href=\"/zh_CN\">中文</a></li>
-                  <li><a href=\"/zh_TW\">繁體中文</a></li>
-                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Wat is Litecoin?"
     body_p1: "Litecoin is een peer-to-peer Internet valuta die toestaat om ogenblikkelijke betalingen te doen naar gelijk wie ter wereld. Het is gebaseerd op het Bitcoin protocol maar verschilt van Bitcoin  doordat het efficiënt gemined kan worden met hardware die voor een doorsnee consument beschikbaar is. Litecoin zorgt voor snellere bevestigingen van transacties (gemiddeld 2,5 minuten) en gebruikt een geheugenintensief, op scrypt-gebaseerde mining proof-of-work algoritme gericht op normale computers en GPU’s die de meeste mensen al bezitten. Het is gepland dat het Litecoin netwerk 84 miljoen valutaeenheden zal produceren."

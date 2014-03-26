@@ -1,19 +1,8 @@
 ---
 el:
+  lang_name: "Ελληνικά"
   head:
     title: "Litecoin - Ψηφιακό Νόμισμα P2P  Ανοικτού Κώδικα"
-    select-lang: "<li><a href=\"/\">English</a></li>
-                  <li><a href=\"/fr\">Français</a></li>
-                  <li><a href=\"/es\">Español</a></li>
-                  <li><a href=\"/pt\">Português</a></li>
-                  <li><a href=\"/it\">Italiano</a></li>
-                  <li><a href=\"/de\">Deutsch</a></li>
-                  <li><a href=\"/nl\">Nederlands</a></li>
-                  <li><span class=\"selected-lang\">Ελληνικά</span></li>
-                  <li><a href=\"/ru\">Русский</a></li>
-                  <li><a href=\"/zh_CN\">中文</a></li>
-                  <li><a href=\"/zh_TW\">繁體中文</a></li>
-                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "Τί είναι το Litecoin;"
     body_p1: "Το Litecoin είναι ένα P2P (peer-to-peer) διαδικτυακό νόμισμα το οποίο επιτρέπει στιγμιαίες συναλλαγές προς οποιονδήποτε σε όλο τον κόσμο. Βασίζεται στο πρωτόκολλο του Bitcoin, αλλά διαφέρει από το Bitcoin στο γεγονός ότι μπορεί να εξορυχθεί αποδοτικά με μη εξεζητημένο υλικό - hardware. Το Litecoin παρέχει επίσης γρηγορότερες επιβεβαιώσεις συναλλαγών (με μέσο όρο τα 2.5 λεπτά), βασίζεται στον απαιτητικό σε μνήμη scrypt αλγόριθμο εξόρυξης (για proof-of-work) και στοχεύει σε υπολογιστές και κάρτες γραφικών που διαθέτουν οι περισσότεροι άνθρωποι. Το δίκτυο του Litecoin έχει προγραμματιστεί ώστε να παράγει 84 εκατομμύρια νομίσματα."

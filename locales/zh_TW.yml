@@ -1,19 +1,8 @@
 ---
 zh_TW:
+  lang_name: "繁體中文"
   head:
     title: "Litecoin - 開源P2P電子貨幣"
-    select-lang: "<li><a href=\"/\">English</a></li>
-                  <li><a href=\"/fr\">Français</a></li>
-                  <li><a href=\"/es\">Español</a></li>
-                  <li><a href=\"/pt\">Português</a></li>
-                  <li><a href=\"/it\">Italiano</a></li>
-                  <li><a href=\"/de\">Deutsch</a></li>
-                  <li><a href=\"/nl\">Nederlands</a></li>
-                  <li><a href=\"/el\">Ελληνικά</a></li>
-                  <li><a href=\"/ru\">Русский</a></li>
-                  <li><a href=\"/zh_CN\">中文</a></li>
-                  <li><span class=\"selected-lang\">繁體中文</span></li>
-                  <li><a href=\"/ja\">日本語</a></li>"
   intro:
     title: "什麼是Litecoin？"
     body_p1: "Litecoin（中文译名：莱特币）是一種基於“點對點”(peer-to-peer)技術的網路貨幣，它可以説明您即時付款給世界上任何一個人。它基於比特幣(Bitcoin)協議，但不同於比特幣的地方在於，通過消費級的硬體也可以高效地“挖礦”。Litecoin提供給您更快速的交易確認（平均2.5分鐘），它使用硬記憶體以及基於scrypt(一種加密演算法)的挖礦工作量證明演算法，面向大多數人使用的普通電腦及圖形處理器(GPU)。Litecoin網路預期將生產8400萬個貨幣單位。"
