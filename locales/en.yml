@@ -1,5 +1,6 @@
 ---
 en:
+  #. This is the name of your language in your own language.
   lang_name: "English"
   head:
     title: "Litecoin - Open source P2P digital currency"
