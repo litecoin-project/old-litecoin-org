@@ -1,0 +1,43 @@
+vi:
+  lang_name: "Tiếng Anh"
+  head:
+    title: "Litecoin - Tiền tệ kĩ thuật số dựa trên mã nguồn mở P2P"
+  intro:
+    title: "Litecoin là gì?"
+    body_p1: "Litecoin là một loại tiền tệ trên mạng Internet ngang hàng cho phép người dùng thanh toán ngay lập tức cho bất cứ ai trên thế giới. Cùng dựa trên giao thức giống với Bitcoin, nhưng Litecoin khác ở chỗ nó có thể được khai thác dễ dàng hiệu quả với những phần cứng thông thường. Litecoin cung ứng việc xác nhận một giao dịch nhanh hơn ( trung bình 2,5 phút) và tối ưu hóa khai thác bằng việc sử dụng thuật toán Scrypt, nhắm đến các dàn máy tính thông thường và card màn hình mà hầu hết mọi người đều có. Hệ thống Litecoin được lên kế hoạch đế sản xuất 84 triệu đơn vị tiền tệ."
+    body_p2: "Một trong những mục tiêu của Litecoin là cung cấp một thuật toán khai thác có thể chạy song song trên cùng một thiết bị phần cứng sử dụng để khai thác Bitcoin. Khi mà thiết bị chuyên biệt ASICs dành cho khai thác Bitcoin được sử dụng thường xuyên thì Litecoin sẽ vẫn tiếp tục đáp ứng được mục tiêu này. Thực tế là ASICs sẽ không được phát triển để khai thác Litecoin cho đến khi loại tiền tệ này được sử dụng rộng rãi hơn"
+  download:
+    title: "TẢI VỀ"
+    for_windows: "dành cho Windows"
+    for_linux: "dành cho GNU/Linux"
+    for_osx: "dành cho Mac OS X"
+    for_android: "Litecoin cho Android"
+    for_blackberry: "Litecoin cho BlackBerry"
+    in_development: "ĐANG PHÁT TRIỂN"
+    coming_soon: "Sắp ra mắt"
+    source: "MÃ NGUỒN"
+    source_on_github: "Mã Nguồn của Litecoin-Qt <br/> trên GitHub"
+    release_notes: "Ghi chú phát hành..."
+    upgrade_notes: "Ghi chú cập nhật..."
+  community:
+    title: "Cộng đồng"
+    body_html: "Tìm kiếm hỗ trợ từ cộng đồng sử dụng Litecoins ngày càng nhiều lên tại địa chỉ: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Tìm người dùng trên Twitter</a></li> <li>Kênh  <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC trên FreeNode</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (cho người sử dụng) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (cho người phát triển).</li>\
+      \ </ul>"
+  resources:
+    title: "Tài nguyên"
+    body_html: "Tìm kiếm thông tin chung cũng như danh sách các dịch vụ và sàn giao dịch hỗ trợ Litecoin tại địa chỉ <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Cập nhật số liệu thống kê mạng có thể tìm thấy tại địa chỉ <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Mã nguồn cho Litecoin-Qt và các dự án liên quan có sẵn tại địa chỉ <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+  free_oss:
+    title: "Phần mềm tự do, mã nguồn mở"
+    body_html: "Litecoin là một dự án phần mềm tự do được lưu hành theo giấy phép MIT/X11 cho phép bạn có quyền sử dụng, chỉnh sửa, sao chép phần mềm và phân phối bản sao tùy theo mong muốn của bạn. Quá trình phát hành của phần mềm là minh bạch, cho phép bạn xem xét, thẩm định độc lập các chương trình và mã nguồn tương ứng "
+  blockchain:
+    title: "Blockchain"
+    body_html: "So với đồng Bitcoin, Litecoin Blockchain có khả năng xử lý khối lượng giao dịch tối đa cao hơn, do mạng lưới tạo ra block thường xuyên hơn cho phép một số lượng lớn các giao dịch mà không cần phải sửa đổi phần mềm trong tương lai. <br />Kết quả là người dùng có được thời gian xác nhận giao dịch nhanh hơn, trong khi vẫn có khả năng chờ đợi nhiều xác nhận khi thực hiện một giao dịch lớn."
+  wallet_enc:
+    title: "Mã hóa ví tiền"
+    body_html: "Mã hóa ví tiền giúp bạn bảo vệ túi tiền của bạn một cách an toàn nhất. Bạn có thể xem các giao dịch và số dư tài khoản của bạn, nhưng sẽ được yêu cầu nhập mật mã riêng của bạn trước khi tiêu litecoin. <br />Điều này bảo vệ dành bạn khỏi virus hay trojan ăn cắp tiền cũng như kiểm tra sự tỉnh táo của bạn trước khi thanh toán"
+  mining_reward:
+    title: "Phần thưởng"
+    body_html: "Thợ mỏ sẽ được nhận 50 Litecoin đối với mỗi khối (block), con số nhận được này sẽ giảm một nửa sau 4 năm ( mỗi 840.000 block). <br /> Do đó mạng lưới Litecoin dự kiến sẽ sản xuất là 84 triệu đồng Litecoin, gấp 4 lần so với số đơn vị tiền tệ Bitcoin."
+  contact_blurb_html: "Bạn có thể liện hệ với nhóm phát triển dự án Litecoin tại địa chỉ <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."
