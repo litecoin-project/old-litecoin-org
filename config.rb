@@ -52,7 +52,7 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-set :core_version, '0.8.6.2'
+set :core_version, '0.8.7.1'
 
 # Build-specific configuration
 configure :build do
