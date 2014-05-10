@@ -6,8 +6,7 @@ en:
     title: "Litecoin - Open source P2P digital currency"
   intro:
     title: "What is Litecoin?"
-    body_p1: "Litecoin is a peer-to-peer Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in that it can be efficiently mined with consumer-grade hardware. Litecoin provides faster transaction confirmations (2.5 minutes on average) and uses a memory-hard, scrypt-based mining proof-of-work algorithm to target the regular computers and GPUs most people already have. The Litecoin network is scheduled to produce 84 million currency units."
-    body_p2: "One of the aims of Litecoin was to provide a mining algorithm that could run at the same time, on the same hardware used to mine bitcoins. With the rise of specialized ASICs for Bitcoin, Litecoin continues to satisfy these goals. It is unlikely for ASIC mining to be developed for Litecoin until the currency is widely used."
+    body: "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.  Litecoin is an open source, global payment network that is fully decentralized without any central authorities.  Mathematics secures the network and empowers individuals to control their own finances.  Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency.  With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
   download:
    title: "DOWNLOAD"
    for_windows: "for Windows"
@@ -38,8 +37,8 @@ en:
                               <br />
                               Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
-    title: "Free, open-source software"
-    body_html: "Litecoin is a free software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
+    title: "Open Source Software"
+    body_html: "Litecoin is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
   blockchain:
     title: "Blockchain"
     body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. <br />As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
