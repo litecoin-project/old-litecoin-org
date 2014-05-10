@@ -1,10 +1,10 @@
 nl:
   lang_name: "Nederlands"
   head:
-    title: "Litecoin - Open source P2p digitale valuta"
+    title: "Litecoin - Open source P2P digitale valuta"
   intro:
     title: "Wat is Litecoin?"
-    body_p1: "Litecoin is een peer-to-peer Internet valuta die toestaat om ogenblikkelijke betalingen te doen naar gelijk wie ter wereld. Het is gebaseerd op het Bitcoin protocol maar verschilt van Bitcoin  doordat het efficiënt gemined kan worden met hardware die voor een doorsnee consument beschikbaar is. Litecoin zorgt voor snellere bevestigingen van transacties (gemiddeld 2,5 minuten) en gebruikt een geheugenintensief, op scrypt-gebaseerde mining proof-of-work algoritme gericht op normale computers en GPU’s die de meeste mensen al bezitten. Het is gepland dat het Litecoin netwerk 84 miljoen valutaeenheden zal produceren."
+    body_p1: "Litecoin is een peer-to-peer Internet valuta die toestaat om ogenblikkelijke betalingen te doen naar gelijk wie ter wereld. Het is gebaseerd op het Bitcoin protocol maar verschilt van Bitcoin doordat het efficiënt gemined kan worden met hardware die voor een doorsnee consument beschikbaar is. Litecoin zorgt voor snellere bevestigingen van transacties (gemiddeld 2,5 minuten) en gebruikt een geheugenintensief, op scrypt-gebaseerde mining proof-of-work algoritme gericht op normale computers en GPU’s die de meeste mensen al bezitten. Het is gepland dat het Litecoin netwerk 84 miljoen valutaeenheden zal produceren."
     body_p2: "Een van de doelen van Litecoin was om een mining algoritme te leveren dat op hetzelfde moment kan draaien, op dezelfde hardware die gebruikt wordt om bitcoins te minen. Met de opkomst van gespecialiseerde ASICs voor Bitcoin, blijft Litecoin voldoen aan deze doelstellingen. Het is onwaarschijnlijk dat ASIC mining ontwikkeld zal worden voor Litecoin alvorens de valuta op grote schaal gebruikt wordt."
   download:
     title: "DOWNLOAD"
@@ -13,31 +13,31 @@ nl:
     for_osx: "voor Mac OS X"
     for_android: "Litecoin voor Android"
     for_blackberry: "Litecoin voor BlackBerry"
-    in_development: "In ontwikkeling"
-    coming_soon: "Komt binnenkort"
-    source: "bron"
-    source_on_github: "Litecoin-Qt broncode <br/> voor GitHub"
+    in_development: "IN ONTWIKKELING"
+    coming_soon: "Komt Binnenkort"
+    source: "BRONCODE"
+    source_on_github: "Litecoin-Qt broncode <br/> op GitHub"
     release_notes: "Release Notes..."
     upgrade_notes: "Upgrade Notes..."
   community:
-    title: "gemeenschap"
+    title: "Gemeenschap"
     body_html: "Vind ondersteuning binnen een groeiend aantal Litecoin communty’s <ul> <li><a href=\"https://litecointalk.org/\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Zoek naar gebruikers op Twitter</a><a></a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode network channels</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (voor algemene gebruikers) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (voor ontwikkelaars).</li>\
       \ </ul> "
   resources:
     title: "Hulpmiddelen"
     body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Broncode voor Litecoin-QT aan aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
-    title: "Gratis open-source software"
-    body_html: "Litecoin is een gratis software project uitgebracht onder de MIT/X11 licentie die gebruikers de toestemming geeft de software te draaien, aan te passen, te kopiëren en optioneel ook aangepaste kopieën van de software uit te geven. De software is uitgebracht op een transparante manier die toestaat de binaries en hun daarmee corresponderende codes onafhankelijk te verifiëren. "
+    title: "Gratis, open-source software"
+    body_html: "Litecoin is gratis software project uitgebracht onder de MIT/X11 licentie die gebruikers de toestemming geeft de software te draaien, aan te passen, te kopiëren en optioneel ook aangepaste kopieën van de software uit te geven. De software is uitgebracht op een transparante manier die toestaat de binaries en hun daarmee corresponderende codes onafhankelijk te verifiëren. "
   blockchain:
     title: "Blokketen"
     body_html: "De Litecoin blokketen heeft de mogelijkheid een hoger volume aan transacties te ondersteunen dan zijn tegenhanger – Bitcoin. Door een frequentere aanmaak van blokken, kan het netwerk meer transacties verdragen zonder de noodzaak om de software in de toekomst aan te passen. <br /> Bijgevolg krijgen handelaars snellere bevestigingstijden, terwijl ze nog altijd de mogelijkheid hebben om op meer bevestigingen te wachten wanneer zij duurdere producten verkopen.  "
   wallet_enc:
     title: "Portemonnee Encryptie"
-    body_html: "Encryptie van de portemonnee geeft je de mogelijkheid je portemonnee te beveiligen. Op die manier kan je transacties en rekeningsaldo altijd onmiddellijk bekijken, maar heb je een paswoord nodig hebt vooraleer je litecoins kan uitgeven. <br /> Dit biedt bescherming tegen portemonnee-stelende virussen en trojans , en zorgt daarnaast ook voor een extra veiligheidscontrole voordat je een betaling verzendt."
+    body_html: "Encryptie van de portemonnee geeft je de mogelijkheid je portemonnee te beveiligen. Op die manier kan je transacties en rekeningsaldo altijd onmiddellijk bekijken, maar heb je een paswoord nodig hebt vooraleer je litecoins kan uitgeven. <br />Dit biedt bescherming tegen portemonnee-stelende virussen en trojans, en zorgt daarnaast ook voor een extra veiligheidscontrole voordat je een betaling verzendt."
   mining_reward:
-    title: "Mining beloning"
+    title: "Mining Beloning"
     body_html: "Miners worden momenteel beloond met 50 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken). <br /> Het is hierdoor gepland dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valutaeenheden als Bitcoin is."
   contact_blurb_html: "Je kan het Litecoin projectontwikkelingsteam bereiken op <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Developers. Alle rechten voorbehouden."
+    copyright: "Copyright &copy; 2014 Litecoin Project. Alle rechten voorbehouden."

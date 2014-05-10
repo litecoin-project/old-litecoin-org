@@ -25,13 +25,13 @@ fr:
       \ </ul>"
   resources:
     title: "Ressources"
-    body_html: "Des informations générales ainsi qu'une liste des sites et des bourses (marchés) acceptant Litecoin sont disponibles dans le site collaboratif <a href=\"http://litecoin.info\">(wiki) de Litecoin</a>. <br /> Des statistiques actualisées du réseau Litecoin sont affichées à <a href=\"http://ltc.block-explorer.com/charts\">LiteCoin Block Explorer Charts</a>. <br /> Le code source de Litecoin et des projets similaires sont disponibles sur <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
+    body_html: "Des informations générales ainsi qu'une liste des sites et des bourses (marchés) acceptant Litecoin sont disponibles dans le site collaboratif <a href=\"http://litecoin.info\">(wiki) de Litecoin</a>. <br /> Des statistiques actualisées du réseau Litecoin sont affichées à <a href=\"http://ltc.block-explorer.com/charts\">LiteCoin Block Explorer Charts</a>. <br /> Le code source de Litecoin et des projets similaires sont disponibles sur <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Logiciel Gratuit et Open Source"
     body_html: "Litecoin est un projet open source gratuit distribué sous la licence MIT/X11 qui vous autorise à exécuter, modifier et copier le logiciel ainsi qu'à en distribuer des copies modifiées. Le logiciel est distribué de manière transparente permettant une vérification indépendante des fichiers exécutables et de leurs codes sources."
   blockchain:
     title: "Registre des transactions"
-    body_html: "Le blockchain Litecoin est capable de gérer un plus grand volume de transactions que son homologue Bitcoin. Grâce à une génération de blocs plus fréquente, le réseau permet plus de transactions sans avoir à modifier le logiciel. <br /> Par conséquent, les marchands ont des délais de confirmation plus courts, et ils peuvent choisir d'attendre plus longtemps pour plus de confirmations avant de livrer les produits plus chers."
+    body_html: "Le blockchain Litecoin est capable de gérer un plus grand volume de transactions que son homologue Bitcoin. Grâce à une génération de blocs plus fréquente, le réseau permet plus de transactions sans avoir à modifier le logiciel. <br />Par conséquent, les marchands ont des délais de confirmation plus courts, et ils peuvent choisir d'attendre plus longtemps pour plus de confirmations avant de livrer les produits plus chers."
   wallet_enc:
     title: "Cryptage du Portefeuille"
     body_html: "Le cryptage du portefeuille vous permet de sécuriser vos clés privés dans le portefeuille, en vous autorisant à suivre les transactions et le solde de votre compte mais en exigeant un mot de passe pour pouvoir dépenser vos litecoins. <br /> Cela sert à vous protéger contre les virus et chevaux de Troie, mais c'est aussi utile comme étape de vérification supplémentaire avant de procéder au paiement."

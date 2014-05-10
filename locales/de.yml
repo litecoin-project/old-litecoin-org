@@ -3,7 +3,7 @@ de:
   head:
     title: "Litecoin - Quelloffene, digitale P2P-Währung"
   intro:
-    title: "Was genau ist Litecoin?"
+    title: "Was ist Litecoin?"
     body_p1: "Litecoin ist eine Peer-To-Peer Internetwährung, die es ermöglicht, weltweit sofortige Zahlungen zu tätigen. Es ist an das Bitcoin-Protokoll angelehnt, unterscheidet sich jedoch von Bitcoins in der Hinsicht, dass das Mining effizienter ist und dadurch mit normalen Computern durchgeführt werden kann. Litecoins Transaktionsbestätigungen sind schneller (~2,5 Minuten) und es ist durch die Verwendung von scrypt-basierenden Proof-of-Work-Algorithmen auf gängige Computer und GPUs optimiert. Das Litecoin-Netzwerk wird 84 Millionen Währungseinheiten produzieren. "
     body_p2: "Eines der Ziele von Litecoin ist es, einen Mining-Algorithmus zur Verfügung zu stellen, der parallel auf derselben Hardware laufen kann, die zum Mining von Bitcoins verwendet wird. Während für das Mining von Bitcoins immer häufiger hochspezialisierte ASICs verwendet werden, erfüllt Litecoin weiterhin diesen Anspruch. Dass ASIC Mining für Litecoin entwickelt wird ist eher unwahrscheinlich solange die Währung nicht weiter verbreitet ist."
   download:
@@ -16,8 +16,8 @@ de:
     in_development: "IN ENTWICKLUNG"
     coming_soon: "Kommt bald"
     source: "QUELLE"
-    source_on_github: "Quellcode von Litecoin-Qt <br/> bei GitHub"
-    release_notes: "Versionshinweise"
+    source_on_github: "Litecoin-Qt Quellcode <br/> bei GitHub"
+    release_notes: "Versionshinweise..."
     upgrade_notes: "Hinweise zur Aktualisierung..."
   community:
     title: "Community"
@@ -38,6 +38,6 @@ de:
   mining_reward:
     title: "Mining-Vergütung"
     body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
-  contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> bzw.)."
+  contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>)."
   footer:
     copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

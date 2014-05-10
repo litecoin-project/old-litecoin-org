@@ -1,7 +1,7 @@
 zh_CN:
   lang_name: "中文"
   head:
-    title: "Litecoin - 开源P2P电子货币"
+    title: "莱特币 - 开源P2P电子货币"
   intro:
     title: "什么是Litecoin？"
     body_p1: "Litecoin(中文译名：莱特币)是一种基于“点对点”(peer-to-peer)技术的网络货币，它可以帮助您即时付款给世界上任何一个人。它基于比特币(Bitcoin)协议，但不同于比特币的地方在于，通过消费级的硬件也可以高效地“挖矿”。Litecoin提供给您更快速的交易确认（平均2.5分钟），它使用硬内存以及基于scrypt(一种加密算法)的挖矿工作量证明算法，面向大多数人使用的普通计算机及图形处理器(GPU)。Litecoin网络预期将生产8400万个货币单位。"
@@ -11,7 +11,14 @@ zh_CN:
     for_windows: "供Windows使用"
     for_linux: "供GNU/Linux使用"
     for_osx: "供Mac OS X使用"
+    for_android: "莱特币安卓版"
+    for_blackberry: "莱特币黑莓版"
+    in_development: "开发中"
+    coming_soon: "即将推出"
+    source: "来源"
     source_on_github: "登录GitHub，获取Litecoin的源代码及相关项目。"
+    release_notes: "发行说明..."
+    upgrade_notes: "升级说明..."
   community:
     title: "社区"
     body_html: "您可以从很多日益壮大的Litecoin社区中寻求技术支持，例如： <ul> <li><a href=\"https://litecointalk.org\">Litecoin论坛</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社区</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用户</a></li> <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>网络频道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用户)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向开发者)</li>\

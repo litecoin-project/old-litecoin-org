@@ -28,9 +28,16 @@ pl:
     body_html: "Informacje ogólne, listę usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href=\"http://litecoin.info\">Wiki Litecoina </a>. <br />Bieżące statystyki sieci są dostępne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br/>Kod źródłowy Litecoin-Qt i powiązanych projektów jest dostępny na <a href=\"https://github.com/litecoin-project\">GitHubie</a>."
   free_oss:
     title: "Darmowe oprogramowanie o otwartym kodzie źródłowym"
+    body_html: "Litecoin jest projektem wolnego oprogramowania wydanym na licencji MIT/X11, która daje uprawnienia do uruchamiania, modyfikowania i kopiowania oprogramowania, jak też dystrybucji (według woli) zmodyfikowanej kopii oprogramowania. Oprogramowanie jest wydane w przejrzystym procesie, który pozwala na niezależną weryfikację plików binarnych i ich odpowiedniego kodu źródłowego."
+  blockchain:
+    title: "Łańcuch bloków"
+    body_html: "Łańcuch bloków Litecoin jest w stanie obsłużyć większy wolumen transakcji, niż jego odpowiednik - Bitcoin. Ze względu na częstszą generację bloku, sieć jest w stanie obsłużyć większą ilość transakcji bez konieczności modyfikowania oprogramowania w przyszłości. <br /> W efekcie handlujący uzyskują szybsze potwierdzenia, przy zachowaniu zdolności do oczekiwania na większą ilość potwierdzeń przy większej sprzedaży."
   wallet_enc:
     title: "Szyfrowanie portfela"
     body_html: "Szyfrowanie portfela pozwala zabezpieczyć Twój portfel, dzięki czemu widzisz transakcje i stan konta, ale aby wydać litecoiny musisz podać hasło. <br />Chroni to przed wirusami i trojanami kradnącymi portfele jak również jest formą autoryzacji przed wysłaniem płatności."
   mining_reward:
+    title: "Nagroda za wydobycie"
     body_html: "Górnicy są obecnie nagradzani 50 litecoinami za blok, a ilość ta zmniejsza się o połowę co 4 lata (co każde 840.000 bloki). <br />Sieć Litecoina jest zaprojektowana aby wyprodukować 84 miliony litecoinów, co oznacza 4 razy więcej niż bitcoinów."
   contact_blurb_html: "Możesz skontaktować się z developerami Litecoina przez adres  <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Prawa autorskie &copy; 2014 Litecoin Project. Wszelkie prawa zastrzeżone."
