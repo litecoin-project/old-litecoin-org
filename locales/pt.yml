@@ -4,8 +4,6 @@ pt:
     title: "Litecoin - A moeda digital"
   intro:
     title: "O que é Litecoin?"
-    body_p1: "Litecoin é uma moeda digital sustentada na rede peer-to-peer que permite a realização de pagamentos instantâneos para qualquer pessoa no mundo. Esta moeda está baseada no protocolo Bitcoin, mas difere dele em que pode ser extraída de forma eficiente com hardware para o consumidor. Litecoin fornece transações mais rápidas (média de 2,5) e utiliza um algoritmo de prova de trabalho de mineração e de memoria dura, baseado em scrypt, dirigido para computadores regulares e GPUs que possuem a maioria das pessoas. A rede Litecoin é projetada para produzir 84 milhões de unidades monetárias."
-    body_p2: "Um dos objetivos da Litecoin era fornecer um algoritmo de mineração que fosse executado ao mesmo tempo e no mesmo hardware usado para minerar bitcoins. Com o acréscimo dos ASICs especializados para Bitcoin, Litecoin continua satisfazendo estes objetivos. É improvável para a mineração de FPGA ou ASIC serem desenvolvidas para Litecoin, até que a moeda for amplamente utilizada."
   download:
     title: "DESCARREGAR"
     for_windows: "para Windows"
@@ -19,9 +17,6 @@ pt:
   resources:
     title: "Recursos"
     body_html: "Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> As estatísticas atualizadas da rede podem ser encontradas em: <a href=\"http://ltc.block-explorer.com/charts\">Gráficos de Explorador de Blocos Litecoin</a>. <br /> Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
-  free_oss:
-    title: "Software Livre Opensource"
-    body_html: "Litecoin é um projeto de software livre lançado sob a licença MIT/X11 que lhe oferece a liberdade de executar, modificar, copiar e distribuir o software, consoante o usuário, em cópias modificadas. O software é lançado num processo transparente que permite a verificação independente de binários e seu código fonte correspondente."
   blockchain:
     title: "Corrente de Blocos ou Block-chain"
     body_html: "A Corrente de Blocos da Litecoin é capaz de lidar com um volume maior de transações do que o seu homólogo - Bitcoin. Graças à geração mais frequente de blocos, a rede suporta mais transações sem ter que modificar o software no futuro. <br /> Em consequência, os comerciantes obtêm confirmações mais rápidas, enquanto ainda têm a capacidade de esperar por mais confirmações ao vender itens mais custosos."

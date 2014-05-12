@@ -4,13 +4,17 @@ ja:
     title: "Litecoin - オープンソースP2Pデジタル通貨"
   intro:
     title: "Litecoinとは？"
-    body_p1: "Litecoinは、世界中の誰に対してもすぐに支払えるP2Pのネット通貨です。Bitcoinプロトコルに基づいていますが、一般のハードウェアを用いて効率的にマイニングできるという点でBitcoinと異なります。Litecoinは素早い取引認証（平均2分半）を実現し、多くの人が所有している一般コンピュータとGPUを対象とする、メモリ依存型のscryptベースのProof-of-Workマイニングアルゴリズムを採用しています。今後、Litecoinネットワークでは8400万枚まで通貨が生成されていきます。"
-    body_p2: "Litecoinの目的の一つは、Bitcoinのマイニングに使用する同じハードウェア上で、同時にマイニングを行う事ができるアルゴリズムを提供することです。Bitcoinに特化したASICが増えれば、Litecoinはその目標の達成へ近づいていきます。Litecoinが広く流通までは、Litecoinに対するASICマイニングが開発されることはないでしょう。"
+    body: "Litecoin はピアツーピアのインターネット通貨になります。ほぼ無料に近い手数料で、世界中の誰にでも即座に支払いを行うことができます。中央集権型とは異なる完全分散型であり、オープンソースでグローバルな決済ネットワークとなります。数学によりネットワークの安全性を確保し、個々人による財政管理能力を高めています。主要な数学ベースの通貨と比べ、トランザクションの確認時間が短く、ストレージの効率性に優れているのが特長です。業界による多大な支持、取り引き量、流動資産などの実績を見てわかるように、Litecoin は Bitcoin を補完する商取引媒体となります。"
   download:
     title: "ダウンロード"
     for_windows: "Windows用"
     for_linux: "GNU/Linux用"
     for_osx: "Mac OS X用"
+    for_android: "Litecoin - Android 用"
+    for_blackberry: "Litecoin - BlackBerry 用"
+    in_development: "開発中"
+    coming_soon: "近日リリース"
+    source: "ソース"
     source_on_github: "GitHub上のLitecoin-Qt <br/>  ソースコード"
     release_notes: "更新履歴..."
     upgrade_notes: "アップグレードについてお知らせ..."
@@ -22,9 +26,10 @@ ja:
     title: "リソース"
     body_html: "Litecoinの一般情報、Litecoinをサポートしているサービスと取引所の一覧は、<a href=\"http://litecoin.info\">Litecoin Wiki</a>で見つけることができます。 <br /> 最新のネットワーク統計は、<a href=\"http://ltc.block-explorer.com/charts\">Litecoinブロックエクスプローラーチャート</a>で見ることができます。 <br /> <a href=\"https://github.com/litecoin-project\">GitHub</a>で、Litecoin-Qtと関連プロジェクトのソースコードを見ることができます。"
   free_oss:
-    title: "フリーオープンソースソフトウェア"
-    body_html: "LitecoinはMIT/X11ライセンスの下で公開されているフリーソフトウェアです。ライセンスによって、ソフトウェアの実行、変更、複製および任意に変更されたソフトウェアの複製を配布することができます。ソフトウェアはバイナリと対応するソースコードを独立検証できる明白なプロセスを通じて配布されます。"
+    title: "オープンソースソフトウェア"
+    body_html: "Litecoin は MIT/X11 ライセンスに準じてリリースされているオープンソースソフトウェアプロジェクトです。MIT/X11 ライセンスではソフトウェアの実行、編集、コピー、配信を行うことができます。本ソフトウエアは透過的なプロセスでリリースされるため、バイナリーおよびそのソースコードの独立検証が可能です。"
   blockchain:
+    title: "Blockchain"
     body_html: "Litecoinのblockchainは、対称のBitcoinより多くのトランザクションを取り扱うことができます。より頻繁にブロックが生成されるため、ソフトウェアを将来的に改良する必要なく、ネットワークを多くのトランザクションに対応させることができます。 <br /> その結果、売り手側も素早く認証を得ることができます。同時に金額の大きな商品を販売するときは、多くの認証を待つ事もできます。"
   wallet_enc:
     title: "ウォレットの暗号化"

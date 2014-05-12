@@ -4,8 +4,6 @@ de:
     title: "Litecoin - Quelloffene, digitale P2P-Währung"
   intro:
     title: "Was ist Litecoin?"
-    body_p1: "Litecoin ist eine Peer-To-Peer Internetwährung, die es ermöglicht, weltweit sofortige Zahlungen zu tätigen. Es ist an das Bitcoin-Protokoll angelehnt, unterscheidet sich jedoch von Bitcoins in der Hinsicht, dass das Mining effizienter ist und dadurch mit normalen Computern durchgeführt werden kann. Litecoins Transaktionsbestätigungen sind schneller (~2,5 Minuten) und es ist durch die Verwendung von scrypt-basierenden Proof-of-Work-Algorithmen auf gängige Computer und GPUs optimiert. Das Litecoin-Netzwerk wird 84 Millionen Währungseinheiten produzieren. "
-    body_p2: "Eines der Ziele von Litecoin ist es, einen Mining-Algorithmus zur Verfügung zu stellen, der parallel auf derselben Hardware laufen kann, die zum Mining von Bitcoins verwendet wird. Während für das Mining von Bitcoins immer häufiger hochspezialisierte ASICs verwendet werden, erfüllt Litecoin weiterhin diesen Anspruch. Dass ASIC Mining für Litecoin entwickelt wird ist eher unwahrscheinlich solange die Währung nicht weiter verbreitet ist."
   download:
     title: "DOWNLOAD"
     for_windows: "für Windows"
@@ -26,9 +24,6 @@ de:
   resources:
     title: "Ressourcen"
     body_html: "Grundlegende Informationen sowie Links zu Seiten, die Dienste für Litecoin anbieten und Listen der Handelsplätze, an denen Litecoin gehandelt wird, finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. <br /> Der Litecoin-Quellcode und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
-  free_oss:
-    title: "Freie, quelloffene Software"
-    body_html: "Litecoin ist ein unter der MIT/X11 Lizenz laufendes Open Source Software Projekt. Das ermöglicht Ihnen die Software zu verwenden, sie zu verändern, zu kopieren oder veränderte Versionen der Software zu verbreiten. Der Release-Prozess der Software ist transparent und ermöglicht es, sowohl die Binärdateien als auch den Source Code einzusehen. "
   blockchain:
     title: "Blockchain"
     body_html: "Die Litecoin Blockchain verfügt - verglichen mit Bitcoin -  über ein höheres maximales Transaktionsvolumen. Das häufigere Erstellen von Blöcken ermöglicht eine größere Anzahl Transaktionen, ohne die Software in Zukunft verändern zu müssen. <br /> Händler profitieren so von kurzen Bestätigungswartezeiten, können aber natürlich bei großen Kaufbeträgen ebenso abwarten, bis mehr Bestätigungen der Transaktion vorliegen."
