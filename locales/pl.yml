@@ -27,7 +27,7 @@ pl:
     body_html: "Informacje ogólne, listę usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href=\"http://litecoin.info\">Wiki Litecoina </a>. <br />Bieżące statystyki sieci są dostępne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br/>Kod źródłowy Litecoin-Qt i powiązanych projektów jest dostępny na <a href=\"https://github.com/litecoin-project\">GitHubie</a>."
   free_oss:
     title: "Otwarte oprogramowanie"
-    body_html: "Litecoin to otwarto-źródłowy program dostępny na licencji MIT/X11, która pozwala na uruchamianie, kopiowanie, modyfikowanie i rozpowszechnianie, w tym zmodyfikowanych wersji. Program jest publikowany w transparentny sposób, który pozwala niezależnie weryfikować pliki wykonywalne."
+    body_html: "Litecoin to otwarto-źródłowy program dostępny na licencji MIT/X11, która pozwala na uruchamianie, kopiowanie, modyfikowanie i rozpowszechnianie, w tym zmodyfikowanych wersji. Program jest publikowany w transparentny sposób, który pozwala niezależnie weryfikować pliki wykonywalne i odpowiadający im kod źródłowy."
   blockchain:
     title: "Łańcuch bloków"
     body_html: "Łańcuch bloków Litecoin jest w stanie obsłużyć większy wolumen transakcji, niż jego odpowiednik - Bitcoin. Ze względu na częstszą generację bloku, sieć jest w stanie obsłużyć większą ilość transakcji bez konieczności modyfikowania oprogramowania w przyszłości. <br /> W efekcie handlujący uzyskują szybsze potwierdzenia, przy zachowaniu zdolności do oczekiwania na większą ilość potwierdzeń przy większej sprzedaży."

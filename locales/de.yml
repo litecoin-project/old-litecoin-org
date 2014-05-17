@@ -13,7 +13,7 @@ de:
     for_blackberry: "Litecoin für BlackBerry"
     in_development: "IN ENTWICKLUNG"
     coming_soon: "Kommt bald"
-    source: "QUELLE"
+    source: "QUELLCODE"
     source_on_github: "Litecoin-Qt Quellcode <br/> bei GitHub"
     release_notes: "Versionshinweise..."
     upgrade_notes: "Hinweise zur Aktualisierung..."
@@ -24,15 +24,18 @@ de:
   resources:
     title: "Ressourcen"
     body_html: "Grundlegende Informationen sowie Links zu Seiten, die Dienste für Litecoin anbieten und Listen der Handelsplätze, an denen Litecoin gehandelt wird, finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. <br /> Der Litecoin-Quellcode und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
+  free_oss:
+    title: "Quelloffene Software"
+    body_html: "Litecoin ist ein quelloffenes Software-Projekt, das unter der MIT/X11-Lizenz läuft. Diese Lizenz ermöglicht es Ihnen die Software zu verwenden, sie zu verändern, zu kopieren oder veränderte Versionen der Software zu verbreiten. Der Veröffentlichungsprozess der Software ist transparent und ermöglicht es, sowohl die Binärdateien als auch den Quellcode einzusehen."
   blockchain:
     title: "Blockchain"
-    body_html: "Die Litecoin Blockchain verfügt - verglichen mit Bitcoin -  über ein höheres maximales Transaktionsvolumen. Das häufigere Erstellen von Blöcken ermöglicht eine größere Anzahl Transaktionen, ohne die Software in Zukunft verändern zu müssen. <br /> Händler profitieren so von kurzen Bestätigungswartezeiten, können aber natürlich bei großen Kaufbeträgen ebenso abwarten, bis mehr Bestätigungen der Transaktion vorliegen."
+    body_html: "Die Litecoin Blockchain verfügt - verglichen mit Bitcoin -  über ein höheres maximales Transaktionsvolumen. Das häufigere Erstellen von Blöcken ermöglicht eine größere Anzahl Transaktionen, ohne die Software in Zukunft verändern zu müssen. <br />Händler profitieren so von kurzen Bestätigungswartezeiten, können aber natürlich bei großen Kaufbeträgen ebenso abwarten, bis mehr Bestätigungen der Transaktion vorliegen."
   wallet_enc:
     title: "Verschlüsselung"
-    body_html: "Die Verschlüsselung des \"Wallets\" sichert Ihre Litecoins gegen unbefugte oder unbeabsichtigte Zahlungen durch Abfrage Ihres Verschlüsselungs-Kennwortes ab. Das Kennwort wird nur zum Tätigen von Überweisungen benötigt, der Kontostand sowie die Transaktionshistorie sind immer einsehbar.<br /> Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
+    body_html: "Die Verschlüsselung des \"Wallets\" sichert Ihre Litecoins gegen unbefugte oder unbeabsichtigte Zahlungen durch Abfrage Ihres Verschlüsselungs-Kennwortes ab. Das Kennwort wird nur zum Tätigen von Überweisungen benötigt, der Kontostand sowie die Transaktionshistorie sind immer einsehbar.<br />Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
   mining_reward:
     title: "Mining-Vergütung"
     body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
-  contact_blurb_html: "Für Presseanfragen wenden Sie sich bitte an das Litecoin Entwicklungsteam (<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>)."
+  contact_blurb_html: "Das Litecoin Entwicklungsteam können Sie via <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> kontaktieren."
   footer:
     copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

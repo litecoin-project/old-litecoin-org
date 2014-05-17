@@ -1,0 +1,41 @@
+fi:
+  lang_name: "Suomi"
+  head:
+    title: "Litecoin - Vapaan lähdekoodin P2P digitaalinen valuutta"
+  intro:
+    title: "Mikä on Litecoin?"
+    body: "Litecoin on peer-to-peer Internet-valuutta, joka mahdollistaa välittömän, lähes kuluvapaan maksamisen kenelle tahansa maailmassa. Litecoin on vapaan lähdekoodin maailmanlaajuinen maksuverkko joka on täysin hajautettu ja toimii ilman keskuhallintoa. Matematiikka turvaa verkkoa ja valtuuttaa yksilöitä hallitsemaan omaa rahatalouttaan. Litecoinin ominaisuudet sisältävät nopeamman rahansiirron varmistuksen ja parannellun tiedon varastointitehokkuuden kuin johtava matematiikkaan perustuva valuutta. Toimialojen merkittävän tuen, vaihtovoluumin ja likviditeetin ansiosta Litecoin on todistettavasti kaupan vaihdon väline Bitcoinin lisänä."
+  download:
+    title: "LATAA"
+    for_windows: "Windows"
+    for_linux: "GNU/Linux"
+    for_osx: "Mac OS X"
+    for_android: "Litecoin Androidille"
+    for_blackberry: "Litecoin Blackberry:lle"
+    in_development: "KEHITYKSESSÄ"
+    coming_soon: "Tulossa"
+    source: "LÄHDEKOODI"
+    source_on_github: "Litecoin-Qt lähdekoodi <br/> Github:ssa"
+    release_notes: "Julkaisutiedot..."
+    upgrade_notes: "Päivitystiedot..."
+  community:
+    title: "Yhteisö"
+    body_html: "Tukea voi hakea aina kasvavista yhteisöistä: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Etsi käyttäjiä Twitter:ssä</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> verkon kanavilla <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (peruskäyttäjille) ja <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (kehittäjille).</li> </ul>"
+  resources:
+    title: "Resurssit"
+    body_html: "Yleistä tietoa, palveluja ja vaihtopaikkoja löytyy <a href=\"http://litecoin.info\">Litecoin Wiki</a>:sta. <br /> Päivitetyt verkkotilastot löytyy <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Litecoin-Qt lähdekoodi ja muut projektit löytyy <a href=\"https://github.com/litecoin-project\">GitHub</a>:sta."
+  free_oss:
+    title: "Vapaan lähdekoodin ohjelma"
+    body_html: "Litecoin on julkaistu vapaan lähdekoodin ohjelmistoprojektina MIT/X11-lisenssillä, joka antaa oikeuden ajaa, muokata ja kopioida ohjelmaa ja levittää muokattuja kopioita ohjelmasta. Ohjelma julkaistaan läpinäkyvällä prosessilla joka mahdollistaa ohjelmakoodin ja lähdekoodin riippumattoman varmistuksen."
+  blockchain:
+    title: "Lohkoketju"
+    body_html: "Litecoin lohkoketju kykenee hoitamaan suuremman rahansiirtovoluumin kuin vastaava Bitcoin lohkoketju. Useammin toistuvan lohkon luomisen ansiosta verkko tukee enemmän rahansiirtoja ilman että ohjelmaa tarvitsee muokata tulevaisuudessa. <br />Tästä johtuen kauppiaat saavat nopeamman varmistusajan, mutta pystyvät odottamaan lisävarmistuksia kalliiden myyntiartikkelien kanssa."
+  wallet_enc:
+    title: "Lompakon salaus"
+    body_html: "Lompakon salaus mahdollistaa lompakon turvaamisen niin että voit seurata rahansiirtoja ja tilisi saldoa, mutta rahan lähettämisessä kysytään salasanaa ennenkuin litecoineja voi kuluttaa. <br />Tämä suojaa lompakon varastamiseen luotuja viruksia ja troijalaisia vastaan ja toimii järkiperäisenä tarkistuksena ennen maksua."
+  mining_reward:
+    title: "Louhimisen palkkio"
+    body_html: "Louhijat palkitaan nykyään 50 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br /> Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
+  contact_blurb_html: "Voit ottaa yhteyttä Litecoin projektin kehittäjäryhmään <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Tekijänoikeus &copy; 2014 Litecoin Projekti. Kaikki oikeudet pidätetään."
