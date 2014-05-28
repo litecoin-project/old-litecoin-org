@@ -1,42 +1,42 @@
 zh_CN:
   lang_name: "中文"
   head:
-    title: "莱特币 - 开源P2P电子货币"
+    title: "莱特币 - 开源的P2P数字货币"
   intro:
-    title: "什么是Litecoin？"
-    body: "莱特币加密货币系统是一款点对点的分布式网络货币。她可以在瞬间，以近乎零成本的方式向全世界的任意角落付款。莱特币是一个开源的，全球性的支付网络，她没有任何的中央控制节点。严谨的数学使这个网络系统充分保障每一位用户的财务安全。莱特币相对其他的加密货币系统，拥有更快的交易确认时限，更高的网络交易容量和效率。莱特币现在拥有完整的产业链，充分的流动性，足以证明其是成熟、安全、稳定的商用金融系统。"
+    title: "什么是莱特币？"
+    body: "莱特币加密货币系统是一款点对点的分布式网络货币。她可以在瞬间，以近乎零成本的方式向全世界的任意角落付款。莱特币是一个开源的，全球性的支付网络，她没有任何的中央控制节点。严谨的密码学协议使这个网络系统充分保障每一位用户的财务安全。莱特币相对大部份的加密货币系统，拥有更快的交易确认时限，更高的网络交易容量和效率。莱特币现在拥有完整的产业链，充分的流动性，足以证明其是成熟、安全、稳定的商用金融系统。"
   download:
     title: "下载"
-    for_windows: "供Windows使用"
-    for_linux: "供GNU/Linux使用"
-    for_osx: "供Mac OS X使用"
+    for_windows: "供Windows用户使用"
+    for_linux: "供GNU/Linux用户使用"
+    for_osx: "供Mac OS X用户使用"
     for_android: "莱特币安卓版"
     for_blackberry: "莱特币黑莓版"
     in_development: "开发中"
     coming_soon: "即将推出"
     source: "来源"
-    source_on_github: "登录GitHub，获取Litecoin的源代码及相关项目。"
+    source_on_github: "登录GitHub，获取莱特币的源代码及相关项目。"
     release_notes: "发行说明..."
     upgrade_notes: "升级说明..."
   community:
     title: "社区"
-    body_html: "您可以从很多日益壮大的Litecoin社区中寻求技术支持，例如： <ul> <li><a href=\"https://litecointalk.org\">Litecoin论坛</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin交易社区</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索Twitter上的用户</a></li> <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a>网络频道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a>(面向普通用户)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a>(面向开发者)</li>\
+    body_html: "您可以在日益壮大的莱特币社区中寻求技术支持以及交流分享，例如： <ul> <li><a href=\"https://litecointalk.org\">莱特币论坛</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">莱特币Reddit社区</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">搜索推特上的用户</a></li> <li>加入<a href=\"http://freenode.net/\" rel=\"nofollow\">IRC 即时聊天网络</a>网络频道<a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#莱特币即时交流</a>(面向普通的交流用户)，<a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#莱特币-dev</a>(面向开发者交流)</li>\
       \ </ul>"
   resources:
     title: "资源"
-    body_html: "查看<a href=\"http://litecoin.info\">Litecoin维基</a>，可以获取Litecoin的相关信息，以及查看所有支持Litecoin的网站列表以及交易市场。 <br /> 查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易图表</a>，获取最新的网上交易数据。 <br /> 访问<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，获取Litecoin的源代码及相关项目。"
+    body_html: "查看<a href=\"http://litecoin.info\">莱特币维基百科</a>，可以获取莱特币的相关信息，以及查看所有支持莱特币的网站列表以及交易市场。 <br /> 查看<a href=\"http://ltc.block-explorer.com/charts\">莱特币交易图表</a>，获取最新的网上交易数据。 <br /> 访问<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，获取莱特币的源代码及相关项目。"
   free_oss:
     title: "开源软件"
     body_html: "莱特币货币系统是一款遵循MIT/X11许协议的免费软件项目，它让您能够根据自己的需要对软件进行运行、修改和复制。如果你愿意，你也可以发行软件的修改版本。该软件以完全公开源码的形式发布，用户可以对二进制版本以及对应源代码进行独立验证。"
   blockchain:
     title: "数据块链"
-    body_html: "Litecoin块链与其竞争对手——比特币比起来，能够处理更大的交易量。由于数据块的生成更加频繁，该网络可以支持更多的交易，并且无需在将来修改软件。 <br /> 因此，商家可以获得更快的交易确认，而且在销售大额商品时依然能够等待更多的交易确认。"
+    body_html: "莱特币数据块链与其竞争者——比特币相比起来，能够处理更大的交易量。由于数据块的产出更加频繁，该网络可以支持更多的交易，并且在将来无需修改软件。 <br /> 因此，商家可以获得更快的交易确认，而且在销售大额商品时依然能够等待更多的交易确认。"
   wallet_enc:
     title: "钱包加密"
-    body_html: "钱包加密能够保证您钱包中私钥的安全，从而让您可以查看交易情况及账户余额，但是您在使用litecoin之前必须输入密码。 <br /> 该功能不仅能够防止病毒及木马的侵扰，同时还是付款前的一项有效的合法性检查。"
+    body_html: "钱包加密能够保证您钱包中私钥的安全，从而让您可以查看交易情况及账户余额，但是在您使用莱特币之前必须输入密码。 <br /> 该功能不仅能够防止病毒及木马的侵扰，同时还是支付之前，一项合法性的有效检查。"
   mining_reward:
-    title: "奖励"
-    body_html: "“矿工们”起初每数据块可以产出50个币。每4年，生产的货币量将减少一半(840000个数据块)。 <br /> 因此，Litecoin网络生产的货币总量将大约是比特币的4倍，即8400万个litecoin。"
-  contact_blurb_html: "您可以通过<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>联系Litecoin的开发团队。"
+    title: "挖矿奖励"
+    body_html: "“矿工们”目前每数据块可以产出50个莱特币。每4年，生产的莱特币货币量将减少一半(每经过840000个数据块)。 <br /> 因此，莱特币网络生产的货币总量将是比特币的4倍，即8400万个莱特币。"
+  contact_blurb_html: "您可以通过邮件<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>联系莱特币的开发维护团队。"
   footer:
-    copyright: "&copy; 2014 Litecoin开发者版权所有，并保留所有权利。"
+    copyright: "Copyright © 2014 莱特币项目版权归开发者所有，并保留所有权利。"
