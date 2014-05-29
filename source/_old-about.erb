@@ -1,0 +1,81 @@
+<!-- Row for Community, Resources, and OpenSource -->
+<!-- Creates separator between main content and additional info -->
+<div id="separator"></div> 
+<!-- Additional Info Wrapper - Used to apply different background image -->
+<div id="additionalInfoWrapper">
+  <!-- Lower Content Container -->
+  <div class="container">
+    <div class="row">
+      <!-- Community -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/community.png" alt="Community" title="Community" />
+        </span>
+        <h4 class="infoHeader"><%= t 'community.title' %></h4>
+        <div class="infoContent">
+          <%= t 'community.body_html' %>
+          </div>
+      </div>
+      <!-- Resources -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/resources.png" alt="Resources" title="Resources"/>
+        </span>
+        <h4 class="infoHeader"><%= t 'resources.title' %></h4>
+        <div class="infoContent">
+        <%= t 'resources.body_html' %>
+      </div>
+      </div>
+      <!-- OpenSource -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/opensource.png" alt="Open-Source" title="Open-Source" />
+        </span>
+        <h4 class="infoHeader"><%= t 'free_oss.title' %></h4>
+        <div class="infoContent">
+        <p><%= t 'free_oss.body_html' %></p>
+      </div>
+      </div>
+    </div> <!-- Closing div tag for row -->
+  <!-- Row for Blockchain, Encryption, and Rewards -->
+    <div class="row">
+      <!-- Blockchain -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/blockchain.png" alt="Blockchain" title="Blockchain" />
+        </span>
+        <h4 class="infoHeader"><%= t 'blockchain.title' %></h4>
+        <div class="infoContent">
+          <%= t 'blockchain.body_html' %>
+      </div>
+      </div>
+      <!-- Encryption -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/lock.png" alt="Wallet Encryption" title="Wallet Encryption" />
+        </span>
+        <h4 class="infoHeader"><%= t 'wallet_enc.title' %></h4>
+        <div class="infoContent">
+        <%= t 'wallet_enc.body_html' %>
+      </div>
+      </div>
+      <!-- Rewards -->
+      <div class="col-md-4 infoSection">
+        <span class="icon">
+          <img src="/images/icons/rewards.png" alt="Rewards" title="Rewards" />
+        </span>
+        <h4 class="infoHeader"><%= t 'mining_reward.title' %></h4>
+        <div class="infoContent">
+        <%= t 'mining_reward.body_html' %>
+      </div>
+      </div>
+    </div> <!-- Closing div tag for row -->
+    <!-- Row for Contact Info -->
+    <div class="row">
+      <div class="col-md-12">
+        <br /><br />
+        <p><%= t 'contact_blurb_html' %></p>
+      </div>
+    </div> <!-- Closing div tag for row -->
+  </div> <!-- Closing div tag for Lower Content Container -->
+</div> <!-- Closing div tag for Additional Info Wrapper -->

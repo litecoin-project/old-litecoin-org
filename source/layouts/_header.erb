@@ -1,0 +1,94 @@
+<!-- Header Content Container -->
+<div class="container">
+  <!-- Logo and Social Icons Row -->
+  <div class="row" id="headerRow">
+    <!-- Litecoin Logo -->
+    <div class="col-xs-8">
+      <img src="/images/litecoin-logo-192.png" alt="litecoin.org" title="litecoin.org" />
+    </div>
+    <!-- Language Selection -->
+    <div class="col-xs-1 langselect">
+      <div class="btn-group">
+        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+        <%= t 'lang_name' %> <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu">
+        <%= language_codes %>
+        </ul>
+      </div>
+    </div>
+    <!-- Social Section -->
+    <div class="col-xs-3 hidden-xs social">
+      <!-- Icons -->
+    <a id="gplus-image" href="https://plus.google.com/104307324656397909502/posts">
+      <img class="pulse" src="/images/google-40px.png" onmouseover="this.src='/images/google-over-40px.png'" onmouseout="this.src='/images/google-40px.png'" title="Google Plus" height="40" width="40" alt="Google Plus" />
+    </a>
+    <a id="twitter-image" href="http://twitter.com/litecoinproject">
+      <img class="pulse" src="/images/twitter-over-40px.png" onmouseover="this.src='/images/twitter-over-40px.png'" onmouseout="this.src='/images/twitter-40px.png'" title="Litecoin on Twitter" height="40" width="40" alt="Twitter" />
+    </a>
+    <a href="https://litecointalk.org" data-toggle="tooltip" data-animation="false" data-placement="bottom" id="forumSocial" title="LitecoinTalk Forum">
+      <img class="pulse hint" src="/images/forum-40px.png" onmouseover="this.src='/images/forum-over-40px.png'" onmouseout="this.src='/images/forum-40px.png'" height="40" width="40" alt="Forum Thread" data-original-title="LitecoinTalk Forum" />
+    </a>
+    <!-- Google Plus Hover Box -->
+    <div id='gplus-wrapper'>
+      <div id='litecoin-gplus' style='display:none; visibility:hidden; opacity:0;'>
+        <div class="g-page litecoin-gplus" data-href="https://plus.google.com/104307324656397909502" data-rel="publisher"></div>
+      </div>
+      <script type="text/javascript">
+        (function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/platform.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+      </script>
+    </div>
+    <!-- Twitter Hover Box -->
+    <div id='twitter-wrapper'>
+      <div id='litecoin-twitter' style='display:none; visibility:hidden; opacity:0;'>
+        <div class='twitter-instance'>
+      <a class="twitter-timeline" href="https://twitter.com/LitecoinProject/timelines/471739036185272321" data-widget-id="471757617983782912"></a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+      </div>
+    </div>
+  </div>  <!-- Closing div tag for Social Section -->
+  <!-- Social Media iPhone - Only shown for iPhone landscape view -->
+      <div class="col-xs-6 visible-xs show-iphone-portrait">
+      <div>
+        <a href="https://plus.google.com/app/basic/+LitecoinOrg?source=appredir">
+      <img src="/images/google-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+        </a>
+      </div>
+      <div>
+        <a href="http://twitter.com/litecoinproject">
+          <img src="/images/twitter-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+      </a>
+      </div>
+        <div>
+          <a href="https://litecointalk.org">
+          <img src="/images/forum-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+        </a>
+      </div>
+    </div>
+  </div> <!-- Closing div tag for Logo and Social Row -->
+  <!-- Social Media Row for iPhone - Only shown for iPhone landscape view -->
+  <div class="row visible-xs">
+    <div class="col-xs-12 social-iphone">
+      <div>
+      <a href="https://plus.google.com/app/basic/+LitecoinOrg?source=appredir">
+      <img src="/images/google-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+    </a>
+      </div>
+      <div>
+        <a href="http://twitter.com/litecoinproject">
+          <img src="/images/twitter-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+      </a>
+      </div>
+        <div>
+          <a href="https://litecointalk.org">
+          <img src="/images/forum-40px.png" title="Google Plus" height="40" width="40" alt="Google Plus" />
+        </a>
+      </div>
+    </div>
+  </div> <!-- Closing div tag for Social Media Row for iPhone --> 
+</div> <!-- Closing div for Header Content Container -->
