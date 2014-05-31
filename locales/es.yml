@@ -24,6 +24,9 @@ es:
   resources:
     title: "Recursos"
     body_html: "Usted puede acceder a información general, lista de páginas y lista de intercambios respaldados por Litecoin en: <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Las estadísticas actualizadas de la red pueden encontrarse en: <a href=\"http://ltc.block-explorer.com/charts\">Gráficos de Exploradores de Bloques Litecoin</a>. <br /> Los códigos fuente y otros proyectos relacionados se encuentran disponibles en: <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
+  free_oss:
+    title: "Software Libre"
+    body_html: "Litecoin es un proyecto de software libre publicado bajo la licencia MIT/X11 que otorga la posibilidad de ejecutar, modificar, copiar, y distribuir el software, a discreción, en copias modificadas del mismo. El software es lanzado en un proceso transparente que permite la verificación independiente de binarios y su correspondiente código fuente."
   blockchain:
     title: "Cadena de Bloques"
     body_html: "La cadena de bloques de Litecoin es capaz de administrar un mayor volumen de transacciones que su homólogo - Bitcoin. Debido a que la generación de bloques se realiza de manera más frecuente, la red sustenta más transacciones sin la necesidad de modificar el software en el futuro. <br /> Como resultado, los comerciantes obtienen confirmaciones de manera más rápida, y al mismo tiempo tienen la posibilidad de esperar más confirmaciones al vender artículos más costosos."
