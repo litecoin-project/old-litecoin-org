@@ -4,6 +4,7 @@ de:
     title: "Litecoin - Quelloffene, digitale P2P-Währung"
   intro:
     title: "Was ist Litecoin?"
+    body: "Litecoin ist eine Peer-to-Peer Internetwährung, die es einem ermöglicht, weltweit jeder beliebigen Person in Echtzeit und nahezu kostenlos Zahlungen zu senden. Litecoin ist ein weltweites, komplett dezentralisiertes Open Source Zahlungsnetzwerk ohne zentrale Behörden. Mathematische Berechnungen sichern das Netzwerk und geben Einzelpersonen die Möglichkeit selbst über ihre Finanzen zu entscheiden. Litecoin besitzt im Vergleich zur führenden Internetwährung schnellere Transanktionszeiten und eine verbesserte Speichereffizienz. Mit umfangreicher Unterstützung in Handel und Gewerbe, sowie einem erheblichen Handelsvolumen und Liquidität ist Litecoin eine bewährte Ergänzung zu Bitcoin."
   download:
     title: "DOWNLOAD"
     for_windows: "für Windows"
@@ -19,8 +20,7 @@ de:
     upgrade_notes: "Hinweise zur Aktualisierung..."
   community:
     title: "Community"
-    body_html: "Mehr Informationen und Hilfe findet man in einer der Litecoin Communities: <ul> <li><a href=\"https://litecointalk.org/\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Suche nach Usern auf Twitter</a></li> <li>Trete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode Netword</a> bei, <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (für normale User) und <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (für Entwickler).</li>\
-      \ </ul> "
+    body_html: "Mehr Informationen und Hilfe findet man in einer der Litecoin Communities: <ul> <li><a href=\"https://litecointalk.org/\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Suche nach Usern auf Twitter</a></li> <li>Trete <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode Netword</a> bei, <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (für normale User) und <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (für Entwickler).</li> </ul> "
   resources:
     title: "Ressourcen"
     body_html: "Grundlegende Informationen sowie Links zu Seiten, die Dienste für Litecoin anbieten und Listen der Handelsplätze, an denen Litecoin gehandelt wird, finden Sie im <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ständig aktuelle Netzwerkstatistiken finden Sie hier: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Statistik</a>. <br /> Der Litecoin-Quellcode und damit verbundene Projekte sind unter <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a> abrufbar."
@@ -35,7 +35,7 @@ de:
     body_html: "Die Verschlüsselung des \"Wallets\" sichert Ihre Litecoins gegen unbefugte oder unbeabsichtigte Zahlungen durch Abfrage Ihres Verschlüsselungs-Kennwortes ab. Das Kennwort wird nur zum Tätigen von Überweisungen benötigt, der Kontostand sowie die Transaktionshistorie sind immer einsehbar.<br />Dieser Schritt dient nicht nur der Vorbeugung von Angriffen durch Viren oder Trojaner, sondern soll den Vorgang des Bezahlens auch zu einem bewusst getätigtem Schritt machen."
   mining_reward:
     title: "Mining-Vergütung"
-    body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
+    body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich etwa alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
   contact_blurb_html: "Das Litecoin Entwicklungsteam können Sie via <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> kontaktieren."
   footer:
     copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

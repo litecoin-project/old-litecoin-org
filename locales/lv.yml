@@ -4,7 +4,7 @@ lv:
     title: "Litecoin - Atklātā pirmkoda P2P digitālā valūta"
   intro:
     title: "Kas ir Litecoin?"
-    body: "Litecoin ir peer-to-peer interneta valūta, kas sniedz tūlītēju, gandrīz nulles izmaksu maksājumus ikvienam visā pasaulē. Litecoin ir atvērtā pirmkoda, kopmaksājumu tīkls, kas ir pilnībā decentralizēts bez centrālajām iestādēm. Matemātika nodrošina tīklu un dod cilvēkiem iespēju kontrolēt savas finanses. Litecoin nodrošina ātrāku darījuma apstiprinājuma laiku un uzlabotu uzglabāšanas efektivitāti nekā vadošo matemātikas bāzes valūta. Ar ievērojamu nozares atbalstu, tirdzniecības apjomu un likviditāti. Ir pierādījies, ka Litecoin papildina Bitcoin tirdzniecības vidē."
+    body: "Litecoin ir peer-to-peer interneta valūta, kas sniedz tūlītēju, gandrīz nulles izmaksu maksājumus ikvienam visā pasaulē. Litecoin ir atvērtā pirmkoda, kopmaksājumu tīkls, kas ir pilnībā decentralizēts bez centrālajām iestādēm. Matemātiski algoritmi sargā tīklu un pilnvaro indivīdus kontrolēt savas finanses. Litecoin nodrošina ātrāku darījuma apstiprinājuma laiku un uzlabotu uzglabāšanas efektivitāti nekā vadošās valūtas kuras balstītas uz matemātikas bāzes. Ar ievērojamu nozares atbalstu, tirdzniecības apjomu un likviditāti ir pierādījies, ka Litecoin papildina Bitcoin tirdzniecības vidē."
   download:
     title: "LEJUPIELĀDĒT"
     for_windows: "Windows"
@@ -14,10 +14,10 @@ lv:
     for_blackberry: "Litecoin priekš BlackBerry"
     in_development: "IZSTRĀDES STADIJĀ"
     coming_soon: "Drīzumā"
-    source: "AVOTS"
+    source: "PIRMKODS"
     source_on_github: "Litecoin-Qt pirmkods <br/> uz GitHub"
     release_notes: "Laidiena piezīmes..."
-    upgrade_notes: "Piezīmju jaunināšana..."
+    upgrade_notes: "Atjaunināšanas piezīmes..."
   community:
     title: "Kopiena"
     body_html: "Atrodi atbalstu pie Litecoin kopienām kuru skaits palielinās: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Meklēt lietotājus Twitterī</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (lietotājiem) un <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (izstrādātājiem).</li>\
@@ -27,10 +27,10 @@ lv:
     body_html: "Atrodi vispārīgu informāciju, kā arī sarakstu ar pakalpojumiem un apmaiņas punktiem kuri atbalsta Litecoin <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Atjauninātu tīkla statistiku var atrast <a href=\"http://ltc.block-explorer.com/charts\">Litecoin bloku pētnieku tabulās</a>. <br /> Litecoin-Qt pirmkods un saistītie projekti ir pieejami <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Atvērtā pirmkoda programmatūra"
-    body_html: "Litecoin ir atvērtā koda programmatūras projekts kurš ir izlaists zem MIT/X11 licences, kas dod jums tiesības palaist, modificēt, un kopēt programmatūru un izplatīt, pēc jūsu izvēles, modificētas programmatūras kopijas. Programma ir izlaista pārredzamā procesā, kas ļauj veikt neatkarīgu pārbaudi bināros failos un to attiecīgajā avota kodā."
+    body_html: "Litecoin ir atvērtā koda programmatūras projekts kurš ir izlaists zem MIT/X11 licences, kas dod jums tiesības palaist, modificēt, un kopēt programmatūru un izplatīt, pēc jūsu izvēles, modificētas programmatūras kopijas. Programma ir izlaista pārredzamā procesā, kas ļauj veikt neatkarīgu pārbaudi bināros failos un to attiecīgajā pirmkodā."
   blockchain:
     title: "Blokuķēde"
-    body_html: "Litecoin blokuķēde spēj noturēt lielāku darījumu apjomu nekā tās līdziniece - Bitcoin. Sakarā ar biežāku bloku ģenerāciju tīkls atbalsta vairākus darījumus, bez nepieciešamības mainīt programmatūru nākotnē. <br />Tā rezultātā, tirgotāji ātrāk saņem apstiprinājumu kamēr joprojām ir iespēja gaidīt pēc vairākiem apstiprinājumiem, tirgojot lielāku biļetes vienības."
+    body_html: "Litecoin blokuķēde spēj uzturēt lielāku darījumu apjomu nekā tās līdziniece - Bitcoin. Sakarā ar biežāku bloku ģenerāciju tīkls atbalsta vairākus darījumus, bez nepieciešamības mainīt programmatūru nākotnē. <br />Tā rezultātā, tirgotāji ātrāk saņem apstiprinājumu kamēr joprojām ir iespēja gaidīt pēc vairākiem apstiprinājumiem, tirgojot lielāku biļešu vienības."
   wallet_enc:
     title: "Maka šifrēšana"
     body_html: "Maka šifrēšana ļauj Tev pasargāt savu maku, lai Tu varētu skatīt transakcijas un konta atlikumu, bet būs nepieciešams ievadīt paroli pirms varēsi sāk tērēt savus litecoins.<br />Šifrēšana nodrošina aizsardzību pret maku zogošiem vīrusiem un trojaniem, kā arī tiek veikta atbilstības pārbaude pirms maksājuma nosūtīšanas."
