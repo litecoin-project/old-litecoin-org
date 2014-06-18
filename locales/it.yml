@@ -4,6 +4,7 @@ it:
     title: "Litecoin - Valuta digitale P2P Open source"
   intro:
     title: "Che cos’è Litecoin?"
+    body: "Litecoin è una valuta digitale peer-to-peer che permette pagamenti istantanei quasi a zero costo a favore di un destinatario, ovunque esso si trovi. Litecoin è una rete di pagamenti globali, open source, pienamente decentralizzata e senza autorità centrale. La matematica garantisce la rete stessa trasferendo agli individui la sovranità sul controllo delle proprie finanze. Litecoin può vantare, rispetto al Bitcoin, una maggiore frequenza nella conferma delle transazioni e una migliore efficienza nella conservazione dei dati. Forte di ampio supporto, elevata liquidità ed alti volumi, Litecoin è un consolidato mezzo di scambio complementare al Bitcoin."
   download:
     title: "SCARICARE"
     for_windows: "per Windows"
@@ -24,6 +25,9 @@ it:
   resources:
     title: "Risorse"
     body_html: "Informazioni di carattere generale, elenchi di siti e di servizi che supportano Litecoin si possono trovare sul <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Statistiche di rete aggiornate si possono trovare nei grafici del <a href=\"http://ltc.block-explorer.com/charts\">Block Explorer Litecoin</a>. <br /> Il codice sorgente di Litecoin ed altri progetti collegati sono disponibili su <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
+  free_oss:
+    title: "Software Open Source"
+    body_html: "Litecoin è un progetto open source rilasciato sotto la licenza MIT/X11 la quale vi permette di eseguire, modificare, copiare il software e di distribuirne, a vostra scelta, versioni aggiornate. Il software viene rilasciato secondo modalità trasparenti che permettono la verifica indipendente dei codici binari e dei loro corrispondenti codici sorgente."
   blockchain:
     title: "Catena di blocchi"
     body_html: "La Catena di blocchi di Litecoin è in grado di gestire volumi di transazioni superiori rispetto alla sua controparte - Bitcoin. A causa della più frequente generazione dei blocchi, la rete è in grado di supportare un numero maggiore di transazioni senza che il software debba essere modificato in futuro. <br /> Ne deriva che i commercianti ottengono tempi di conferma più rapidi, mentre conservano la possibilità di aspettare altre conferme, quando vendono articoli a prezzo più alto."

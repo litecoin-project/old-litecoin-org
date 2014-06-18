@@ -1,0 +1,40 @@
+tr:
+  lang_name: "Türkçe"
+  head:
+    title: "Litecoin - Açık kaynaklı P2P dijital para birimi"
+  intro:
+    title: "Litecoin nedir?"
+  download:
+    title: "İNDİR"
+    for_windows: "Windows için"
+    for_linux: "GNU/Linux için"
+    for_osx: "Mac OS X için"
+    for_android: "Android için Litecoin"
+    for_blackberry: "Blackberry için Litecoin"
+    in_development: "GELİŞTİRME AŞAMASINDA"
+    coming_soon: "Yakında"
+    source: "KAYNAK"
+    source_on_github: "Github'da <br/> Litecoin-Qt kaynak kodları"
+    release_notes: "Sürüm Notları..."
+    upgrade_notes: "Güncelleme Notları..."
+  community:
+    title: "Topluluk"
+    body_html: "Sayısı her geçen gün artan Litecoin topluluklarından destek alabilirsiniz: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forum</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Twitter'da ara</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> IRC kanalları <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (normal kullanıcılar için), <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (geliştiriciler için).</li>\
+      \ </ul>"
+  resources:
+    title: "Kaynaklar"
+    body_html: "Genel bilgilere, Litecoin'i destekleyen servis ve borsaların listesine <a href=\"http://litecoin.info\">Litecoin Wiki</a>'den ulaşabilirsiniz. <br /> Güncel ağ istatistikleri  <a href=\"http://ltc.block-explorer.com/charts\">burada</a> yer almaktadır. Litecoin-QT ve ilgili projelerin kaynak kodu <a href=\"https://github.com/litecoin-project\">GitHub</a>'da mevcuttur."
+  free_oss:
+    title: "Özgür ve açık kaynak kodlu yazılım"
+    body_html: "Litecoin, özgür ve açık kaynak kodlu bir yazılımdır ve yazılımı çalıştırmanıza, değiştirmenize, kopyalamanıza ve dağıtmanıza izin veren MIT/X11 lisansı ile yayınlanmaktadır. Yazılım, çalıştırılabilir dosyaların ve karşılığında kodların bağımsız doğrulanmasına izin veren transparan bir süreç ile yayınlanmaktadır."
+  blockchain:
+    title: "Blockchain"
+    body_html: "Litecoin blok zinciri, emsali olan Bitcoin'den çok daha yüksek işlem hacimlerini gerçekleştirebilmektedir. Ağ, daha sık blok oluşturabilmesi nedeniyle, gelecekte yazılımda bir değişikliğe ihtiyaç duymaksızın daha çok işlemi destekler. <br />Bunun sonucunda ticari işletmeler, yüksek etiket fiyatına sahip ürünler sattığında daha fazla onay alma imkanına sahip olurken, daha hızlı onay süreleri elde ederler."
+  wallet_enc:
+    title: "Cüzdan Şifreleme"
+  mining_reward:
+    title: "Madencilik Ödülü"
+    body_html: "Madenciler mevcut olarak blok başına 50 yeni litecoin ile ödüllendirilmektedir ve bu miktar yaklaşık olarak her 4 yılda (840,000 blok) bir yarılanmaktadır. <br /> Litecoin ağı toplamda 84 milyon litecoin üretmek üzere planlanmıştır ve bu Bitcoin'in 4 katıdır."
+  contact_blurb_html: "Litecoin projesi geliştirme ekibine <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> adresinden ulaşabilirsiniz."
+  footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. Tüm hakları saklıdır."
