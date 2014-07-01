@@ -4,7 +4,7 @@ nl:
     title: "Litecoin - Open source P2P digitale valuta"
   intro:
     title: "Wat is Litecoin?"
-    body: "Litecoin is een peer-to-peer Internet valuta dat onmiddellijke, bijna gratis betalingen toelaat naar eender wie in de wereld. Litecoin is een open source, globaal betalingsnetwerk dat volledig gedecentraliseerd is zonder enige centrale autoriteiten. Mathematica beveiligd het netwerk en laat individuen toe hun eigen financiën te controleren. Litecoin beschikt over snellere transactieconfirmaties dan de leidende op mathematica-gebaseerde valuta. Met aanzienlijke steun van het bedrijfsleven, handelsvolume en liquiditeit, Litecoin is een bewezen handelsmedium complementair met Bitcoin."
+    body: "Litecoin is een peer-to-peer Internet valuta dat onmiddellijke, bijna kosteloze betalingen toelaat naar eender wie in de wereld. Litecoin is een open source, globaal betalingsnetwerk dat volledig gedecentraliseerd is zonder enige centrale autoriteiten. Mathematica beveiligd het netwerk en laat individuen toe hun eigen financiën te controleren. Litecoin beschikt over snellere transactie bevestigingen dan de leidende op mathematica-gebaseerde valuta. Met aanzienlijke steun van het bedrijfsleven, handelsvolume en liquiditeit, is Litecoin een bewezen handelsmedium aanvullend op Bitcoin."
   download:
     title: "DOWNLOAD"
     for_windows: "voor Windows"
@@ -24,19 +24,19 @@ nl:
       \ </ul> "
   resources:
     title: "Hulpmiddelen"
-    body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Broncode voor Litecoin-QT aan aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Broncode voor Litecoin-Qt en aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
-    title: "Opensourcesoftware"
-    body_html: "Litecoin is opensourcesoftware uitgebracht onder de MIT/X11 licentie die je toestaat de software te draaien, aan te passen, te kopiëren en aangepaste kopieën van de software, te verspreiden. De software is uitgebracht volgens een transparant proces wat toelaat voor onafhankelijke verificatie van binaire bestanden en hun bijbehorende broncode."
+    title: "Open Source software"
+    body_html: "Litecoin is Open Source software uitgebracht onder de MIT/X11 licentie die je toestaat de software te draaien, aan te passen, te kopiëren en aangepaste kopieën van de software te verspreiden. De software is uitgebracht middels een transparant proces dat onafhankelijke verificatie van binaire bestanden en hun bijbehorende broncode toelaat."
   blockchain:
     title: "Blokketen"
-    body_html: "De Litecoin blokketen heeft de mogelijkheid een hoger volume aan transacties te ondersteunen dan zijn tegenhanger – Bitcoin. Door een frequentere aanmaak van blokken, kan het netwerk meer transacties verdragen zonder de noodzaak om de software in de toekomst aan te passen. <br /> Bijgevolg krijgen handelaars snellere bevestigingstijden, terwijl ze nog altijd de mogelijkheid hebben om op meer bevestigingen te wachten wanneer zij duurdere producten verkopen.  "
+    body_html: "De Litecoin blokketen heeft de mogelijkheid een hoger volume aan transacties te ondersteunen dan zijn tegenhanger – Bitcoin. Door een frequentere aanmaak van blokken, kan het netwerk meer transacties verdragen zonder de noodzaak om de software in de toekomst aan te passen. <br /> Hierdoor krijgen handelaars snellere bevestigingstijden, hoewel ze nog altijd de mogelijkheid hebben om op meer bevestigingen te wachten bij het verkopen van dure producten."
   wallet_enc:
-    title: "Portemonnee Encryptie"
-    body_html: "Encryptie van de portemonnee geeft je de mogelijkheid je portemonnee te beveiligen. Op die manier kan je transacties en rekeningsaldo altijd onmiddellijk bekijken, maar heb je een paswoord nodig hebt vooraleer je litecoins kan uitgeven. <br />Dit biedt bescherming tegen portemonnee-stelende virussen en trojans, en zorgt daarnaast ook voor een extra veiligheidscontrole voordat je een betaling verzendt."
+    title: "Portemonnee Versleuteling"
+    body_html: "Versleuteling van de portemonnee geeft je de mogelijkheid je portemonnee te beveiligen, zodat je transacties en rekeningsaldo altijd kunt bekijken, maar een wachtwoord nodig hebt voor je litecoins kunt uitgeven. <br />Dit biedt bescherming tegen portemonnee-stelende virussen en trojans en geldt tevens als een extra verificatie bij het versturen van betalingen."
   mining_reward:
     title: "Mining Beloning"
-    body_html: "Miners worden momenteel beloond met 50 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken). <br /> Het is hierdoor gepland dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valutaeenheden als Bitcoin is."
-  contact_blurb_html: "Je kan het Litecoin projectontwikkelingsteam bereiken op <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
+    body_html: "Miners worden momenteel beloond met 50 nieuwe litecoins per blok, een bedrag dat ruwweg om de vier jaar gehalveerd wordt (elke 840.000 blokken). <br /> Het is hierdoor vastgesteld dat het Litecoin netwerk 84 miljoen litecoins zal produceren, wat vier keer zoveel valuta eenheden als Bitcoin is."
+  contact_blurb_html: "Je kunt het Litecoin projectontwikkelingsteam bereiken op <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2014 Litecoin Project. Alle rechten voorbehouden."
