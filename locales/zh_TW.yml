@@ -27,7 +27,7 @@ zh_TW:
     body_html: "查看<a href=\"http://litecoin.info\">Litecoin維基</a>，可以獲取Litecoin的相關資訊，以及查看所有支援Litecoin的網站清單以及交易市場。 <br /> 查看<a href=\"http://ltc.block-explorer.com/charts\">Litecoin交易圖表</a>，獲取最新的網上交易資料。 <br /> 訪問<a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>，獲取Litecoin的原始程式碼及相關項目。"
   free_oss:
     title: "開放原始碼軟體"
-    body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果你願意，你也可以發行軟體的修改版本。該軟體以完全透明的形式發佈，使用者可以對二進位版本以及對應原始程式碼進行獨立驗證。"
+    body_html: "Litecoin是一款在MIT/X11許可下發佈的免費軟體專案，，它讓您能夠根據自己的需要對軟體進行運行、修改和複製。如果您願意，您也可以發行軟體的修改版本。該軟體以完全透明的形式發佈，使用者可以對二進位版本以及對應原始程式碼進行獨立驗證。"
   blockchain:
     title: "區塊鏈結"
     body_html: "相較於競爭對手Bitcoin，Litecoin能夠處理更大的交易量。由於資料塊的生成更加頻繁，該網路可以支援更多的交易，並且無需在將來修改軟體。 <br /> 因此，商家可以獲得更快的交易確認，而且在銷售大額商品時依然能夠等待更多的交易確認。"

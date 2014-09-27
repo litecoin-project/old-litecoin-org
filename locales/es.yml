@@ -4,6 +4,7 @@ es:
     title: "Litecoin - La moneda electrónica"
   intro:
     title: "¿Qué es Litecoin?"
+    body: "Litecoin es una moneda de Internet de tipo punto a punto que permite realizar pagos instantáneos y de costo casi cero a cualquier parte del mundo. Litecoin es una red de pagos global y de código abierto que es completamente descentralizada y sin autoridades centrales. Las matemáticas aseguran la red y permiten que individuos controlen sus propias finanzas. Litecoin provee tiempos de confirmación de transacción más rápidos y eficiencia de almacenamiento mejorada por sobre la principal moneda basada en matemática. Con soporte sustancial de la industria, volumen de transacciones y liquidez, Litecoin es un medio de comercio comprobado complementario a Bitcoin."
   download:
     title: "DESCARGAR"
     for_windows: "para Windows"
@@ -14,9 +15,9 @@ es:
     in_development: "En Desarrollo"
     coming_soon: "Próximamente"
     source: "Código Fuente"
-    source_on_github: "Los códigos fuente disponibles <br/> en GitHub"
-    release_notes: "Release Notes..."
-    upgrade_notes: "Upgrade Notes..."
+    source_on_github: "Código fuente de Litecoin-Qt <br/> en GitHub"
+    release_notes: "Notas de la versión..."
+    upgrade_notes: "Notas de actualización..."
   community:
     title: "Comunidad"
     body_html: "Existe una cantidad creciente de comunidades Litecoin donde es posible encontrar soporte. Usted puede hacerlo visitando: <ul> <li><a href=\"https://litecointalk.org\">Foros Litecoin</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Comunidad Reddit de Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Búsqueda de Usuarios en Twitter</a></li> <li>Regístrese en los canales de la red <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode:</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (para los usuarios en general) y <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (para desarrolladores).</li>\

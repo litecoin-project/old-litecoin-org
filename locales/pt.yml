@@ -4,12 +4,20 @@ pt:
     title: "Litecoin - A moeda digital"
   intro:
     title: "O que é Litecoin?"
+    body: "Litecoin é uma moeda ponto-a-ponto baseada na Internet que permite pagamentos instantâneos com um custo próximo à zero para qualquer indivíduo no mundo. Litecoin é uma rede de pagamentos mundial, totalmente descentralizada e sem autoridades centrais. A matemática mantém a rede segura e favorece os indivíduos a manterem controle de suas próprias finanças. Litecoin possui confirmação de transações mais rápidas e melhor eficiência de armazenamento comparado com a moeda líder também baseada na matemática. Com considerável suporte da indústria, volume de negociações e liquidez, Litecoin é uma ferramenta de comércio que complementa o Bitcoin."
   download:
     title: "DESCARREGAR"
     for_windows: "para Windows"
     for_linux: "para GNU/Linux"
     for_osx: "para Mac OS X"
+    for_android: "Litecoin para Android"
+    for_blackberry: "Litecoin para BlackBerry"
+    in_development: "EM DESENVOLVIMENTO"
+    coming_soon: "Em breve"
+    source: "FONTE"
     source_on_github: "Os códigos fonte disponíveis <br/> em GitHub"
+    release_notes: "Informações da versão..."
+    upgrade_notes: "Informações da atualização..."
   community:
     title: "Comunidade"
     body_html: "Existe um número crescente de comunidades Litecoin onde você pode encontrar suporte. Você pode visitar: <ul> <li><a href=\"https://litecointalk.org\">Fóruns Litecoin</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Comunidade Reddit de Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Procurar Usuários em Twitter</a></li> <li>Participar nos canais da <a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode:</a> <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (para usuários em geral) y <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (para desenvolvedores).</li>\
@@ -17,6 +25,9 @@ pt:
   resources:
     title: "Recursos"
     body_html: "Você pode acessar as informações gerais, lista de sítios, e lista de câmbio, suportadas por Litecoin em: <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> As estatísticas atualizadas da rede podem ser encontradas em: <a href=\"http://ltc.block-explorer.com/charts\">Gráficos de Explorador de Blocos Litecoin</a>. <br /> Os códigos fonte Litecoin e outros projetos relacionados encontram-se disponíveis em: <a href=\"https://github.com/litecoin-project\">GitHub.com/litecoin-project</a>."
+  free_oss:
+    title: "Programa de código-aberto."
+    body_html: "Litecoin é um programa de código-aberto lançado sob a licença MIT/X11 que garante a você o poder de executar, modificar e copiar o programa, bem como distribuí-lo, a seu critério, versões modificadas do mesmo. O programa é lançado através de um processo transparente que permite verificação independente dos binários e de seus correspondentes códigos-fonte."
   blockchain:
     title: "Corrente de Blocos ou Block-chain"
     body_html: "A Corrente de Blocos da Litecoin é capaz de lidar com um volume maior de transações do que o seu homólogo - Bitcoin. Graças à geração mais frequente de blocos, a rede suporta mais transações sem ter que modificar o software no futuro. <br /> Em consequência, os comerciantes obtêm confirmações mais rápidas, enquanto ainda têm a capacidade de esperar por mais confirmações ao vender itens mais custosos."
