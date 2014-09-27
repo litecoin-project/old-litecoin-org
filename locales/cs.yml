@@ -1,0 +1,42 @@
+cs:
+  lang_name: "Česky"
+  head:
+    title: "Litecoin - Open source P2P digitální měna"
+  intro:
+    title: "Co je to Litecoin?"
+    body: "Litecoin je peer-to-peer internetová měna, která poskytuje okamžité platby komukoliv na světě za téměř nulovou cenu. Litecoin je open source globální platební síť, která je plně decentralizovaná a bez jakýchkoli centrálních autorit. Matematika zabezpečuje síť a umožňuje jednotlivcům kontrolovat své vlastní finance. Litecoin poskytuje rychlejší potvrzení transakcí a vylepšuje efektivitu ukládání oproti vedoucí internetové měně. Se značnou podporou průmyslu, objemu obchodu a likvidity, je Litecoin osvědčený obchodní prostředek, který doplňuje Bitcoin."
+  download:
+    title: "STÁHNOUT"
+    for_windows: "pro Windows"
+    for_linux: "pro GNU/Linux"
+    for_osx: "pro Mac OS X"
+    for_android: "Litecoin pro Android"
+    for_blackberry: "Litecoin pro BlackBerry"
+    in_development: "VE VÝVOJI"
+    coming_soon: "Již brzy"
+    source: "ZDROJOVÝ KÓD"
+    source_on_github: "Litecoin-Qt zdrojový kód <br/> na GitHub"
+    release_notes: "Poznámky k vydání..."
+    upgrade_notes: "Poznámky k aktualizaci..."
+  community:
+    title: "Komunita"
+    body_html: "Najdete podporu napříč vzrůstajícím počtem Litecoin komunit: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Fóra</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Vyhledávání pro uživatele Twitteru</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> kanály <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (pro uživatele) a <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (pro vývojáře).</li>\
+      \ </ul>"
+  resources:
+    title: "Zdroje"
+    body_html: "Základní informace stejně jako seznam služeb a směnáren, které podporují Litecoin můžete najít na <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Aktuální statistiky sítě jsou na stránce <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Zdrojový kód pro Litecoin-Qt a odvozené projekty je dostupný na <a href=\"https://github.com/litecoin-project\">GitHubu</a>."
+  free_oss:
+    title: "Open Source Software"
+    body_html: "Litecoin je open source softwarový projekt uvolněný pod licencí MIT/X11, která vám dává možnost provozovat, upravovat, kopírovat podle vlastního uvážení a distribuovat takto upravené kopie softwaru. Software je uvolňován transparentním procesem, který umožňuje nezávislé ověřování binárních souborů a jejich zdrojového kódu."
+  blockchain:
+    title: "Blockchain"
+    body_html: "Litecoin blockchain je schopna zvládnout větší objem transakcí než jeho protějšek - Bitcoin. Vzhledem k častějšímu generování bloku, podporuje síť více transakcí, aniž by bylo nutné dělat v budoucnu změny v aplikaci. <br /> V důsledku čehož poskytuje při obchodování rychlejší potvrzení, při zachování schopnosti čekat na více potvrzení při prodeji za větší částky."
+  wallet_enc:
+    title: "Zakódování peněženky"
+    body_html: "Šifrování peněženky umožňuje zabezpečit vaši peněženku tak, že si můžete prohlédnout transakce a zůstatek na účtu, ale při převodu litecoins jste vyzváni k zadání hesla. <br /> To zajišťuje ochranu peněženky před vykradením pomocí virů a trojských koní, jakož i obecnou kontrolu před odesláním platby."
+  mining_reward:
+    title: "Odměna za těžení"
+    body_html: "Těžiči jsou aktuálně odměňováni 50 novými litecointy za blok, množstvím které se zmenšuje každé 4 roky(každých 840.000 bloků ) na polovinu. <br /> Litecoin síť je navržena na konečnou produkci 84 milionů litecointů, což je čtyřikrát více než bude Bitcointů."
+  contact_blurb_html: "Můžeš kontaktovat vývojářský tým projektu Litecoin na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. Všechna práva vyhrazena."

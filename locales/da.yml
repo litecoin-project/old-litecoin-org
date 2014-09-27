@@ -1,0 +1,41 @@
+da:
+  lang_name: "Dansk"
+  head:
+    title: "Litecoin - Open source P2P digital valuta"
+  intro:
+    title: "Hvad er Litecoin?"
+    body: "Litecoin er en person-til-person Internet valuta, der muliggør omgående betalinger til alle med internet adgang i verden, med en banebrydende transaktionspris nær nul! Litecoin er derfor et globalt betalings netværk som er open source så alle kan se arkitekturen bag koden og tjekket for fejl såvel snyd. Litecoin er et fuldtud decentraliseret netværk uden centrale myndigheder. Kryptografi og matematik sikrer og vedligeholder netværket og giver det enkelte menneske muligheden for at styre og råde over deres egen økonomi. Så hvorfor litecoin? Litecoin levere hurtigere transaktioner og har en forbedret opbevarings teknologi til sammenligning med den førende crypto-valuta. Da der er solid opbakning fra tiltagende virksomheder såvel som handlen og likviditeten, Litecoin har derfor vist at være et meget effektivt handelsinstrument som kan substituere Bitcoin."
+  download:
+    title: "DOWNLOAD"
+    for_windows: "for Windows"
+    for_linux: "for GNU/Linux"
+    for_osx: "for Mac OS X"
+    for_android: "Litecoin for Android"
+    for_blackberry: "Litecoin for BlackBerry"
+    in_development: "I UDVIKLING"
+    coming_soon: "Kommer snart"
+    source: "KILDE"
+    source_on_github: "Litecoin-Qt kildekode <br/> på GitHub"
+    release_notes: "Udgivelses information"
+    upgrade_notes: "Opdaterings information"
+  community:
+    title: "Menighed"
+    body_html: "Find støtte på tværs af et stigende antal Litecoin fællesskaber: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Søg efter brugere på Twitter</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for almindelige brugere) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for udviklere).</li> </ul>"
+  resources:
+    title: "Ressourcer"
+    body_html: "Find generel information samt en liste over tjenester og udvekslinger, der understøtter Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netværk statistikker kan findes på <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Kildekode til Litecoin-Qt og relaterede projekter er tilgængelige på <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+  free_oss:
+    title: "Open Source Software"
+    body_html: "Litecoin er et open source software-projekt udgivet under MIT/X11-licens, som giver dig mulighed for at køre, ændre og kopiere, distribuere softwaren på dine præmisser såvel som modificerede kopier af softwaren. Softwaren offentligt tilgængelige, da det giver mulighed for uafhængig kontrol af binære filer og deres tilsvarende kildekode."
+  blockchain:
+    title: "Blockchain"
+    body_html: "Litecoins blockchain er i stand til at håndtere større mængde transaktioner end dens dobbeltgænger - Bitcoin. På grund af hyppigere blok generering, netværket understøtter derved flere transaktioner med den fordel at der ikke er et behov for at ændre i programmet i fremtiden. <br /> Med det resultat kan købmænd få hurtigere transaktioner, mens du stadig har anlægget til at vente på flere bekræftelser, når de sælger større specialvarer."
+  wallet_enc:
+    title: "Tegnebogs kryptering"
+    body_html: "Tegnebogs krypteringen giver dig muligheden for at sikre din tegnebog, så du kan se transaktioner og saldoen på din konto, men er forpligtet til at indtaste din adgangskode før der kan bruges litecoins. <br /> Dette giver beskyttelse mod tegnebogsrelaterede ”tyve virusser” og trojanske heste samt en tilregnelighed kontrol, før du sender betalinger."
+  mining_reward:
+    title: "Minedrift belønning"
+    body_html: "Minearbejdere er i øjeblikket tildelt 50 nye litecoins per blok, et beløb, som bliver halveret omkring hver 4. år (hver 840.000 blokke). <br /> Litecoin netværk er derfor planlagt til at producere 84 millioner litecoins, hvilket er 4 gange så mange mønter som Bitcoin."
+  contact_blurb_html: "Du kan kontakte Litecoins projektudvikling team på <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."

@@ -1,0 +1,39 @@
+sl:
+  lang_name: "Slovene"
+  head:
+    title: "Litecoin - Odprto kodna P2P digitalna valuta"
+  intro:
+    title: "Kaj je Litecoin?"
+  download:
+    title: "PRENOS"
+    for_windows: "za Windows"
+    for_linux: "za GNU/Linux"
+    for_osx: "za Mac OS X"
+    for_android: "Litecoin za Android"
+    for_blackberry: "Litecoin za BlackBerry"
+    in_development: "V RAZVOJU"
+    source: "VIR"
+    source_on_github: "Litecoin-Qt izvorna koda <br/> na GitHub-u"
+    release_notes: "Opombe ob izdaji..."
+    upgrade_notes: "Opombe o nadgradnji..."
+  community:
+    title: "Skupnost"
+    body_html: "Poišči podporo med naraščajočimi Litecoin skupnostmi: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forumi</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Poišči uporabnike na Twitterju</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">Kanali omrežja IRC FreeNode</a>  <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (za splošne uporanike) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (za razvijalce).</li>\
+      \ </ul>"
+  resources:
+    title: "Viri"
+    body_html: "Poišči splošne informacije kot tudi vse servise in menjalnice, ki podpirajo Litecoin na  <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Najnovejše statistike omrežja so dostopne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Izvorna koda za Litecoin-Qt in sorodni projekti so dostopni na <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+  free_oss:
+    title: "Odprto kodni program"
+    body_html: "Litecoin je odprto kodni projekt izdan pod MIT/X11 licenco, katera ti omogoča zagon, modificiranje in kopiranje programa ter distribucijo lastnih modificiranih kopij programa. Program je izdan transparentno ter omogoča neodvisno preverjanje binarnih zapisov in izvorne kode."
+  blockchain:
+    title: "Veriga blokov"
+  wallet_enc:
+    title: "Enkripcija denarnice"
+    body_html: "Enkripcija denarnice ti omogoča, da zavaruješ svojo denarnico, kjer lahko vidiš vse transakcije ter stanje na računu denarnice, zahteva pa vnos gesla preden lahko Litecoine uporabljaš.<br/> To je zaščita pred virusi in trojanci, ki omogočajo krajo denarnice, kot tudi dodatno preverjanje preden se izvrši samo plačilo."
+  mining_reward:
+    title: "Nagrada za rudarjenje"
+    body_html: "Rudarji dobijo trenutno 50 novih litecoinov za vsak blok, znesek, ki se razpolovi približno vsake 4 leta (vsakih 840.000 blokov). <br/> Litecoin omrežje bo torej proizvedlo 84 milijonov litecoinov, kar je 4 krat toliko, kolikor bo proizvedeno Bitcoinov."
+  contact_blurb_html: "Razvijalce Litecoin projekta lahko kontaktiraš na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Avtorske pravice &copy; 2014 Litecoin Project. Vse pravice pridržane."

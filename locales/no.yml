@@ -1,0 +1,42 @@
+"no":
+  lang_name: "Norsk"
+  head:
+    title: "Litecoin - åpen kildekode P2P digital valuta"
+  intro:
+    title: "Hva er Litecoin?"
+    body: "Litcoin er en peer-to-peer internettvaluta som muliggjør øyeblikkelig, nær nullkostnadsbetalinger til hvem som helst i verden. Litecoin er et åpen kildekode, globalt betalingsnettverk som er helt desentralisert, uten noen form for sentrale myndigheter. Matematikk beskytter nettverket og styrker enkeltpersoner til å kontrollere sin egen økonomi. Litecoin har raskere transaksjonbekreftelse tider og forbedret lagringseffektivitet enn den ledende mattebaserte valutaen. Med betydelig industristøtte, handelsvolum og likviditet, er Litecoin en bevist medium for handel komplementær til Bitcoin."
+  download:
+    title: "LAST NED"
+    for_windows: "for Windows"
+    for_linux: "for GNU/Linux"
+    for_osx: "for Mac OS X"
+    for_android: "Litecoin for Android"
+    for_blackberry: "Litecoin for BlackBerry"
+    in_development: "UNDER UTVIKLING"
+    coming_soon: "Kommer Snart"
+    source: "KILDE"
+    source_on_github: "Litecoin-Qt kildekode <br/> på GitHub"
+    release_notes: "Utgivelsesnotater... "
+    upgrade_notes: "Oppgraderingsnotater..."
+  community:
+    title: "Samfunn"
+    body_html: "Finn støtte på tvers av et voksende antall Litecoin samfunn: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forum</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Søk etter brukere på Twitter</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> nettverk kanaler <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for vanlige brukere) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for utviklere).</li>\
+      \ </ul>"
+  resources:
+    title: "Ressurser"
+    body_html: "Finn generell informasjon og en liste av tjenester og børser som støtter Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Oppdatert nettverksstatistikk finner du på <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Blokkutforsker Diagrammer</a>. <br /> Kildekode for Litecoin-Qt og relaterte prosjekter er tilgjenglige på <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+  free_oss:
+    title: "Åpen Kildekode Programvare"
+    body_html: "Litecoin er et åpent kildekode programvareprosjekt utgitt under MIT/X11 lisensen som gir deg makten til å kjøre, modifisere og kopiere programvaren og distributere modifiserte utgaver av programvaren. Programvaren er utgitt i en transparent prosess som gjør det mulig for uavhengig verifikasjon av binærfiler og den korresponderende kildekoden. "
+  blockchain:
+    title: "Blokkjede"
+    body_html: "Litecoin sin blokkjede er kapabel til å utføre et høyere transaksjonsvolum enn for eksempel Bitcoin. På grunn av mer frekvente blokkgenerasjon, støtter nettverket flere transaksjoner uten behov for å modifisere programvare i fremtiden. <br/> Som et resultat av dette, får kjøpmenn raskere bekreftelse, mens å fortsatt ha muligheten til å vente på bekreftelser ved salg av større billett gjenstander. "
+  wallet_enc:
+    title: "Lommebokkryptering"
+    body_html: "Lommebokkryptering gjør at du kan sikre lommeboken din, slik at du kan se transaksjoner og din kontobalanse, men må skrive inn ett passord før du kan bruke litecoins. <br /> Dette gir beskyttelse mot lommeboktyver, som virus og trojanere, samt en ekstra sjekk før du sender betalingen. "
+  mining_reward:
+    title: "Blokkutvinning Gevinst"
+    body_html: "Blokkutvinnere er i dag belønnet med 50 nye litecoin per blokk, en sum som blir halvert hvert fjerde år (hver 840,000 blokk). <br />  Litecoinnettverket er derfor planlagt å produsere 84 millioner litecoins, som er fire ganger flere valutaenheter enn Bitcoin. "
+  contact_blurb_html: "Do kan kontakte Litecoins prosjektutviklingslag på <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Opphavsrett  &copy; 2014 Litecoin Prosjekt. Alle rettigheter reservert."

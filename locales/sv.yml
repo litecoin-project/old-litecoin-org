@@ -1,0 +1,38 @@
+sv:
+  lang_name: "Svenska"
+  head:
+    title: "Litecoin - Öppen källkod P2P digitalvaluta"
+  intro:
+    title: "Vad är Litecoin?"
+  download:
+    title: "LADDA NER"
+    for_windows: "för Windows"
+    for_linux: "för GNU/Linux"
+    for_osx: "för Mac OS X"
+    for_android: "Litecoin för Android"
+    for_blackberry: "Litecoin för Blackberry"
+    in_development: "UNDER UTVECKLING"
+    coming_soon: "Kommer snart"
+    source: "KÄLLA"
+    source_on_github: "Litecoin-Qt källkod <br/> på GitHub"
+    release_notes: "Släppnotiser..."
+    upgrade_notes: "Uppgraderingsnotiser..."
+  community:
+    title: "Gemenskap"
+  resources:
+    title: "Resurser"
+    body_html: "Hitta allmän information samt en lista över tjänster och börser som stödjer Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</ a>. <br /> Up-to-date nätverksstatistik finns på <a href=\"http://ltc.block-explorer.com/charts\"> Litecoin Block Explorer Charts</ a>. <br /> Källkod för Litecoin-Qt och relaterade projekt finns på <a href=\"https://github.com/litecoin-project\"> GitHub </ a>."
+  free_oss:
+    title: "Öppen källkodsmjukvara"
+    body_html: "Litecoin är ett öppet källkod-projekt släppt under MIT/X11-licens vilket ger dig möjlighet att köra, ändra, kopiera och sprida programvaran och om du så vill, modifierade kopior av programvaran. Programmet släpps i en öppen process som gör det möjligt för oberoende kontroll av binärfiler och deras motsvarande källkod."
+  blockchain:
+    title: "Blockkedja"
+    body_html: "Litecoin blockedjan kan hantera högre transaktionsvolymer än dess motsvarighet - Bitcoin. På grund av tätare block generering, stödjer nätverket fler transaktioner utan att behöva ändra programvaran i framtiden. <br /> Som ett resultat får försäljare snabbare bekräftelser och har samtidigt förmågan att vänta på fler bekräftelser när de säljer större objekt."
+  wallet_enc:
+    title: "Plånbokskryptering"
+    body_html: "Plånbokskryptering gör att du kan säkra din plånbok, så att du kan granska transaktioner och ditt saldo men måste ange ditt lösenord innan du kan spendera litecoins. <br /> Detta ger skydd mot virus och trojaner som försöker stjäla din plånbok samt en sundhetskontroll före sändning av betalningar."
+  mining_reward:
+    body_html: "Miners belönas för närvarande med 50 nya litecoins per block, ett belopp som halveras ungefär var fjärde år (var 840.000 block). <br /> Litecoinnätverket är därför planerad att producera 84 miljoner litecoins, vilket är fyra gånger fler än Bitcoins."
+  contact_blurb_html: "Du kan kontakta Litecoinprojektets utvecklingsteam på <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Copyright &copy; 2014 Litecoin Project. Alla rättigheter reserverade."

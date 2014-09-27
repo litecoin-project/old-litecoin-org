@@ -1,0 +1,32 @@
+et:
+  lang_name: "Eesti"
+  head:
+    title: "Litecoin - avatud lähtekoodiga P2P digitaalne valuuta"
+  intro:
+    title: "Mis on Litecoin? "
+  download:
+    title: "Lae alla"
+    for_windows: "MS Windows"
+    for_linux: "GNU/Linux"
+    for_osx: "Mac OS X"
+    for_android: "Litecoin Android'ile"
+    for_blackberry: "Litecoin BlackBerry'le"
+    in_development: "TÖÖVERSIOON"
+    coming_soon: "Saabub peatselt"
+    source: "LÄHTEKOOD"
+    source_on_github: "Litecoin-Qt lähtekood GitHub'is"
+    release_notes: "Versiooni kirjeldus"
+    upgrade_notes: "Uuenduse märkmed"
+  community:
+    title: "Kommuun"
+    body_html: "Abi leiad kiirelt kasvavatest keskkondades nagu <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Otsi kasutajaid Twitterist</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> kanalitest <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (kasutajatele) ja <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (arendajatele).</li>\
+      \ </ul>"
+  resources:
+    title: "Ressursid"
+  free_oss:
+    title: "Avatud lähtekoodiga tarkvara"
+  blockchain:
+    title: "Blockchain"
+  wallet_enc:
+    title: "Rahakoti krüpteerimine"
+  contact_blurb_html: "Litecoin projekti liikmetega kontakteerumiseks kasuta <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
