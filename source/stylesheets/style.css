@@ -404,6 +404,7 @@ a.GPG {
     width: 768px;
     height: 96px;
     display: inline-block;
+  	margin-top: 16px;
 	background-size: cover;
   }  
 }
@@ -414,6 +415,7 @@ a.GPG {
     width: 800px;
     height: 99px;
     display: inline-block;
+  	margin-top: 16px;
 	background-size: cover;
   }  
 }
@@ -424,6 +426,7 @@ a.GPG {
     width: 300px;
     height: 120px;
     display: inline-block;
+  	margin-top: 32px;
   	background-size: cover;
   }  
 }
