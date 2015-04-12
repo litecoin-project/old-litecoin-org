@@ -388,3 +388,29 @@ a.GPG {
 .twitter-wrapper {
         padding-top: 30px;
 }
+
+#litecoin-com-ad {
+  background: url(../images/litecoin-com-ad-800.png) no-repeat top center scroll;
+  width: 800px;
+  height: 99px;
+  display: inline-block;
+  margin-top: 16px;
+}
+
+@media (min-width: 768px) {
+  #litecoin-com-ad {
+    background: url(../images/litecoin-com-ad-800.png) no-repeat top center scroll;
+    width: 768px;
+    height: 96px;
+    display: inline-block;
+  }  
+}
+
+@media (max-width: 768px) {
+  #litecoin-com-ad {
+    background: url(../images/litecoin-com-ad-300.png) no-repeat top center scroll;
+    width: 300px;
+    height: 120px;
+    display: inline-block;
+  }  
+}
