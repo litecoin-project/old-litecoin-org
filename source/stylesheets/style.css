@@ -401,6 +401,16 @@ a.GPG {
 @media (min-width: 800px) {
   #litecoin-com-ad {
     background: url(../images/litecoin-com-ad-800.png) no-repeat top center scroll;
+    width: 800px;
+    height: 99px;
+    display: inline-block;
+	background-size: cover;
+  }  
+}
+
+@media (min-width: 768px) {
+  #litecoin-com-ad {
+    background: url(../images/litecoin-com-ad-800.png) no-repeat top center scroll;
     width: 768px;
     height: 96px;
     display: inline-block;
@@ -408,7 +418,7 @@ a.GPG {
   }  
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   #litecoin-com-ad {
     background: url(../images/litecoin-com-ad-300.png) no-repeat top center scroll;
     width: 300px;
