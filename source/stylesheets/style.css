@@ -395,6 +395,7 @@ a.GPG {
   height: 99px;
   display: inline-block;
   margin-top: 16px;
+  background-size: cover;
 }
 
 @media (min-width: 768px) {
