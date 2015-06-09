@@ -15,7 +15,7 @@ layout: layout
     	<div id="downloads">
       	<!-- Windows Download -->
       <div class="download">
-        <a class="download-link" href="https://download.litecoin.org/litecoin-<%= core_version %>/win32/litecoin-<%= core_version %>-win32-setup.exe">
+        <a class="download-link" href="https://download.litecoin.org/litecoin-<%= core_version %>/win/litecoin-<%= core_version %>-win64-setup.exe">
           <span class="download-icon">
             <img src="/images/icons/windows.png" alt="" title="" />
           </span>
@@ -26,11 +26,13 @@ layout: layout
           Litecoin-Qt <%= core_version %><br/>
           <%= t 'download.for_windows' %>
         </a>
-        <a class="GPG" href="https://download.litecoin.org/litecoin-<%= core_version %>/win32/litecoin-<%= core_version %>-win32-setup.exe.asc"><div class="GPG-text">GPG Signature</div></a>
+        <a class="ARCH" href="https://download.litecoin.org/litecoin-<%= core_version %>/win/litecoin-<%= core_version %>-win32-setup.exe">32bit</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="ARCH" href="https://download.litecoin.org/litecoin-<%= core_version %>/win/litecoin-<%= core_version %>-win64-setup.exe">64bit</a>
+        <a class="GPG" href="https://download.litecoin.org/litecoin-<%= core_version %>/win/litecoin-<%= core_version %>-win-signatures.asc"><div class="GPG-text">GPG Signatures</div></a>
       </div>
       <!-- Linux Download -->
       <div class="download">
-        <a class="download-link" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux.tar.xz">
+        <a class="download-link" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux64.tar.xz">
           <span class="download-icon">
             <img src="/images/icons/linux.png" alt="" title= "" />
           </span>
@@ -41,7 +43,9 @@ layout: layout
           Litecoin-Qt <%= core_version %><br/>
           <%= t 'download.for_linux' %>
         </a>
-        <a class="GPG" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux.tar.xz.asc"><div class="GPG-text">GPG Signature</div></a>
+        <a class="ARCH" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux32.tar.gz">32bit</a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="ARCH" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux64.tar.gz">64bit</a>
+        <a class="GPG" href="https://download.litecoin.org/litecoin-<%= core_version %>/linux/litecoin-<%= core_version %>-linux-signatures.asc"><div class="GPG-text">GPG Signatures</div></a>
       </div>
       <!-- Mac Download -->
       <div class="download">

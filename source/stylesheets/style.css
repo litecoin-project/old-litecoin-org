@@ -294,6 +294,18 @@ a.download-line-link {
 	height: 63px;
 }
 
+a.ARCH {
+	text-decoration: none;
+	text-shadow: 0 0 0;
+	color: white;
+	font-size: 13px;
+	font-weight: normal;
+}
+
+.ARCH:hover {
+    background-color: #53524d;
+}
+
 a.GPG {
 	text-decoration: none;
 	display: block;
