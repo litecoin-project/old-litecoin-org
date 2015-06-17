@@ -15,7 +15,7 @@ da:
     in_development: "I UDVIKLING"
     coming_soon: "Kommer snart"
     source: "KILDE"
-    source_on_github: "Litecoin-Qt kildekode <br/> på GitHub"
+    source_on_github: "Litecoin Core kildekode <br/> på GitHub"
     release_notes: "Udgivelses information"
     upgrade_notes: "Opdaterings information"
   community:
@@ -23,7 +23,7 @@ da:
     body_html: "Find støtte på tværs af et stigende antal Litecoin fællesskaber: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Søg efter brugere på Twitter</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for almindelige brugere) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for udviklere).</li> </ul>"
   resources:
     title: "Ressourcer"
-    body_html: "Find generel information samt en liste over tjenester og udvekslinger, der understøtter Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netværk statistikker kan findes på <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Kildekode til Litecoin-Qt og relaterede projekter er tilgængelige på <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Find generel information samt en liste over tjenester og udvekslinger, der understøtter Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netværk statistikker kan findes på <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Kildekode til Litecoin Core og relaterede projekter er tilgængelige på <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Open Source Software"
     body_html: "Litecoin er et open source software-projekt udgivet under MIT/X11-licens, som giver dig mulighed for at køre, ændre og kopiere, distribuere softwaren på dine præmisser såvel som modificerede kopier af softwaren. Softwaren offentligt tilgængelige, da det giver mulighed for uafhængig kontrol af binære filer og deres tilsvarende kildekode."

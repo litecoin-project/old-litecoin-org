@@ -9,14 +9,14 @@ el:
     for_windows: "για Windows"
     for_linux: "για GNU/Linux"
     for_osx: "για Mac OS X"
-    source_on_github: "Litecoin-Qt πηγαίος κώδικας <br/> στο GitHub"
+    source_on_github: "Litecoin Core πηγαίος κώδικας <br/> στο GitHub"
   community:
     title: "Κοινότητα"
     body_html: "Βρείτε υποστήριξη σε έναν συνεχώς αυξανόμενο αριθμό κοινοτήτων για το Litecoin: <ul> <li><a href=\"https://litecointalk.org\">Επίσημο Litecoin Φόρουμ</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Litecoin στο Reddit</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Αναζήτηση για χρήστες στο Twitter</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> δικτυακά κανάλια <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (για απλούς χρήστες) και <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (για developers).</li>\
       \ </ul>"
   resources:
     title: "Πηγές"
-    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Ο πηγαίος κώδικας για το Litecoin-Qt και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Βρείτε γενικές πληροφορίες, καθώς επίσης και μία λίστα υπηρεσιών και ανταλλακτηρίων που υποστηρίζουν το Litecoin στο <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Ενημερωμένα στατιστικά δικτύου μπορούν να βρεθούν στο <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Ο πηγαίος κώδικας για το Litecoin Core και σχετικά projects είναι διαθέσιμος στο <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   blockchain:
     title: "Blockchain"
     body_html: "H αλυσίδα των μπλοκ του Litecoin χειρίζεται υψηλότερο όγκο συναλλαγών σε σχέση με το αντίστοιχό του νόμισμα, το Bitcoin. Εξαιτίας της συχνότερης δημιουργίας των μπλοκ, το δίκτυο υποστηρίζει περισσότερες συναλλαγές, χωρίς να υπάρχει ανάγκη τροποποίησης του λογισμικού στο μέλλον. <br />Σαν αποτέλεσμα, οι έμποροι αποκτούν βεβαιώσεις των συναλλαγών σε συντομότερο χρονικό διάστημα, ενώ ταυτόχρονα έχουν τη δυνατότητα να αναμένουν για περισσότερες επιβεβαιώσεις όταν πουλούν αντικείμενα με μεγαλύτερη περίοδο ισχύως."

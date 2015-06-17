@@ -13,7 +13,7 @@ sl:
     for_blackberry: "Litecoin za BlackBerry"
     in_development: "V RAZVOJU"
     source: "VIR"
-    source_on_github: "Litecoin-Qt izvorna koda <br/> na GitHub-u"
+    source_on_github: "Litecoin Core izvorna koda <br/> na GitHub-u"
     release_notes: "Opombe ob izdaji..."
     upgrade_notes: "Opombe o nadgradnji..."
   community:
@@ -22,7 +22,7 @@ sl:
       \ </ul>"
   resources:
     title: "Viri"
-    body_html: "Poišči splošne informacije kot tudi vse servise in menjalnice, ki podpirajo Litecoin na  <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Najnovejše statistike omrežja so dostopne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Izvorna koda za Litecoin-Qt in sorodni projekti so dostopni na <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Poišči splošne informacije kot tudi vse servise in menjalnice, ki podpirajo Litecoin na  <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Najnovejše statistike omrežja so dostopne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Izvorna koda za Litecoin Core in sorodni projekti so dostopni na <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Odprto kodni program"
     body_html: "Litecoin je odprto kodni projekt izdan pod MIT/X11 licenco, katera ti omogoča zagon, modificiranje in kopiranje programa ter distribucijo lastnih modificiranih kopij programa. Program je izdan transparentno ter omogoča neodvisno preverjanje binarnih zapisov in izvorne kode."

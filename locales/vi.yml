@@ -15,7 +15,7 @@ vi:
     in_development: "ĐANG PHÁT TRIỂN"
     coming_soon: "Sắp ra mắt"
     source: "MÃ NGUỒN"
-    source_on_github: "Mã Nguồn của Litecoin-Qt <br/> trên GitHub"
+    source_on_github: "Mã Nguồn của Litecoin Core <br/> trên GitHub"
     release_notes: "Ghi chú phát hành..."
     upgrade_notes: "Ghi chú cập nhật..."
   community:
@@ -24,7 +24,7 @@ vi:
       \ </ul>"
   resources:
     title: "Tài nguyên"
-    body_html: "Tìm kiếm thông tin chung cũng như danh sách các dịch vụ và sàn giao dịch hỗ trợ Litecoin tại địa chỉ <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Cập nhật số liệu thống kê mạng có thể tìm thấy tại địa chỉ <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Mã nguồn cho Litecoin-Qt và các dự án liên quan có sẵn tại địa chỉ <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Tìm kiếm thông tin chung cũng như danh sách các dịch vụ và sàn giao dịch hỗ trợ Litecoin tại địa chỉ <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Cập nhật số liệu thống kê mạng có thể tìm thấy tại địa chỉ <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Mã nguồn cho Litecoin Core và các dự án liên quan có sẵn tại địa chỉ <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Phần Mêm Mã Nguồn Mở"
     body_html: "Litecoin là một dự án phần mềm mã nguồn mở được công bố dưới giấy phép mở MIT/X11 trong đó cho phép bạn có quyền chạy, sửa đổi và sao chép phần mềm đồng thời phân phối bản sửa đổi tùy theo ý muốn. Phần mềm này có một quá trình xuất bản minh bạch qua đó cho phép việc kiểm tra một cách độc lập các tập tin chạy và mã nguồn tương ứng."

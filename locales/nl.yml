@@ -15,7 +15,7 @@ nl:
     in_development: "IN ONTWIKKELING"
     coming_soon: "Komt Binnenkort"
     source: "BRONCODE"
-    source_on_github: "Litecoin-Qt broncode <br/> op GitHub"
+    source_on_github: "Litecoin Core broncode <br/> op GitHub"
     release_notes: "Release Notes..."
     upgrade_notes: "Upgrade Notes..."
   community:
@@ -24,7 +24,7 @@ nl:
       \ </ul> "
   resources:
     title: "Hulpmiddelen"
-    body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Broncode voor Litecoin-Qt en aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Vind algemene informatie zowel als een lijst van diensten en beurzen op de <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Up-to-date netwerkstatistieken kunnen gevonden worden op: <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Broncode voor Litecoin Core en aanverwante projecten is te vinden op <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Open Source software"
     body_html: "Litecoin is Open Source software uitgebracht onder de MIT/X11 licentie die je toestaat de software te draaien, aan te passen, te kopiëren en aangepaste kopieën van de software te verspreiden. De software is uitgebracht middels een transparant proces dat onafhankelijke verificatie van binaire bestanden en hun bijbehorende broncode toelaat."

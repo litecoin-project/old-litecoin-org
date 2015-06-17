@@ -15,7 +15,7 @@ lv:
     in_development: "IZSTRĀDES STADIJĀ"
     coming_soon: "Drīzumā"
     source: "PIRMKODS"
-    source_on_github: "Litecoin-Qt pirmkods <br/> uz GitHub"
+    source_on_github: "Litecoin Core pirmkods <br/> uz GitHub"
     release_notes: "Laidiena piezīmes..."
     upgrade_notes: "Atjaunināšanas piezīmes..."
   community:
@@ -24,7 +24,7 @@ lv:
       \ </ul>"
   resources:
     title: "Resursi"
-    body_html: "Atrodi vispārīgu informāciju, kā arī sarakstu ar pakalpojumiem un apmaiņas punktiem kuri atbalsta Litecoin <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Atjauninātu tīkla statistiku var atrast <a href=\"http://ltc.block-explorer.com/charts\">Litecoin bloku pētnieku tabulās</a>. <br /> Litecoin-Qt pirmkods un saistītie projekti ir pieejami <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+    body_html: "Atrodi vispārīgu informāciju, kā arī sarakstu ar pakalpojumiem un apmaiņas punktiem kuri atbalsta Litecoin <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Atjauninātu tīkla statistiku var atrast <a href=\"http://ltc.block-explorer.com/charts\">Litecoin bloku pētnieku tabulās</a>. <br /> Litecoin Core pirmkods un saistītie projekti ir pieejami <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Atvērtā pirmkoda programmatūra"
     body_html: "Litecoin ir atvērtā koda programmatūras projekts kurš ir izlaists zem MIT/X11 licences, kas dod jums tiesības palaist, modificēt, un kopēt programmatūru un izplatīt, pēc jūsu izvēles, modificētas programmatūras kopijas. Programma ir izlaista pārredzamā procesā, kas ļauj veikt neatkarīgu pārbaudi bināros failos un to attiecīgajā pirmkodā."

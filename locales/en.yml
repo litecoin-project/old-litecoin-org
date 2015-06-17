@@ -17,7 +17,7 @@ en:
    in_development: "IN DEVELOPMENT"
    coming_soon: "Coming Soon"
    source: "SOURCE"
-   source_on_github: "Litecoin-Qt source code <br/> on GitHub"
+   source_on_github: "Litecoin Core source code <br/> on GitHub"
    release_notes: "Release Notes..."
    upgrade_notes: "Upgrade Notes..."
   community:
@@ -35,7 +35,7 @@ en:
                               <br />
                               Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
                               <br />
-                              Source code for Litecoin-Qt and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+                              Source code for Litecoin Core and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Open Source Software"
     body_html: "Litecoin is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."

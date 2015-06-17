@@ -15,7 +15,7 @@ cs:
     in_development: "VE VÝVOJI"
     coming_soon: "Již brzy"
     source: "ZDROJOVÝ KÓD"
-    source_on_github: "Litecoin-Qt zdrojový kód <br/> na GitHub"
+    source_on_github: "Litecoin Core zdrojový kód <br/> na GitHub"
     release_notes: "Poznámky k vydání..."
     upgrade_notes: "Poznámky k aktualizaci..."
   community:
@@ -24,7 +24,7 @@ cs:
       \ </ul>"
   resources:
     title: "Zdroje"
-    body_html: "Základní informace stejně jako seznam služeb a směnáren, které podporují Litecoin můžete najít na <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Aktuální statistiky sítě jsou na stránce <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Zdrojový kód pro Litecoin-Qt a odvozené projekty je dostupný na <a href=\"https://github.com/litecoin-project\">GitHubu</a>."
+    body_html: "Základní informace stejně jako seznam služeb a směnáren, které podporují Litecoin můžete najít na <a href=\"http://litecoin.info\">Litecoin Wiki</a>. <br /> Aktuální statistiky sítě jsou na stránce <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Zdrojový kód pro Litecoin Core a odvozené projekty je dostupný na <a href=\"https://github.com/litecoin-project\">GitHubu</a>."
   free_oss:
     title: "Open Source Software"
     body_html: "Litecoin je open source softwarový projekt uvolněný pod licencí MIT/X11, která vám dává možnost provozovat, upravovat, kopírovat podle vlastního uvážení a distribuovat takto upravené kopie softwaru. Software je uvolňován transparentním procesem, který umožňuje nezávislé ověřování binárních souborů a jejich zdrojového kódu."

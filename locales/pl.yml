@@ -15,7 +15,7 @@ pl:
     in_development: "W trakcie budowy"
     coming_soon: "Wkrótce"
     source: "ŹRÓDŁO"
-    source_on_github: "Kod źródłowy Litecoin-Qt <br/> na GitHubie"
+    source_on_github: "Kod źródłowy Litecoin Core <br/> na GitHubie"
     release_notes: "Notki o wydaniu"
     upgrade_notes: "Uwagi o upgrade"
   community:
@@ -24,7 +24,7 @@ pl:
       \ </ul>"
   resources:
     title: "Zasoby"
-    body_html: "Informacje ogólne, listę usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href=\"http://litecoin.info\">Wiki Litecoina </a>. <br />Bieżące statystyki sieci są dostępne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br/>Kod źródłowy Litecoin-Qt i powiązanych projektów jest dostępny na <a href=\"https://github.com/litecoin-project\">GitHubie</a>."
+    body_html: "Informacje ogólne, listę usług oraz giełd, które obsługują i wspierają Litecoina znajdziesz na <a href=\"http://litecoin.info\">Wiki Litecoina </a>. <br />Bieżące statystyki sieci są dostępne na <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br/>Kod źródłowy Litecoin Core i powiązanych projektów jest dostępny na <a href=\"https://github.com/litecoin-project\">GitHubie</a>."
   free_oss:
     title: "Otwarte oprogramowanie"
     body_html: "Litecoin to otwarto-źródłowy program dostępny na licencji MIT/X11, która pozwala na uruchamianie, kopiowanie, modyfikowanie i rozpowszechnianie, w tym zmodyfikowanych wersji. Program jest publikowany w transparentny sposób, który pozwala niezależnie weryfikować pliki wykonywalne i odpowiadający im kod źródłowy."

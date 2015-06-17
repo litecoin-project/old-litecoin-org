@@ -14,14 +14,14 @@ sv:
     in_development: "UNDER UTVECKLING"
     coming_soon: "Kommer snart"
     source: "KÄLLA"
-    source_on_github: "Litecoin-Qt källkod <br/> på GitHub"
+    source_on_github: "Litecoin Core källkod <br/> på GitHub"
     release_notes: "Släppnotiser..."
     upgrade_notes: "Uppgraderingsnotiser..."
   community:
     title: "Gemenskap"
   resources:
     title: "Resurser"
-    body_html: "Hitta allmän information samt en lista över tjänster och börser som stödjer Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</ a>. <br /> Up-to-date nätverksstatistik finns på <a href=\"http://ltc.block-explorer.com/charts\"> Litecoin Block Explorer Charts</ a>. <br /> Källkod för Litecoin-Qt och relaterade projekt finns på <a href=\"https://github.com/litecoin-project\"> GitHub </ a>."
+    body_html: "Hitta allmän information samt en lista över tjänster och börser som stödjer Litecoin på <a href=\"http://litecoin.info\">Litecoin Wiki</ a>. <br /> Up-to-date nätverksstatistik finns på <a href=\"http://ltc.block-explorer.com/charts\"> Litecoin Block Explorer Charts</ a>. <br /> Källkod för Litecoin Core och relaterade projekt finns på <a href=\"https://github.com/litecoin-project\"> GitHub </ a>."
   free_oss:
     title: "Öppen källkodsmjukvara"
     body_html: "Litecoin är ett öppet källkod-projekt släppt under MIT/X11-licens vilket ger dig möjlighet att köra, ändra, kopiera och sprida programvaran och om du så vill, modifierade kopior av programvaran. Programmet släpps i en öppen process som gör det möjligt för oberoende kontroll av binärfiler och deras motsvarande källkod."

@@ -15,7 +15,7 @@ de:
     in_development: "IN ENTWICKLUNG"
     coming_soon: "Kommt bald"
     source: "QUELLCODE"
-    source_on_github: "Litecoin-Qt Quellcode <br/> bei GitHub"
+    source_on_github: "Litecoin Core Quellcode <br/> bei GitHub"
     release_notes: "Versionshinweise..."
     upgrade_notes: "Hinweise zur Aktualisierung..."
   community:

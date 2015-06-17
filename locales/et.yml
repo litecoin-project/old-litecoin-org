@@ -14,7 +14,7 @@ et:
     in_development: "TÖÖVERSIOON"
     coming_soon: "Saabub peatselt"
     source: "LÄHTEKOOD"
-    source_on_github: "Litecoin-Qt lähtekood GitHub'is"
+    source_on_github: "Litecoin Core lähtekood GitHub'is"
     release_notes: "Versiooni kirjeldus"
     upgrade_notes: "Uuenduse märkmed"
   community:

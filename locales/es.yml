@@ -15,7 +15,7 @@ es:
     in_development: "En Desarrollo"
     coming_soon: "Próximamente"
     source: "Código Fuente"
-    source_on_github: "Código fuente de Litecoin-Qt <br/> en GitHub"
+    source_on_github: "Código fuente de Litecoin Core <br/> en GitHub"
     release_notes: "Notas de la versión..."
     upgrade_notes: "Notas de actualización..."
   community:

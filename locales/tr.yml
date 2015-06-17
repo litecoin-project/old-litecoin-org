@@ -14,7 +14,7 @@ tr:
     in_development: "GELİŞTİRME AŞAMASINDA"
     coming_soon: "Yakında"
     source: "KAYNAK"
-    source_on_github: "Github'da <br/> Litecoin-Qt kaynak kodları"
+    source_on_github: "Github'da <br/> Litecoin Core kaynak kodları"
     release_notes: "Sürüm Notları..."
     upgrade_notes: "Güncelleme Notları..."
   community:
@@ -23,7 +23,7 @@ tr:
       \ </ul>"
   resources:
     title: "Kaynaklar"
-    body_html: "Genel bilgilere, Litecoin'i destekleyen servis ve borsaların listesine <a href=\"http://litecoin.info\">Litecoin Wiki</a>'den ulaşabilirsiniz. <br /> Güncel ağ istatistikleri  <a href=\"http://ltc.block-explorer.com/charts\">burada</a> yer almaktadır. Litecoin-QT ve ilgili projelerin kaynak kodu <a href=\"https://github.com/litecoin-project\">GitHub</a>'da mevcuttur."
+    body_html: "Genel bilgilere, Litecoin'i destekleyen servis ve borsaların listesine <a href=\"http://litecoin.info\">Litecoin Wiki</a>'den ulaşabilirsiniz. <br /> Güncel ağ istatistikleri  <a href=\"http://ltc.block-explorer.com/charts\">burada</a> yer almaktadır. Litecoin COre ve ilgili projelerin kaynak kodu <a href=\"https://github.com/litecoin-project\">GitHub</a>'da mevcuttur."
   free_oss:
     title: "Özgür ve açık kaynak kodlu yazılım"
     body_html: "Litecoin, özgür ve açık kaynak kodlu bir yazılımdır ve yazılımı çalıştırmanıza, değiştirmenize, kopyalamanıza ve dağıtmanıza izin veren MIT/X11 lisansı ile yayınlanmaktadır. Yazılım, çalıştırılabilir dosyaların ve karşılığında kodların bağımsız doğrulanmasına izin veren transparan bir süreç ile yayınlanmaktadır."

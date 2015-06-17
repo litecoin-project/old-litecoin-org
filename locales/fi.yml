@@ -15,7 +15,7 @@ fi:
     in_development: "KEHITYKSESSÄ"
     coming_soon: "Tulossa"
     source: "LÄHDEKOODI"
-    source_on_github: "Litecoin-Qt lähdekoodi <br/> Github:ssa"
+    source_on_github: "Litecoin Core lähdekoodi <br/> Github:ssa"
     release_notes: "Julkaisutiedot..."
     upgrade_notes: "Päivitystiedot..."
   community:
@@ -23,7 +23,7 @@ fi:
     body_html: "Tukea voi hakea aina kasvavista yhteisöistä: <ul> <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li> <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li> <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Etsi käyttäjiä Twitter:ssä</a></li> <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> verkon kanavilla <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (peruskäyttäjille) ja <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (kehittäjille).</li> </ul>"
   resources:
     title: "Resurssit"
-    body_html: "Yleistä tietoa, palveluja ja vaihtopaikkoja löytyy <a href=\"http://litecoin.info\">Litecoin Wiki</a>:sta. <br /> Päivitetyt verkkotilastot löytyy <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Litecoin-Qt lähdekoodi ja muut projektit löytyy <a href=\"https://github.com/litecoin-project\">GitHub</a>:sta."
+    body_html: "Yleistä tietoa, palveluja ja vaihtopaikkoja löytyy <a href=\"http://litecoin.info\">Litecoin Wiki</a>:sta. <br /> Päivitetyt verkkotilastot löytyy <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>. <br /> Litecoin Core lähdekoodi ja muut projektit löytyy <a href=\"https://github.com/litecoin-project\">GitHub</a>:sta."
   free_oss:
     title: "Vapaan lähdekoodin ohjelma"
     body_html: "Litecoin on julkaistu vapaan lähdekoodin ohjelmistoprojektina MIT/X11-lisenssillä, joka antaa oikeuden ajaa, muokata ja kopioida ohjelmaa ja levittää muokattuja kopioita ohjelmasta. Ohjelma julkaistaan läpinäkyvällä prosessilla joka mahdollistaa ohjelmakoodin ja lähdekoodin riippumattoman varmistuksen."
