@@ -39,4 +39,4 @@ vi:
     body_html: "Thợ mỏ sẽ được nhận 50 Litecoin đối với mỗi khối (block), con số nhận được này sẽ giảm một nửa sau 4 năm ( mỗi 840.000 block). <br /> Do đó mạng lưới Litecoin dự kiến sẽ sản xuất là 84 triệu đồng Litecoin, gấp 4 lần so với số đơn vị tiền tệ Bitcoin."
   contact_blurb_html: "Bạn có thể liện hệ với nhóm phát triển dự án Litecoin tại địa chỉ <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."
+    copyright: "Copyright &copy; 2011-2015 Litecoin Project. All rights reserved."

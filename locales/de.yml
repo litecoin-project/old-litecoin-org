@@ -38,4 +38,4 @@ de:
     body_html: "Anfänglich werden pro erwirtschaftetem Block 50 litecoins generiert. Die Menge an generierten Litecoins halbiert sich etwa alle 4 Jahre (840.000 Blöcke). <br /> Alles in allem werden dadurch viermal mehr Litecoins als Bitcoins generiert (insgesamt 84 Millionen Litecoins)."
   contact_blurb_html: "Das Litecoin Entwicklungsteam können Sie via <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a> kontaktieren."
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Project. All rights reserved."
+    copyright: "Copyright &copy; 2011-2015 Litecoin Project. All rights reserved."

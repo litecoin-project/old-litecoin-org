@@ -39,4 +39,4 @@ it:
     body_html: "I miner all'inizio genereranno 50 monete per blocco. La quantità di monete generate viene dimezzata ogni 4 anni (840.000 blocchi). <br /> Pertanto, la rete Litecoin è programmata per produrre approssimativamente il quadruplo di unità rispetto a Bitcoin, ovvero circa 84 milioni di litecoin."
   contact_blurb_html: "Potete contattare il team degli sviluppatori di Litecoin all'indirizzo di posta elettronica <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Project. Tutti i Diritti Riservati."
+    copyright: "Copyright &copy; 2011-2015 Litecoin Project. Tutti i Diritti Riservati."

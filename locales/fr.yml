@@ -39,4 +39,4 @@ fr:
     body_html: "Les mineurs sont au départ récompensés de 50 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br /> Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
   contact_blurb_html: "Vous pouvez contacter l'équipe de développement de Litecoin à <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
-    copyright: "Copyright &copy; 2014 Litecoin Project. Tous droits réservés."
+    copyright: "Copyright &copy; 2011-2015 Litecoin Project. Tous droits réservés."

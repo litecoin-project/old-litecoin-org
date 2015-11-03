@@ -39,4 +39,4 @@ zh_CN:
     body_html: "“矿工们”目前每数据块可以产出50个莱特币。每4年，生产的莱特币货币量将减少一半(每经过840000个数据块)。 <br /> 因此，莱特币网络生产的货币总量将是比特币的4倍，即8400万个莱特币。"
   contact_blurb_html: "您可以通过邮件<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>联系莱特币的开发维护团队。"
   footer:
-    copyright: "Copyright © 2014 莱特币项目版权归开发者所有，并保留所有权利。"
+    copyright: "Copyright © 2011-2015 莱特币项目版权归开发者所有，并保留所有权利。"

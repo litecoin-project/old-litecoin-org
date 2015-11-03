@@ -39,4 +39,4 @@ zh_TW:
     body_html: "“礦工們”起初每資料塊可以產出50個幣。每4年，生產的貨幣量將減少一半(840000個資料塊)。 <br /> 因此，Litecoin網路生產的貨幣總量將大約是比特幣的4倍，即8400萬個litecoin。"
   contact_blurb_html: "您可以通過<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>聯繫Litecoin的開發團隊。"
   footer:
-    copyright: "&copy; 2014 Litecoin Project 版權所有，保留所有權利。"
+    copyright: "&copy; 2011-2015 Litecoin Project 版權所有，保留所有權利。"

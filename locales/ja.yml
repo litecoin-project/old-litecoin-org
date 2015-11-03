@@ -39,4 +39,4 @@ ja:
     body_html: "採掘者は1ブロック発掘するごとに50コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと) <br /> したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
   contact_blurb_html: "Litecoin開発チームへのお問い合わせは<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>まで。"
   footer:
-    copyright: "Copyright &copy; 2014 Litecoinプロジェクト. All rights reserved."
+    copyright: "Copyright &copy; 2011-2015 Litecoinプロジェクト. All rights reserved."
