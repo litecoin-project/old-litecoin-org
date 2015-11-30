@@ -52,7 +52,7 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-set :core_version, '0.10.3.0'
+set :core_version, '0.10.4.0'
 
 # Build-specific configuration
 configure :build do
