@@ -39,4 +39,4 @@ es:
     body_html: "Los mineros inicialmente pueden generar 50 monedas por bloque. La cantidad de monedas generadas se ve reducida a la mitad cada 4 años (840,000 bloques). <br /> Por lo tanto, la red Litecoin está programada para producir aproximadamente 4 veces más unidades monetarias que Bitcoin, o cerca de 84 millones de litecoins."
   contact_blurb_html: "Usted puede contactarse con el equipo de desarrollo Litecoin en: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
-    copyright: "Copyright &copy; 2011-2015 Litecoin Project. Todos los derechos reservados."
+    copyright: "Copyright &copy; 2011-2016 Litecoin Project. Todos los derechos reservados."

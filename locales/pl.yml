@@ -39,4 +39,4 @@ pl:
     body_html: "Górnicy są obecnie nagradzani 50 litecoinami za blok, a ilość ta zmniejsza się o połowę co 4 lata (co każde 840.000 bloki). <br />Sieć Litecoina jest zaprojektowana aby wyprodukować 84 miliony litecoinów, co oznacza 4 razy więcej niż bitcoinów."
   contact_blurb_html: "Możesz skontaktować się z developerami Litecoina przez adres  <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
-    copyright: "Prawa autorskie &copy; 2011-2015 Litecoin Project. Wszelkie prawa zastrzeżone."
+    copyright: "Prawa autorskie &copy; 2011-2016 Litecoin Project. Wszelkie prawa zastrzeżone."
