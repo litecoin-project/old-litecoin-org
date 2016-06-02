@@ -35,7 +35,7 @@ fi:
     body_html: "Lompakon salaus mahdollistaa lompakon turvaamisen niin että voit seurata rahansiirtoja ja tilisi saldoa, mutta rahan lähettämisessä kysytään salasanaa ennenkuin litecoineja voi kuluttaa. <br />Tämä suojaa lompakon varastamiseen luotuja viruksia ja troijalaisia vastaan ja toimii järkiperäisenä tarkistuksena ennen maksua."
   mining_reward:
     title: "Louhimisen palkkio"
-    body_html: "Louhijat palkitaan nykyään 50 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br /> Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
+    body_html: "Louhijat palkitaan nykyään 25 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br /> Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
   contact_blurb_html: "Voit ottaa yhteyttä Litecoin projektin kehittäjäryhmään <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Tekijänoikeus &copy; 2011-2016 Litecoin Projekti. Kaikki oikeudet pidätetään."

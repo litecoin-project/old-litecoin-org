@@ -36,7 +36,7 @@ ja:
     body_html: "ウォレットの暗号化によって、ウォレットのプライベートキーの安全性を確保し、取引やアカウント残高を確認することができます。Litecoinを使用する前にはパスワードの入力が必要となります。 <br /> この認証によって、ウイルスやスパムから保護できるだけでなく、支払い実行前に安全性を確認することができます。"
   mining_reward:
     title: "リワード"
-    body_html: "採掘者は1ブロック発掘するごとに50コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと) <br /> したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
+    body_html: "採掘者は1ブロック発掘するごとに25コインが与えられます。この数は約4年ごとに半減していきます。(840,000ブロックごと) <br /> したがって、Litecoinネットワークでは、Bitcoinのおおよそ4倍の量の通貨、約8400万枚のLitecoinが生成される事になります。"
   contact_blurb_html: "Litecoin開発チームへのお問い合わせは<a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>まで。"
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoinプロジェクト. All rights reserved."

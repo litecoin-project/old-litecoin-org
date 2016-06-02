@@ -36,7 +36,7 @@ lv:
     body_html: "Maka šifrēšana ļauj Tev pasargāt savu maku, lai Tu varētu skatīt transakcijas un konta atlikumu, bet būs nepieciešams ievadīt paroli pirms varēsi sāk tērēt savus litecoins.<br />Šifrēšana nodrošina aizsardzību pret maku zogošiem vīrusiem un trojaniem, kā arī tiek veikta atbilstības pārbaude pirms maksājuma nosūtīšanas."
   mining_reward:
     title: "Rakšanas atlīdzība"
-    body_html: "Racēji pašlaik tiek atalgoti ar 50 jauniem litecoin par katru bloku, summa, kas samazinās uz pusi aptuveni ik pēc 4 gadiem (840,000 bloki). <br /> Tāpēc Litecoin tīkls ir plānots, lai ražotu 84 miljonus litecoin, kas ir 4 reizes vairāk valūtas vienībās, kā Bitcoin."
+    body_html: "Racēji pašlaik tiek atalgoti ar 25 jauniem litecoin par katru bloku, summa, kas samazinās uz pusi aptuveni ik pēc 4 gadiem (840,000 bloki). <br /> Tāpēc Litecoin tīkls ir plānots, lai ražotu 84 miljonus litecoin, kas ir 4 reizes vairāk valūtas vienībās, kā Bitcoin."
   contact_blurb_html: "Tu vari sazināties ar Litecoin projekta izstrādes komandu <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Autortiesības &copy; 2011-2016 Litecoin Projekts. Visas tiesības rezervētas."

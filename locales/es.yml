@@ -36,7 +36,7 @@ es:
     body_html: "El cifrado de la cartera electrónica permite asegurar las claves privadas en la cartera, para que usted pueda ver las transacciones y su saldo de cuenta, pero se solicita el ingreso de contraseña antes de utilizar sus litecoins. <br /> Esto es útil no solo como protección ante los virus y troyanos, sino también como una comprobación de seguridad antes de enviar un pago."
   mining_reward:
     title: "Recompensa"
-    body_html: "Los mineros inicialmente pueden generar 50 monedas por bloque. La cantidad de monedas generadas se ve reducida a la mitad cada 4 años (840,000 bloques). <br /> Por lo tanto, la red Litecoin está programada para producir aproximadamente 4 veces más unidades monetarias que Bitcoin, o cerca de 84 millones de litecoins."
+    body_html: "Los mineros inicialmente pueden generar 25 monedas por bloque. La cantidad de monedas generadas se ve reducida a la mitad cada 4 años (840,000 bloques). <br /> Por lo tanto, la red Litecoin está programada para producir aproximadamente 4 veces más unidades monetarias que Bitcoin, o cerca de 84 millones de litecoins."
   contact_blurb_html: "Usted puede contactarse con el equipo de desarrollo Litecoin en: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. Todos los derechos reservados."

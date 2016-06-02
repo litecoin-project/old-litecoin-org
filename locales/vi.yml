@@ -36,7 +36,7 @@ vi:
     body_html: "Mã hóa ví tiền giúp bạn bảo vệ túi tiền của bạn một cách an toàn nhất. Bạn có thể xem các giao dịch và số dư tài khoản của bạn, nhưng sẽ được yêu cầu nhập mật mã riêng của bạn trước khi tiêu litecoin. <br />Điều này bảo vệ dành bạn khỏi virus hay trojan ăn cắp tiền cũng như kiểm tra sự tỉnh táo của bạn trước khi thanh toán"
   mining_reward:
     title: "Phần thưởng"
-    body_html: "Thợ mỏ sẽ được nhận 50 Litecoin đối với mỗi khối (block), con số nhận được này sẽ giảm một nửa sau 4 năm ( mỗi 840.000 block). <br /> Do đó mạng lưới Litecoin dự kiến sẽ sản xuất là 84 triệu đồng Litecoin, gấp 4 lần so với số đơn vị tiền tệ Bitcoin."
+    body_html: "Thợ mỏ sẽ được nhận 25 Litecoin đối với mỗi khối (block), con số nhận được này sẽ giảm một nửa sau 4 năm ( mỗi 840.000 block). <br /> Do đó mạng lưới Litecoin dự kiến sẽ sản xuất là 84 triệu đồng Litecoin, gấp 4 lần so với số đơn vị tiền tệ Bitcoin."
   contact_blurb_html: "Bạn có thể liện hệ với nhóm phát triển dự án Litecoin tại địa chỉ <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. All rights reserved."
