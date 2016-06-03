@@ -36,7 +36,7 @@ pt:
     body_html: "A codificação da carteira permite que você possa segurar suas chaves privadas na carteira, e assim poderá visualizar as transações e seu saldo de conta, mas é obrigatório inserir sua senha antes de gastar suas litecoins. <br /> Isso serve não apenas como proteção para vírus e troianos, mas também como um controle de conformidade antes de enviar os pagamentos."
   mining_reward:
     title: "Recompensa"
-    body_html: "Os mineiros inicialmente gerarão 50 moedas por bloco. A quantidade de moedas geradas fica reduzida à metade a cada 4 anos (840.000 blocos). <br /> Portanto, a rede Litecoin é projetada para produzir cerca de 4 vezes o número de unidades do que Bitcoin, ou cerca de 84 milhões de litecoins."
+    body_html: "Os mineiros inicialmente gerarão 25 moedas por bloco. A quantidade de moedas geradas fica reduzida à metade a cada 4 anos (840.000 blocos). <br /> Portanto, a rede Litecoin é projetada para produzir cerca de 4 vezes o número de unidades do que Bitcoin, ou cerca de 84 milhões de litecoins."
   contact_blurb_html: "Você pode entrar em contato com a equipe de desenvolvimento da Litecoin em: <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. Todos os direitos reservados."

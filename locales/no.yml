@@ -36,7 +36,7 @@
     body_html: "Lommebokkryptering gjør at du kan sikre lommeboken din, slik at du kan se transaksjoner og din kontobalanse, men må skrive inn ett passord før du kan bruke litecoins. <br /> Dette gir beskyttelse mot lommeboktyver, som virus og trojanere, samt en ekstra sjekk før du sender betalingen. "
   mining_reward:
     title: "Blokkutvinning Gevinst"
-    body_html: "Blokkutvinnere er i dag belønnet med 50 nye litecoin per blokk, en sum som blir halvert hvert fjerde år (hver 840,000 blokk). <br />  Litecoinnettverket er derfor planlagt å produsere 84 millioner litecoins, som er fire ganger flere valutaenheter enn Bitcoin. "
+    body_html: "Blokkutvinnere er i dag belønnet med 25 nye litecoin per blokk, en sum som blir halvert hvert fjerde år (hver 840,000 blokk). <br />  Litecoinnettverket er derfor planlagt å produsere 84 millioner litecoins, som er fire ganger flere valutaenheter enn Bitcoin. "
   contact_blurb_html: "Do kan kontakte Litecoins prosjektutviklingslag på <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Opphavsrett  &copy; 2011-2016 Litecoin Prosjekt. Alle rettigheter reservert."

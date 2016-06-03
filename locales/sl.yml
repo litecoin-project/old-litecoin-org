@@ -33,7 +33,7 @@ sl:
     body_html: "Enkripcija denarnice ti omogoča, da zavaruješ svojo denarnico, kjer lahko vidiš vse transakcije ter stanje na računu denarnice, zahteva pa vnos gesla preden lahko Litecoine uporabljaš.<br/> To je zaščita pred virusi in trojanci, ki omogočajo krajo denarnice, kot tudi dodatno preverjanje preden se izvrši samo plačilo."
   mining_reward:
     title: "Nagrada za rudarjenje"
-    body_html: "Rudarji dobijo trenutno 50 novih litecoinov za vsak blok, znesek, ki se razpolovi približno vsake 4 leta (vsakih 840.000 blokov). <br/> Litecoin omrežje bo torej proizvedlo 84 milijonov litecoinov, kar je 4 krat toliko, kolikor bo proizvedeno Bitcoinov."
+    body_html: "Rudarji dobijo trenutno 25 novih litecoinov za vsak blok, znesek, ki se razpolovi približno vsake 4 leta (vsakih 840.000 blokov). <br/> Litecoin omrežje bo torej proizvedlo 84 milijonov litecoinov, kar je 4 krat toliko, kolikor bo proizvedeno Bitcoinov."
   contact_blurb_html: "Razvijalce Litecoin projekta lahko kontaktiraš na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Avtorske pravice &copy; 2011-2016 Litecoin Project. Vse pravice pridržane."

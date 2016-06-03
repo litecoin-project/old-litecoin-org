@@ -36,7 +36,7 @@ fr:
     body_html: "Le cryptage du portefeuille vous permet de sécuriser vos clés privés dans le portefeuille, en vous autorisant à suivre les transactions et le solde de votre compte mais en exigeant un mot de passe pour pouvoir dépenser vos litecoins. <br /> Cela sert à vous protéger contre les virus et chevaux de Troie, mais c'est aussi utile comme étape de vérification supplémentaire avant de procéder au paiement."
   mining_reward:
     title: "Récompense de Minage"
-    body_html: "Les mineurs sont au départ récompensés de 50 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br /> Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
+    body_html: "Les mineurs sont au départ récompensés de 25 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br /> Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
   contact_blurb_html: "Vous pouvez contacter l'équipe de développement de Litecoin à <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. Tous droits réservés."
