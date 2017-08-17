@@ -33,7 +33,7 @@ en:
     title: "Resources"
     body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                               <br />
-                              Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
+                              Up-to-date network statistics can be found at <a href=\"https://live.blockcypher.com/ltc/" target="_blank">Litecoin Block Explorer</a>.
                               <br />
                               Source code for Litecoin Core and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
