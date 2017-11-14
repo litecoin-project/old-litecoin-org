@@ -38,4 +38,4 @@ fi:
     body_html: "Louhijat palkitaan nykyään 25 uudella litecoinilla jokaista lohkoa kohden, kunnes palkkio puolittuu joka 4. vuosi (joka 840,000 lohko). <br /> Litecoin-verkko on ajoitettu luomaan 84 miljoonaa litecoinia, joka on 4 kertaa enemmän kuin Bitcoinissa."
   contact_blurb_html: "Voit ottaa yhteyttä Litecoin projektin kehittäjäryhmään <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
-    copyright: "Tekijänoikeus &copy; 2011-2016 Litecoin Projekti. Kaikki oikeudet pidätetään."
+    copyright: "Tekijänoikeus &copy; 2011-2017 Litecoin Projekti. Kaikki oikeudet pidätetään."

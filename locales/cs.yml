@@ -39,4 +39,4 @@ cs:
     body_html: "Těžiči jsou aktuálně odměňováni 25 novými litecointy za blok, množstvím které se zmenšuje každé 4 roky(každých 840.000 bloků ) na polovinu. <br /> Litecoin síť je navržena na konečnou produkci 84 milionů litecointů, což je čtyřikrát více než bude Bitcointů."
   contact_blurb_html: "Můžeš kontaktovat vývojářský tým projektu Litecoin na <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
-    copyright: "Copyright &copy; 2011-2016 Litecoin Project. Všechna práva vyhrazena."
+    copyright: "Copyright &copy; 2011-2017 Litecoin Project. Všechna práva vyhrazena."
