@@ -1,10 +1,10 @@
 fr:
   lang_name: "Français"
   head:
-    title: "Litecoin - Monnaie électronique décentralisée et open source"
+    title: "Litecoin - Une Monnaie électronique décentralisée et open source"
   intro:
     title: "Litecoin, c'est quoi ?"
-    body: "Litecoin est une devise Internet peer-to-peer, qui permet des paiements instantanés, avec des coûts proches de zéro à quiconque dans le monde. Litecoin est un réseau de paiement mondial open source, qui est entièrement décentralisé sans autorités centrale. Les utilisateurs peuvent mainteant contrôler leurs propres finances, securisées par un systeme basé entierement sur des mathématiques. Par rapport à Bitcoin, les transactions Litecoin sans plus rapides à confirmer et ont une efficacité de stockage accrue. De part son utilisation par l'industrie, le volume d'échange et de liquidité sur les marchés d'échange, Litecoin est un moyen de commerce complémentaire à Bitcoin, qui a fait ses preuves."
+    body: "Le Litecoin est une devise Internet peer-to-peer, qui permet des paiements instantanés, avec des coûts proches de zéro à quiconque dans le monde. Le Litecoin est un réseau de paiement mondial open source, entièrement décentralisé sans autorités centrale. Les utilisateurs peuvent maintenant contrôler leurs propres finances, securisées par un systeme basé entierement sur des mathématiques. Par rapport au Bitcoin, les transactions Litecoin sont plus rapides à confirmer et ont une efficacité de stockage accrue. De part son utilisation par l'industrie, le volume d'échange et de liquidité sur les marchés d'échange, le Litecoin est un moyen de commerce complémentaire au Bitcoin, qui a fait ses preuves."
   download:
     title: "TÉLÉCHARGER"
     for_windows: "pour Windows"
@@ -27,10 +27,10 @@ fr:
     body_html: "Des informations générales ainsi qu'une liste des sites et des bourses (marchés) acceptant Litecoin sont disponibles dans le site collaboratif <a href=\"http://litecoin.info\">(wiki) de Litecoin</a>. <br /> Des statistiques actualisées du réseau Litecoin sont affichées à <a href=\"http://ltc.block-explorer.com/charts\">LiteCoin Block Explorer Charts</a>. <br /> Le code source de Litecoin et des projets similaires sont disponibles sur <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "Logiciel Open Source"
-    body_html: "Litecoin est un projet de logiciel open source publié sous la licence MIT/X11 qui vous donne le pouvoir d'exécuter, modifier et copier le logiciel et à distribuer, à votre choix, des copies modifiées du logiciel. Le logiciel est publié dans un processus transparent qui permet la vérification indépendante des binaires et le code source correspondant."
+    body_html: "Litecoin est un projet open source publié sous la licence MIT/X11 qui vous donne le pouvoir d'exécuter, modifier et copier le logiciel et à distribuer, à votre choix, des copies modifiées du logiciel. Le logiciel est publié dans un processus transparent qui permet la vérification indépendante des binaires et le code source correspondant."
   blockchain:
     title: "Registre des transactions"
-    body_html: "Le blockchain Litecoin est capable de gérer un plus grand volume de transactions que son homologue Bitcoin. Grâce à une génération de blocs plus fréquente, le réseau permet plus de transactions sans avoir à modifier le logiciel. <br />Par conséquent, les marchands ont des délais de confirmation plus courts, et ils peuvent choisir d'attendre plus longtemps pour plus de confirmations avant de livrer les produits plus chers."
+    body_html: "La blockchain Litecoin est capable de gérer un plus grand volume de transactions que son homologue Bitcoin. Grâce à une génération de blocs plus fréquente, le réseau permet plus de transactions sans avoir à modifier le logiciel. <br />Par conséquent, les marchands ont des délais de confirmation plus courts, et ils peuvent choisir d'attendre plus longtemps pour plus de confirmations avant de livrer les produits plus chers."
   wallet_enc:
     title: "Cryptage du Portefeuille"
     body_html: "Le cryptage du portefeuille vous permet de sécuriser vos clés privés dans le portefeuille, en vous autorisant à suivre les transactions et le solde de votre compte mais en exigeant un mot de passe pour pouvoir dépenser vos litecoins. <br /> Cela sert à vous protéger contre les virus et chevaux de Troie, mais c'est aussi utile comme étape de vérification supplémentaire avant de procéder au paiement."
@@ -39,4 +39,4 @@ fr:
     body_html: "Les mineurs sont au départ récompensés de 25 coins par bloc. Le nombre de coins générés est divisé par deux tous les 4 ans (840,000 blocs). <br /> Le réseau Litecoin devrait donc produire environ 4 fois plus d'unités que Bitcoin, soit environ 84 millions de litecoins."
   contact_blurb_html: "Vous pouvez contacter l'équipe de développement de Litecoin à <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>."
   footer:
-    copyright: "Copyright &copy; 2011-2016 Litecoin Project. Tous droits réservés."
+    copyright: "Copyright &copy; 2011-2018 Litecoin Project. Tous droits réservés."
