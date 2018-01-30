@@ -1,0 +1,55 @@
+---
+en:
+  # This is the name of your language in your own language.
+  lang_name: "English"
+  head:
+    title: "Litecoin - Open source P2P digital currency"
+  intro:
+    title: "What is Litecoin?"
+    body: "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.  Litecoin is an open source, global payment network that is fully decentralized without any central authorities.  Mathematics secures the network and empowers individuals to control their own finances.  Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency.  With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
+  download:
+   title: "DOWNLOAD"
+   for_windows: "for Windows"
+   for_linux:   "for GNU/Linux"
+   for_osx:     "for Mac OS X"
+   for_android: "Litecoin for Android"
+   for_blackberry: "Litecoin for BlackBerry"
+   in_development: "IN DEVELOPMENT"
+   coming_soon: "Coming Soon"
+   source: "SOURCE"
+   source_on_github: "Litecoin Core source code <br/> on GitHub"
+   release_notes: "Release Notes..."
+   upgrade_notes: "Upgrade Notes..."
+  community:
+    title: "Community"
+    body_html: "Find support across a growing number of Litecoin communities:
+                    <ul>
+                        <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li>
+                        <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li>
+                        <li><a href=\"https://twitter.com/search?q=litecoin%20-bitcoin&amp;src=typd\">Search for Users on Twitter</a></li>
+                        <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>
+                    </ul>"
+  resources:
+    title: "Resources"
+    body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
+                              <br />
+                              Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
+                              <br />
+                              Source code for Litecoin Core and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+  free_oss:
+    title: "Open Source Software"
+    body_html: "Litecoin is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
+  blockchain:
+    title: "Blockchain"
+    body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. <br />As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
+  wallet_enc:
+    title: "Wallet Encryption"
+    body_html: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins. <br />This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
+  mining_reward:
+    title: "Mining Reward"
+    body_html: "Miners are currently awarded with 25 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks).
+                              <br />
+                              The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
+  contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+  footer:
+    copyright: "Copyright &copy; 2011-2016 Litecoin Project. All rights reserved."
