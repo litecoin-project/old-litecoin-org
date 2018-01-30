@@ -1,28 +1,32 @@
 ---
 en:
   # This is the name of your language in your own language.
-  lang_name: "English"
+  lang_name: "한국어"
   head:
-    title: "Litecoin - Open source P2P digital currency"
+    title: "라이트코인 - 오픈소스 P2P 디지털 화폐"
   intro:
-    title: "What is Litecoin?"
-    body: "Litecoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world.  Litecoin is an open source, global payment network that is fully decentralized without any central authorities.  Mathematics secures the network and empowers individuals to control their own finances.  Litecoin features faster transaction confirmation times and improved storage efficiency than the leading math-based currency.  With substantial industry support, trade volume and liquidity, Litecoin is a proven medium of commerce complementary to Bitcoin."
+    title: "라이트코인이란?"
+    body: "라이트코인은 P2P 인터넷 화폐로 소량의 비용으로 전세계 사람들에게 보낼 수 있고, 즉각적으로 사용가능 하다. 라이트코인은 오픈 소스이며, 탈
+    중앙화 된 글로벌 지불 네트워크이다.  
+    네트워크는 수학으로 안전화가 되어 있어 개개인이 그들의 자금을 관리할 수 있도록 한다. 
+    라이트코인은 수학을 기반으로한 다른 화폐들 보다 더욱 빠른 거래 승인과 향상된 저장 효율성을 특징을 가지고 있다.  
+    라이트코인은 많은 산업의 지원과, 거래량, 유동성으로 비트코인의 보완된 통화 매체로 입증되었다."
   download:
-   title: "DOWNLOAD"
-   for_windows: "for Windows"
-   for_linux:   "for GNU/Linux"
-   for_osx:     "for Mac OS X"
-   for_android: "Litecoin for Android"
-   for_blackberry: "Litecoin for BlackBerry"
-   in_development: "IN DEVELOPMENT"
-   coming_soon: "Coming Soon"
-   source: "SOURCE"
-   source_on_github: "Litecoin Core source code <br/> on GitHub"
-   release_notes: "Release Notes..."
-   upgrade_notes: "Upgrade Notes..."
+   title: "다운로드"
+   for_windows: "Window 용"
+   for_linux:   "GNU/Linux 용"
+   for_osx:     "Mac OS X 용"
+   for_android: "Android 용 라이트코인"
+   for_blackberry: "BlackBerry 용 라이트코인"
+   in_development: "개발중"
+   coming_soon: "출시 임박"
+   source: "소스"
+   source_on_github: "라이트코인 코어 소스코드는 <br/> GitHub에 있음"
+   release_notes: "릴리즈 노트..."
+   upgrade_notes: "업그레이드 노트..."
   community:
-    title: "Community"
-    body_html: "Find support across a growing number of Litecoin communities:
+    title: "커뮤니티"
+    body_html: "성장하고 있는 라이트코인 커뮤니티에서 관련 정보를 찾을 수 있음:
                     <ul>
                         <li><a href=\"https://litecointalk.org\">Litecoin Forums</a></li>
                         <li><a href=\"http://www.reddit.com/r/litecoin\">Reddit Litecoin</a></li>
@@ -30,26 +34,36 @@ en:
                         <li><a href=\"http://freenode.net/\" rel=\"nofollow\">IRC FreeNode</a> network channels <a href=\"http://webchat.freenode.net/?channels=litecoin\" rel=\"nofollow\">#litecoin</a> (for general users) and <a href=\"http://webchat.freenode.net/?channels=litecoin-dev\" rel=\"nofollow\">#litecoin-dev</a> (for developers).</li>
                     </ul>"
   resources:
-    title: "Resources"
-    body_html: "Find general information as well as a list of services and exchanges that support Litecoin at the <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
+    title: "자원"
+    body_html: "라이트코인과 관련된 정보, 서비스, 거래소를 이 사이트에서 찾을 수 있음 <a href=\"http://litecoin.info\">Litecoin Wiki</a>.
                               <br />
-                              Up-to-date network statistics can be found at <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
+                              최신 네트워크 통계를 찾을 수 있음 <a href=\"http://ltc.block-explorer.com/charts\">Litecoin Block Explorer Charts</a>.
                               <br />
-                              Source code for Litecoin Core and related projects are available on <a href=\"https://github.com/litecoin-project\">GitHub</a>."
+                              라이트코인 코어 및 관련 프로젝트 소스코드가 있음 <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
-    title: "Open Source Software"
-    body_html: "Litecoin is an open source software project released under the MIT/X11 license which gives you the power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. The software is released in a transparent process that allows for independent verification of binaries and their corresponding source code."
+    title: "오픈소스 소프트웨어"
+    body_html: "라이트코인Litecoin is an open source software project released under the MIT/X11 license which gives you the 
+    power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. 
+    The software is released in a transparent process that allows for independent verification of binaries and their 
+    corresponding source code."
   blockchain:
     title: "Blockchain"
-    body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. Due to more frequent block generation, the network supports more transactions without a need to modify the software in the future. <br />As a result, merchants get faster confirmation times, while still having ability to wait for more confirmations when selling bigger ticket items."
+    body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. 
+    Due to more frequent block generation, the network supports more transactions without a need to modify the software 
+    in the future. <br />As a result, merchants get faster confirmation times, while still having ability to wait for 
+    more confirmations when selling bigger ticket items."
   wallet_enc:
     title: "Wallet Encryption"
-    body_html: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your account balance, but are required to enter your password before spending litecoins. <br />This provides protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
+    body_html: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your 
+    account balance, but are required to enter your password before spending litecoins. <br />This provides 
+    protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
   mining_reward:
     title: "Mining Reward"
-    body_html: "Miners are currently awarded with 25 new litecoins per block, an amount which gets halved roughly every 4 years (every 840,000 blocks).
+    body_html: "Miners are currently awarded with 25 new litecoins per block, an amount which gets halved roughly every 
+    4 years (every 840,000 blocks).
                               <br />
-                              The Litecoin network is therefore scheduled to produce 84 million litecoins, which is 4 times as many currency units as Bitcoin."
+                              The Litecoin network is therefore scheduled to produce 84 million litecoins, 
+                              which is 4 times as many currency units as Bitcoin."
   contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. All rights reserved."
