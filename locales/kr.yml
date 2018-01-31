@@ -42,28 +42,25 @@ en:
                               라이트코인 코어 및 관련 프로젝트 소스코드가 있음 <a href=\"https://github.com/litecoin-project\">GitHub</a>."
   free_oss:
     title: "오픈소스 소프트웨어"
-    body_html: "라이트코인Litecoin is an open source software project released under the MIT/X11 license which gives you the 
-    power to run, modify, and copy the software and to distribute, at your option, modified copies of the software. 
-    The software is released in a transparent process that allows for independent verification of binaries and their 
-    corresponding source code."
+    body_html: "라이트코인은 소프트웨어를 운영, 수정, 복사하여 배포할 수 있는 MIT/X11 라이센스 아래의 오픈소스 소프트웨어 프로젝트로 당신의 선택에 따라 소프트웨어의
+복사 및 수정이 가능하다. 
+    이 소프트웨어는 바이너리와 그들에 상응하는 소스코드의 개인 검증을 허락하는 투명한 프로세스 하에 배포되었다."
   blockchain:
-    title: "Blockchain"
-    body_html: "The Litecoin blockchain is capable of handling higher transaction volume than its counterpart - Bitcoin. 
-    Due to more frequent block generation, the network supports more transactions without a need to modify the software 
-    in the future. <br />As a result, merchants get faster confirmation times, while still having ability to wait for 
-    more confirmations when selling bigger ticket items."
+    title: "블록체인"
+    body_html: "라이트코인 블록체인은 이의 대응관계에 있는 비트코인 보다 더 높은 거래량을 처리할 수 있다. 
+    더욱 잦은 블록 생성으로 인해, 네트워크는 향후에도 소프트웨어 수정의 필요없이 더 많은 거래를 지지할 수 있다. <br />
+    결과적으로, 판매자는 더욱 빠른 이체확인 시간을 얻을 수 있을 뿐만 아니라, 높은 가치의 아이템을 위한 더 많은 이체확인들을 기다릴 수 있는 능력을 가지고 있다."
   wallet_enc:
-    title: "Wallet Encryption"
-    body_html: "Wallet encryption allows you to secure your wallet, so that you can view transactions and your 
-    account balance, but are required to enter your password before spending litecoins. <br />This provides 
-    protection from wallet-stealing viruses and trojans as well as a sanity check before sending payments."
+    title: "지갑 암호화"
+    body_html: " 지갑 암호화는 당신의 지갑을 안전하게 지켜주도록 하여, 당신이 거래내역과 잔고를 확인할 수 있으나, 라이트코인을 전송하기 전에는 반드시 당신의 비밀번호를 입력하는 것이 요구된다. <br />
+   이는 라이트코인을 훔치는 바이러스와 트로젠 바이러스로 부터 지갑을 보호해줄 뿐만 아니라 금액을 이체하기 전 진정성 확인을 제공한다."
   mining_reward:
-    title: "Mining Reward"
-    body_html: "Miners are currently awarded with 25 new litecoins per block, an amount which gets halved roughly every 
-    4 years (every 840,000 blocks).
+    title: "체굴 보상"
+    body_html: "체굴자들은 현재 블록 한 개에 25개의 라이트코인을 보상받고 있고, 이는 4년 마다 대략 절반이 된다(4년에 840,000 블록).
                               <br />
-                              The Litecoin network is therefore scheduled to produce 84 million litecoins, 
-                              which is 4 times as many currency units as Bitcoin."
-  contact_blurb_html: "You can contact Litecoin project development team at <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
+                              라이트코인 네트워크는 8천4백만개의 라이트코인을 생산할 수 있도록 계획되어 있고, 이는 비트코인의 통화단위의 4배 많은
+값이다."
+  contact_blurb_html: "당신은 라이트코인 프로젝트 개발팀과 이곳에서 연락할 수 있다.
+  <a href=\"mailto:contact@litecoin.org\">contact@litecoin.org</a>"
   footer:
     copyright: "Copyright &copy; 2011-2016 Litecoin Project. All rights reserved."
